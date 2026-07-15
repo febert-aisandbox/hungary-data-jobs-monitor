@@ -1,0 +1,9 @@
+{
+  "queries": [
+    "data analyst", "adatelemző", "BI analyst", "business intelligence",
+    "data scientist", "adattudós", "machine learning engineer", "ML engineer",
+    "analytics engineer", "data engineer", "quantitative analyst", "risk analyst"
+  ],
+  "max_pages_per_query": 20,
+  "delay_seconds": 2.5
+}
