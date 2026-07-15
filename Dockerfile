@@ -12,7 +12,8 @@ WORKDIR /app
 COPY src/ src/
 COPY config/ config/
 COPY deploy/ deploy/
-RUN chmod -R a-w /app \
+RUN find /app -type d -exec chmod 0555 {} + \
+    && find /app -type f -exec chmod 0444 {} + \
     && chmod 0555 deploy/run.sh deploy/run-daily.sh deploy/container-entrypoint.sh \
     && mkdir -p /data \
     && chown monitor:monitor /data
