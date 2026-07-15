@@ -4,9 +4,10 @@ export TZ="${TZ:-Europe/Budapest}"
 NOW_HHMM="${NOW_HHMM:-$(date +%H%M)}"
 (( 10#$NOW_HHMM >= 630 )) || exit 0
 BASE="${BASE:-${HOME}/profession-monitor}"
+APP_DIR="${APP_DIR:-$BASE/app}"
 DATA_DIR="${DATA_DIR:-$BASE/data}"
 LOG_DIR="${LOG_DIR:-$BASE/logs}"
-RUNNER="${RUNNER:-$BASE/app/deploy/run.sh}"
+RUNNER="${RUNNER:-$APP_DIR/deploy/run.sh}"
 STAMP="$DATA_DIR/last-success-date"
 TODAY="${NOW_DATE:-$(date +%F)}"
 [[ -f "$STAMP" && "$(<"$STAMP")" == "$TODAY" ]] && exit 0

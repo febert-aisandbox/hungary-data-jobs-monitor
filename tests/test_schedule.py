@@ -35,6 +35,17 @@ class ScheduleTests(unittest.TestCase):
             subprocess.run([str(SCRIPT)], env=env, check=True)
             self.assertEqual(calls.read_text(), "run")
 
+    def test_uses_configured_app_directory_for_default_runner(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            base=Path(tmp); app=base/"app"; data=base/"data"; calls=base/"calls"
+            (app/"deploy").mkdir(parents=True)
+            runner=app/"deploy"/"run.sh"
+            runner.write_text(f"#!/bin/sh\nprintf run > {calls}\n")
+            runner.chmod(0o755)
+            env={**os.environ,"BASE":str(base/"state"),"APP_DIR":str(app),"DATA_DIR":str(data),"NOW_DATE":"2026-07-15","NOW_HHMM":"0730"}
+            subprocess.run([str(SCRIPT)],env=env,check=True)
+            self.assertEqual(calls.read_text(),"run")
+
     def test_container_entrypoint_can_execute_one_scheduler_tick(self):
         with tempfile.TemporaryDirectory() as tmp:
             calls=Path(tmp)/"calls"
