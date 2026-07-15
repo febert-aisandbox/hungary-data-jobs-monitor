@@ -25,7 +25,7 @@ def build_snapshot(store, run, site_url=SITE_URL):
         "new_jobs": [{**{k:j[k] for k in ("job_id","title","company","url","family","work_mode")},"location":_pretty_location(j["location"])} for j in new_jobs[:25]],
         "active_jobs": [{**{k:j[k] for k in ("job_id","title","company","url","family","work_mode","seniority")},"location":_pretty_location(j["location"])} for j in jobs],
         "history": store.history(30), "site_url": site_url,
-        "methodology": "Public Profession.hu search pages; title-based relevance classification; overlapping queries deduplicated by advertisement ID. Counts represent advertisements, not hires or guaranteed vacancies."
+        "methodology": "Public Profession.hu search pages traversed through their reported page count; title-based relevance classification; overlapping queries and repeated placements deduplicated by advertisement ID. Active means currently observed; no longer observed means absent from two complete runs on distinct days. Counts represent advertisements, not hires or guaranteed distinct vacancies."
     }
 
 def _table(rows):
@@ -38,7 +38,7 @@ def render_html(s):
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hungary Data Jobs Monitor</title><style>
 :root{{--ink:#172033;--muted:#607089;--blue:#2457d6;--pale:#eef3ff;--line:#dce3ef}}*{{box-sizing:border-box}}body{{margin:0;background:#f6f8fc;color:var(--ink);font:16px/1.55 system-ui,sans-serif}}main{{max-width:1100px;margin:auto;background:#fff;min-height:100vh;padding:42px 6vw 70px}}h1{{font-size:clamp(2rem,5vw,3.4rem);line-height:1.05;margin:.2em 0}}.meta{{color:var(--muted)}}.grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin:24px 0}}.metric{{background:var(--pale);padding:18px;border-radius:12px}}.metric b{{display:block;font-size:2rem;color:var(--blue)}}section{{margin-top:38px}}table{{border-collapse:collapse;width:100%}}td,th{{padding:9px;border:1px solid var(--line);text-align:left}}article{{border-bottom:1px solid var(--line);padding:10px 0}}a{{color:var(--blue)}}small{{color:var(--muted)}}
 </style></head><body><main><p class="meta">PROFESSION.HU · DAILY MARKET MONITOR</p><h1>Hungary data jobs</h1><p class="meta">Last successful update: {html.escape(s["updated_at"])}</p>
-<div class="grid"><div class="metric"><b>{s["active_total"]}</b>active relevant ads</div><div class="metric"><b>{s["new_total"]}</b>new this run</div><div class="metric"><b>{s["expired_total"]}</b>recently expired</div><div class="metric"><b>{s["junior_total"]}</b>junior / internship</div><div class="metric"><b>{s["hybrid_remote_total"]}</b>hybrid / remote</div></div>
+<div class="grid"><div class="metric"><b>{s["active_total"]}</b>currently observed relevant ads</div><div class="metric"><b>{s["new_total"]}</b>new this run</div><div class="metric"><b>{s["expired_total"]}</b>not observed for 2 daily runs</div><div class="metric"><b>{s["junior_total"]}</b>junior / internship</div><div class="metric"><b>{s["hybrid_remote_total"]}</b>hybrid / remote</div></div>
 <section><h2>Newly observed</h2><ul>{new_cards}</ul></section>
 <section><h2>Role mix</h2><table><thead><tr><th>Family</th><th>Active ads</th></tr></thead><tbody>{_table(s["role_families"].items())}</tbody></table></section>
 <section><h2>Top locations</h2><table><thead><tr><th>Location</th><th>Ads</th></tr></thead><tbody>{_table(s["top_locations"])}</tbody></table></section>
@@ -52,7 +52,7 @@ def _md_text(value):
 
 def render_digest(s):
     roles = ", ".join(f"{_md_text(k)}: {v}" for k,v in s["role_families"].items()) or "none"
-    lines = [f"**Hungary data jobs — {s['report_date']}**", f"Active: **{s['active_total']}** · New: **{s['new_total']}** · Expired: **{s['expired_total']}**", f"Junior/internship: **{s['junior_total']}** · Hybrid/remote: **{s['hybrid_remote_total']}**", f"Role mix: {roles}"]
+    lines = [f"**Hungary data jobs — {s['report_date']}**", f"Observed: **{s['active_total']}** · New: **{s['new_total']}** · No longer observed: **{s['expired_total']}**", f"Junior/internship: **{s['junior_total']}** · Hybrid/remote: **{s['hybrid_remote_total']}**", f"Role mix: {roles}"]
     if s["new_jobs"]:
         lines.append("\n**Noteworthy new listings**")
         for j in s["new_jobs"][:8]: lines.append(f"- [{_md_text(j['title'])}]({j['url']}) — {_md_text(j['company'])} \\({_md_text(j['location'] or 'location unspecified')}\\)")

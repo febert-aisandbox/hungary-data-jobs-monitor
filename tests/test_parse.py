@@ -27,4 +27,9 @@ class ParseTests(unittest.TestCase):
         for value in ("javascript:alert(1)", "https://evil.example/allas/x"):
             with self.assertRaises(ValueError): normalize_url(value)
 
+    def test_reads_db_total_and_falls_back_for_short_page(self):
+        source=FIXTURE.read_text()
+        self.assertEqual(parse_search_page(source.replace("42 állásajánlat","- 33 db -")).total_results,33)
+        self.assertEqual(parse_search_page(source.replace("42 állásajánlat","no count")).total_results,2)
+
 if __name__ == "__main__": unittest.main()

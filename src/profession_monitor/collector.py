@@ -54,7 +54,6 @@ def collect_queries(queries: list[str], max_pages: int, fetcher: Callable[[str],
         jobs={}
         try:
             signatures=set()
-            raw_seen=set()
             fully_covered=False
             expected_total=None
             for page in range(1,max_pages+1):
@@ -70,9 +69,6 @@ def collect_queries(queries: list[str], max_pages: int, fetcher: Callable[[str],
                 if len(page_ids) != expected_cards:
                     kind="short page: " if len(page_ids)<expected_cards else ""
                     raise ValueError(f"{kind}expected {expected_cards} cards on page {page}, got {len(page_ids)}")
-                overlap=raw_seen & page_ids
-                if overlap: raise ValueError(f"cross-page duplicate IDs on page {page}")
-                raw_seen.update(page_ids)
                 for job in parsed.jobs:
                     cls=classify_job(job.title,job.card_text)
                     if cls.relevant and is_hungary_market_job(job.location):

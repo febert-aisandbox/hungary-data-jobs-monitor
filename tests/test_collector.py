@@ -49,10 +49,10 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(result,{})
         self.assertTrue(any("expected 19 cards" in error for error in errors))
 
-    def test_rejects_cross_page_overlap(self):
+    def test_deduplicates_cross_page_overlap(self):
         def fetch(url): return make_page(40,1,20) if "/1,0,0," in url else make_page(40,11,20)
         result,errors=collect_queries(["data analyst"],2,fetch)
-        self.assertEqual(result,{})
-        self.assertTrue(any("cross-page duplicate" in error for error in errors))
+        self.assertEqual(errors,[])
+        self.assertEqual(len(result["data analyst"]),30)
 
 if __name__ == "__main__": unittest.main()

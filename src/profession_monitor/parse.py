@@ -72,9 +72,12 @@ def parse_search_page(source: str) -> ParseResult:
     parser.feed(source)
     if not parser.jobs:
         raise ValueError("Profession.hu parser found zero job cards")
-    match = re.search(r"([\d\s]+)\s+(?:állásajánlat|ajánlat)", source, re.I)
-    if not match:
+    match = re.search(r"([\d\s]+)\s+(?:állásajánlat|ajánlat)", source, re.I) or re.search(r"-\s*([\d\s]+)\s*db\s*-",source,re.I)
+    if match:
+        total = int(re.sub(r"\s", "", match.group(1)))
+    elif len(parser.jobs)<20:
+        total=len(parser.jobs)
+    else:
         raise ValueError("Profession.hu total-result marker missing")
-    total = int(re.sub(r"\s", "", match.group(1)))
     unique = {job.job_id: job for job in parser.jobs}
     return ParseResult(list(unique.values()), total)
