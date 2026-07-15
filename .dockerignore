@@ -1,0 +1,8 @@
+**
+!Dockerfile
+!src/
+!src/**
+!config/
+!config/**
+!deploy/
+!deploy/**

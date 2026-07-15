@@ -15,11 +15,29 @@ PYTHONPATH=src python3 -m profession_monitor --db data/market.db --output docs -
 
 Production collection uses `config/searches.json`, 2.5 seconds plus jitter between requests, and follows each query through its complete reported result set (with a 20-page safety cap). It uses a stable User-Agent and aborts publication after parser, pagination-consistency, or network failures. It never bypasses login, CAPTCHA, rate limits, or access controls.
 
+## Docker deployment
+
+The production collector runs entirely inside a non-root, read-only Docker container. Its scheduler polls every 15 minutes, executes once after 06:30 Europe/Budapest, and retries until publication succeeds. SQLite, the success stamp, generated artifacts, and logs live in the `profession-monitor-data` named volume. The publishing token remains in a mode-600 host file mounted read-only; building with the host UID/GID lets the unprivileged container process read that single file without exposing it through `docker inspect`. No host Python packages or cron entries are required.
+
+```bash
+docker build \
+  --build-arg MONITOR_UID="$(id -u)" \
+  --build-arg MONITOR_GID="$(id -g)" \
+  -t profession-monitor:latest .
+docker volume create profession-monitor-data
+docker run -d --name profession-monitor --restart unless-stopped \
+  --read-only --cap-drop ALL --security-opt no-new-privileges \
+  --pids-limit 64 --memory 256m --tmpfs /tmp:rw,nosuid,nodev,noexec,size=16m \
+  -v profession-monitor-data:/data \
+  -v "$HOME/.config/profession-monitor/env:/run/secrets/profession-monitor.env:ro" \
+  profession-monitor:latest
+```
+
 ## Files
 
-- `data/market.db` — persistent history (not committed)
-- `docs/index.html` — dashboard
-- `docs/daily.json` — machine-readable report
-- `docs/daily.txt` — Telegram-ready digest
+- `/data/market.db` — persistent history in the Docker volume
+- `/data/docs/index.html` — generated dashboard artifact
+- `/data/docs/daily.json` — machine-readable report
+- `/data/docs/daily.txt` — Telegram-ready digest
 
 Public dashboard: https://febert-aisandbox.github.io/hungary-data-jobs-monitor/
