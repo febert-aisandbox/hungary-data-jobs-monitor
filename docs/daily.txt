@@ -1,17 +1,14 @@
-**Hungary data jobs — 2026-07-15**
-Observed: **59** · New: **59** · No longer observed: **0**
-Junior/internship: **12** · Hybrid/remote: **32**
-Role mix: data\-science\-ml: 20, analyst\-bi: 18, data\-engineering: 16, quant\-risk: 5
+**Hungary data jobs — 2026-07-16**
+Observed: **64** · New: **5** · No longer observed: **0**
+Junior/internship: **13** · Hybrid/remote: **36**
+Role mix: data\-science\-ml: 21, data\-engineering: 20, analyst\-bi: 18, quant\-risk: 5
 
 **Noteworthy new listings**
-- [AI Engineer gyakornok \- diákmunka](https://www.profession.hu/allas/ai-engineer-gyakornok-diakmunka-mind-diak-szovetkezet-2941266) — Mind\-Diák Szövetkezet \(Pest county\)
-- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-2944404) — SnapSoft Informatikai és Szolgáltató Kft\. \(Pest county\)
-- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-2945617) — Lufthansa Systems Hungária Kft\. \(Pest county\)
-- [AI/ML Engineer \- Szeged](https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2945546) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
-- [Accounts Payable Senior Vendor Master Data Analyst](https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-2948941) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
-- [Adatelemző Szakértő](https://www.profession.hu/allas/adatelemzo-szakerto-unicredit-bank-zrt-budapest-2943510) — UniCredit Bank Zrt\. \(Pest county, Budapest\)
-- [Adattudós \(Szenior Power BI /BI szakértő\)](https://www.profession.hu/allas/adattudos-szenior-power-bi-bi-szakerto-magyar-posta-zrt-budapest-2928938) — Magyar Posta Zrt\. \(Pest county, Budapest\)
-- [BI Analyst](https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-2935497) — Cushman & Wakefield Kft\. \(Pest county\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-2951026) — Lufthansa Systems Hungária Kft\. \(Pest county\)
+- [Data Engineer \- Szeged](https://www.profession.hu/allas/data-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2951055) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
+- [Lead ML Engineer](https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2938531) — greeHill Europe Kft\. \(Pest county\)
+- [Senior Data Engineer \(Databricks\) \- Spain](https://www.profession.hu/allas/senior-data-engineer-databricks-spain-datapao-kft-2945484) — DATAPAO Kft\. \(Országos\)
+- [Senior Data Engineer / Scala, Spark](https://www.profession.hu/allas/senior-data-engineer-scala-spark-high-tech-engineering-center-kft-budapest-2947506) — High Tech Engineering Center Kft\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
