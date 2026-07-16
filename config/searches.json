@@ -4,6 +4,6 @@
     "data scientist", "adattudós", "machine learning engineer", "ML engineer",
     "analytics engineer", "data engineer", "quantitative analyst", "risk analyst"
   ],
-  "max_pages_per_query": 20,
+  "max_pages_per_query": 30,
   "delay_seconds": 2.5
 }

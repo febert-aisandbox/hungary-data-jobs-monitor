@@ -13,7 +13,7 @@ PYTHONPATH=src python3 -m unittest discover -s tests -v
 PYTHONPATH=src python3 -m profession_monitor --db data/market.db --output docs --delay 0 --max-pages 1
 ```
 
-Production collection uses `config/searches.json`, 2.5 seconds plus jitter between requests, and follows each query through its complete reported result set (with a 20-page safety cap). It uses a stable User-Agent and aborts publication after parser, pagination-consistency, or network failures. It never bypasses login, CAPTCHA, rate limits, or access controls.
+Production collection uses `config/searches.json`, 2.5 seconds plus jitter between requests, and follows each query through its complete reported result set (with a 30-page safety cap covering up to 600 raw placements per query before deduplication and relevance filtering). It uses a stable User-Agent and aborts publication after parser, pagination-consistency, or network failures. It never bypasses login, CAPTCHA, rate limits, or access controls.
 
 ## Docker deployment
 

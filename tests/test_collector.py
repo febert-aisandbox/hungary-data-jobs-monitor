@@ -1,14 +1,52 @@
+import json
+import re
 import unittest
 from pathlib import Path
 from profession_monitor.collector import build_search_url, collect_queries, validate_response
+
+CONFIG = Path(__file__).parents[1] / "config" / "searches.json"
 
 def make_page(total,start,count):
     cards="".join(f'<li class="advertisement-result-list-item" data-prof-id="{i}" data-link="https://www.profession.hu/allas/data-analyst-{i}" data-item-name="Data Analyst" data-item-brand="ACME" data-location-id="Budapest">SQL</li>' for i in range(start,start+count))
     return f'<html><title>{total} állásajánlat</title><ul>{cards}</ul></html>'
 
+def page_number(url):
+    return int(re.search(r"/(\d+),0,0,",url).group(1))
+
 FIXTURE=(Path(__file__).parent/"fixtures"/"search_page.html").read_text()
 
 class CollectorTests(unittest.TestCase):
+    def test_production_pagination_ceiling_is_30_pages(self):
+        config = json.loads(CONFIG.read_text(encoding="utf-8"))
+        self.assertEqual(config["max_pages_per_query"], 30)
+
+    def test_30_page_ceiling_covers_401_result_query(self):
+        calls=[]
+        def fetch(url):
+            page=page_number(url)
+            calls.append(page)
+            count=20 if page<=20 else 1
+            return make_page(401,(page-1)*20+1,count)
+
+        result,errors=collect_queries(["business intelligence"],30,fetch)
+
+        self.assertEqual(errors,[])
+        self.assertIn("business intelligence",result)
+        self.assertEqual(calls,list(range(1,22)))
+
+    def test_30_page_ceiling_rejects_601_result_query(self):
+        calls=[]
+        def fetch(url):
+            page=page_number(url)
+            calls.append(page)
+            return make_page(601,(page-1)*20+1,20)
+
+        result,errors=collect_queries(["business intelligence"],30,fetch)
+
+        self.assertEqual(result,{})
+        self.assertTrue(any("query truncated after 30 pages" in error for error in errors))
+        self.assertEqual(calls,list(range(1,31)))
+
     def test_builds_encoded_profession_search_url(self):
         url=build_search_url("data analyst",2)
         self.assertIn("/data-analyst/2,0,0,data+analyst",url)
