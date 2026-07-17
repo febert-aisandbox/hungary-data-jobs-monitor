@@ -1,15 +1,15 @@
 {
-  "report_date": "2026-07-16",
-  "updated_at": "2026-07-16 09:53 CEST",
+  "report_date": "2026-07-17",
+  "updated_at": "2026-07-17 06:46 CEST",
   "status": "success",
-  "active_total": 64,
-  "new_total": 5,
+  "active_total": 65,
+  "new_total": 1,
   "expired_total": 0,
   "junior_total": 13,
   "hybrid_remote_total": 36,
   "role_families": {
     "data-science-ml": 21,
-    "data-engineering": 20,
+    "data-engineering": 21,
     "analyst-bi": 18,
     "quant-risk": 5
   },
@@ -20,7 +20,7 @@
     ],
     [
       "Pest county, Budapest",
-      14
+      15
     ],
     [
       "Országos",
@@ -58,7 +58,7 @@
   "top_skills": [
     [
       "English",
-      61
+      62
     ],
     [
       "Python",
@@ -70,11 +70,11 @@
     ],
     [
       "Azure",
-      23
+      24
     ],
     [
       "AWS",
-      16
+      17
     ],
     [
       "Machine learning",
@@ -107,46 +107,10 @@
   ],
   "new_jobs": [
     {
-      "job_id": "2951026",
-      "title": "Data Engineer",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-2951026",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2951055",
-      "title": "Data Engineer - Szeged",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2951055",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Csongrád-Csanád county, Szeged"
-    },
-    {
-      "job_id": "2938531",
-      "title": "Lead ML Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2938531",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2945484",
-      "title": "Senior Data Engineer (Databricks) - Spain",
-      "company": "DATAPAO Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-databricks-spain-datapao-kft-2945484",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2947506",
-      "title": "Senior Data Engineer / Scala, Spark",
-      "company": "High Tech Engineering Center Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-scala-spark-high-tech-engineering-center-kft-budapest-2947506",
+      "job_id": "2951951",
+      "title": "Senior Data Engineer",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-budapest-2951951",
       "family": "data-engineering",
       "work_mode": "",
       "location": "Pest county, Budapest"
@@ -252,16 +216,6 @@
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
       "location": "Pest county, Üllő"
-    },
-    {
-      "job_id": "2943045",
-      "title": "Business Analyst (Data Analytics) - REF5514W",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/business-analyst-data-analytics-ref-w-deutsche-telekom-tsi-hungary-kft-pecs-2943045",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "1-3 years experience",
-      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2927610",
@@ -384,16 +338,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2943231",
-      "title": "Junior Data Engineer",
-      "company": "NIX Tech Kft.",
-      "url": "https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-2943231",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2942260",
       "title": "Junior adatelemző",
       "company": "M. L. ENERGY Kft.",
@@ -414,10 +358,10 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2938531",
-      "title": "Lead ML Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2938531",
+      "job_id": "2926364",
+      "title": "Machine Learning Tech Lead",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-2926364",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "senior",
@@ -472,16 +416,6 @@
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
       "location": "Pest county"
-    },
-    {
-      "job_id": "2926769",
-      "title": "QA Data Analyst",
-      "company": "Cloud Network Technology Kft.",
-      "url": "https://www.profession.hu/allas/qa-data-analyst-cloud-network-technology-kft-komarom-2926769",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "1-3 years experience",
-      "location": "Komárom-Esztergom county, Komárom"
     },
     {
       "job_id": "2930304",
@@ -594,6 +528,16 @@
       "location": "Országos"
     },
     {
+      "job_id": "2943043",
+      "title": "Senior Credit Risk Analyst with afternoon shift",
+      "company": "Arconic-Köfém Mill Products Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-credit-risk-analyst-with-afternoon-shift-arconic-kofem-mill-products-hungary-kft-2943043",
+      "family": "quant-risk",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Országos"
+    },
+    {
       "job_id": "2947388",
       "title": "Senior Credit Risk Analyst with afternoon shift",
       "company": "Arconic-Köfém Mill Products Hungary Kft. Shared Services",
@@ -634,10 +578,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2945601",
+      "job_id": "2951951",
       "title": "Senior Data Engineer",
       "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-budapest-2945601",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-budapest-2951951",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
@@ -678,16 +622,6 @@
       "title": "Senior Data Engineer (Databricks) - Spain",
       "company": "DATAPAO Kft.",
       "url": "https://www.profession.hu/allas/senior-data-engineer-databricks-spain-datapao-kft-2945484",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2943014",
-      "title": "Senior Data Engineer (Databricks) - UK",
-      "company": "DATAPAO Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-databricks-uk-datapao-kft-2943014",
       "family": "data-engineering",
       "work_mode": "Hibrid",
       "seniority": "junior",
@@ -774,23 +708,63 @@
       "location": "Unspecified"
     },
     {
-      "job_id": "2926364",
-      "title": "Machine Learning Tech Lead",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-2926364",
+      "job_id": "2943045",
+      "title": "Business Analyst (Data Analytics) - REF5514W",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/business-analyst-data-analytics-ref-w-deutsche-telekom-tsi-hungary-kft-pecs-2943045",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Pest county, Pécs"
+    },
+    {
+      "job_id": "2943231",
+      "title": "Junior Data Engineer",
+      "company": "NIX Tech Kft.",
+      "url": "https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-2943231",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2938531",
+      "title": "Lead ML Engineer",
+      "company": "greeHill Europe Kft.",
+      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2938531",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "senior",
       "location": "Pest county"
     },
     {
-      "job_id": "2943043",
-      "title": "Senior Credit Risk Analyst with afternoon shift",
-      "company": "Arconic-Köfém Mill Products Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-credit-risk-analyst-with-afternoon-shift-arconic-kofem-mill-products-hungary-kft-2943043",
-      "family": "quant-risk",
+      "job_id": "2926769",
+      "title": "QA Data Analyst",
+      "company": "Cloud Network Technology Kft.",
+      "url": "https://www.profession.hu/allas/qa-data-analyst-cloud-network-technology-kft-komarom-2926769",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Komárom-Esztergom county, Komárom"
+    },
+    {
+      "job_id": "2945601",
+      "title": "Senior Data Engineer",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-budapest-2945601",
+      "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2943014",
+      "title": "Senior Data Engineer (Databricks) - UK",
+      "company": "DATAPAO Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-databricks-uk-datapao-kft-2943014",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
       "location": "Országos"
     }
   ],
@@ -807,6 +781,13 @@
       "status": "success",
       "active_count": 64,
       "new_count": 5,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-07-17T04:46:00.394870+00:00",
+      "status": "success",
+      "active_count": 65,
+      "new_count": 1,
       "expired_count": 0
     }
   ],
