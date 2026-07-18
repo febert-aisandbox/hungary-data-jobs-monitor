@@ -1,10 +1,14 @@
-**Hungary data jobs — 2026-07-17**
-Observed: **65** · New: **1** · No longer observed: **0**
-Junior/internship: **13** · Hybrid/remote: **36**
-Role mix: data\-science\-ml: 21, data\-engineering: 21, analyst\-bi: 18, quant\-risk: 5
+**Hungary data jobs — 2026-07-18**
+Observed: **66** · New: **5** · No longer observed: **4**
+Junior/internship: **13** · Hybrid/remote: **38**
+Role mix: data\-science\-ml: 23, data\-engineering: 20, analyst\-bi: 18, quant\-risk: 5
 
 **Noteworthy new listings**
-- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-budapest-2951951) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [Databricks & Snowflake Data Engineer \(Spanish\-speaking\) \_ Contractor](https://www.profession.hu/allas/databricks-snowflake-data-engineer-spanish-speaking-contractor-hiflylabs-zrt-2953047) — Hiflylabs Zrt\. \(Országos\)
+- [Energetikai adatelemző](https://www.profession.hu/allas/energetikai-adatelemzo-ziehl-abegg-kft-marcali-2952356) — ZIEHL\-ABEGG Kft\. \(Somogy county, Marcali\)
+- [GBS Data Analytics, Sr\. Analyst](https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2953029) — International Flavors & Fragrances I\.F\.F\. \(Hungary\) Kft\. \(Pest county\)
+- [Machine Learning Tech Lead](https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-2952984) — Betsson Group \(Pest county\)
+- [Senior Data Scientist with AI product mindset](https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-budapest-2953048) — Hiflylabs Zrt\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
