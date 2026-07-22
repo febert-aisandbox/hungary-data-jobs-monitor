@@ -1,11 +1,17 @@
-**Hungary data jobs — 2026-07-19**
-Observed: **65** · New: **2** · No longer observed: **3**
-Junior/internship: **14** · Hybrid/remote: **37**
-Role mix: data\-science\-ml: 22, analyst\-bi: 19, data\-engineering: 19, quant\-risk: 5
+**Hungary data jobs — 2026-07-22**
+Observed: **72** · New: **8** · No longer observed: **1**
+Junior/internship: **14** · Hybrid/remote: **39**
+Role mix: data\-science\-ml: 24, data\-engineering: 23, analyst\-bi: 20, quant\-risk: 5
 
 **Noteworthy new listings**
-- [AI Engineer](https://www.profession.hu/allas/ai-engineer-greif-hungary-packaging-kft-2943115) — Greif Hungary Packaging Kft\. \(Pest county\)
-- [Business Intelligence Engineer – MOHU \(MOL Csoport\)](https://www.profession.hu/allas/business-intelligence-engineer-mohu-mol-csoport-mohu-mol-hulladekgazdalkodasi-zrt-budapest-2950143) — MOHU MOL Hulladékgazdálkodási Zrt\. \(Pest county, Budapest\)
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-thyssenkrupp-components-technology-hungary-kft-2954808) — thyssenkrupp Components Technology Hungary Kft\. \(Pest county\)
+- [AI Engineer \(REF5308Q\)](https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-debrecen-2954520) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-betsson-group-2954506) — Betsson Group \(Pest county\)
+- [Data Engineer \(REF5482T\)](https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-debrecen-2954679) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
+- [Data Engineer \(REF5635Y\)](https://www.profession.hu/allas/data-engineer-ref-y-deutsche-telekom-tsi-hungary-kft-debrecen-2954542) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
+- [Senior Data Analyst \- German Speaking \(REF5252U\)](https://www.profession.hu/allas/senior-data-analyst-german-speaking-ref-u-deutsche-telekom-tsi-hungary-kft-debrecen-2954688) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
+- [Senior Data Engineer \- Power Platform \- REF5084T](https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-debrecen-2954574) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
+- [Senior Marketing Data Analyst \(german speaking\)](https://www.profession.hu/allas/senior-marketing-data-analyst-german-speaking-vois-budapest-2955124/pro) — VOIS \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
