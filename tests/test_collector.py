@@ -16,6 +16,11 @@ def page_number(url):
 FIXTURE=(Path(__file__).parent/"fixtures"/"search_page.html").read_text()
 
 class CollectorTests(unittest.TestCase):
+    def test_production_queries_exclude_broken_accented_keyword(self):
+        config = json.loads(CONFIG.read_text(encoding="utf-8"))
+        self.assertNotIn("adattudós", config["queries"])
+        self.assertEqual(len(config["queries"]), 11)
+
     def test_production_pagination_ceiling_is_30_pages(self):
         config = json.loads(CONFIG.read_text(encoding="utf-8"))
         self.assertEqual(config["max_pages_per_query"], 30)
