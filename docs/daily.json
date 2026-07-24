@@ -1,16 +1,16 @@
 {
-  "report_date": "2026-07-23",
-  "updated_at": "2026-07-23 06:41 CEST",
+  "report_date": "2026-07-24",
+  "updated_at": "2026-07-24 06:47 CEST",
   "status": "success",
-  "active_total": 68,
-  "new_total": 2,
-  "expired_total": 6,
-  "junior_total": 15,
+  "active_total": 67,
+  "new_total": 0,
+  "expired_total": 1,
+  "junior_total": 14,
   "hybrid_remote_total": 37,
   "role_families": {
     "data-science-ml": 22,
     "data-engineering": 22,
-    "analyst-bi": 20,
+    "analyst-bi": 19,
     "quant-risk": 4
   },
   "top_locations": [
@@ -27,7 +27,7 @@
       7
     ],
     [
-      "Pest county, Szeged",
+      "Pest county, Pécs",
       5
     ],
     [
@@ -58,15 +58,15 @@
   "top_skills": [
     [
       "English",
-      67
+      66
     ],
     [
       "Python",
-      40
+      39
     ],
     [
       "SQL",
-      29
+      28
     ],
     [
       "Azure",
@@ -74,11 +74,11 @@
     ],
     [
       "AWS",
-      16
+      15
     ],
     [
       "Machine learning",
-      15
+      14
     ],
     [
       "Power BI",
@@ -105,26 +105,7 @@
       3
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "2956606",
-      "title": "Accounts Payable Senior Vendor Master Data Analyst",
-      "company": "Thermo Services (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-2956606",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2956618",
-      "title": "Master Data Analyst",
-      "company": "Thermo Services (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/master-data-analyst-thermo-services-hungary-kft-2956618",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "2943115",
@@ -150,11 +131,11 @@
       "job_id": "2954520",
       "title": "AI Engineer (REF5308Q)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-szeged-2954520",
+      "url": "https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-pecs-2954520",
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Szeged"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2941266",
@@ -195,16 +176,6 @@
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Csongrád-Csanád county, Szeged"
-    },
-    {
-      "job_id": "2948941",
-      "title": "Accounts Payable Senior Vendor Master Data Analyst",
-      "company": "Thermo Services (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-2948941",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
     },
     {
       "job_id": "2956606",
@@ -307,34 +278,24 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2954506",
-      "title": "Data Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/data-engineer-betsson-group-2954506",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2954679",
       "title": "Data Engineer (REF5482T)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-szeged-2954679",
+      "url": "https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-2954679",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "1-3 years experience",
-      "location": "Pest county, Szeged"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2954542",
       "title": "Data Engineer (REF5635Y)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-ref-y-deutsche-telekom-tsi-hungary-kft-szeged-2954542",
+      "url": "https://www.profession.hu/allas/data-engineer-ref-y-deutsche-telekom-tsi-hungary-kft-pecs-2954542",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Szeged"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2951055",
@@ -397,6 +358,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "2953029",
+      "title": "GBS Data Analytics, Sr. Analyst",
+      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2953029",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "2942260",
       "title": "Junior adatelemző",
       "company": "M. L. ENERGY Kft.",
@@ -447,16 +418,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2948917",
-      "title": "Master Data Analyst",
-      "company": "Thermo Services (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/master-data-analyst-thermo-services-hungary-kft-2948917",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2956618",
       "title": "Master Data Analyst",
       "company": "Thermo Services (Hungary) Kft.",
@@ -503,7 +464,7 @@
       "url": "https://www.profession.hu/allas/quantitative-modeler-associate-blackrock-hungary-kft-2949824",
       "family": "quant-risk",
       "work_mode": "",
-      "seniority": "professional experience is not required",
+      "seniority": "senior",
       "location": "Pest county"
     },
     {
@@ -610,11 +571,11 @@
       "job_id": "2954688",
       "title": "Senior Data Analyst - German Speaking (REF5252U)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-analyst-german-speaking-ref-u-deutsche-telekom-tsi-hungary-kft-szeged-2954688",
+      "url": "https://www.profession.hu/allas/senior-data-analyst-german-speaking-ref-u-deutsche-telekom-tsi-hungary-kft-pecs-2954688",
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Szeged"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2935842",
@@ -690,11 +651,11 @@
       "job_id": "2954574",
       "title": "Senior Data Engineer - Power Platform - REF5084T",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-szeged-2954574",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-2954574",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Szeged"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2942026",
@@ -787,23 +748,33 @@
       "location": "Unspecified"
     },
     {
-      "job_id": "2931216",
-      "title": "Diákmunka - Data Analyst – Logistics Intern",
-      "company": "MŰISZ Iskolaszövetkezet",
-      "url": "https://www.profession.hu/allas/diakmunka-data-analyst-logistics-intern-muisz-iskolaszovetkezet-debrecen-2931216",
+      "job_id": "2948941",
+      "title": "Accounts Payable Senior Vendor Master Data Analyst",
+      "company": "Thermo Services (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-2948941",
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "junior",
-      "location": "Hajdú-Bihar county, Debrecen"
+      "location": "Pest county"
     },
     {
-      "job_id": "2953029",
-      "title": "GBS Data Analytics, Sr. Analyst",
-      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2953029",
+      "job_id": "2954506",
+      "title": "Data Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/data-engineer-betsson-group-2954506",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2948917",
+      "title": "Master Data Analyst",
+      "company": "Thermo Services (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/master-data-analyst-thermo-services-hungary-kft-2948917",
       "family": "analyst-bi",
       "work_mode": "Hibrid",
-      "seniority": "junior",
+      "seniority": "1-3 years experience",
       "location": "Pest county"
     }
   ],
@@ -856,6 +827,13 @@
       "active_count": 68,
       "new_count": 2,
       "expired_count": 6
+    },
+    {
+      "completed_at": "2026-07-24T04:47:37.964490+00:00",
+      "status": "success",
+      "active_count": 67,
+      "new_count": 0,
+      "expired_count": 1
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",

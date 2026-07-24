@@ -1,11 +1,7 @@
-**Hungary data jobs — 2026-07-23**
-Observed: **68** · New: **2** · No longer observed: **6**
-Junior/internship: **15** · Hybrid/remote: **37**
-Role mix: data\-science\-ml: 22, data\-engineering: 22, analyst\-bi: 20, quant\-risk: 4
-
-**Noteworthy new listings**
-- [Accounts Payable Senior Vendor Master Data Analyst](https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-2956606) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
-- [Master Data Analyst](https://www.profession.hu/allas/master-data-analyst-thermo-services-hungary-kft-2956618) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
+**Hungary data jobs — 2026-07-24**
+Observed: **67** · New: **0** · No longer observed: **1**
+Junior/internship: **14** · Hybrid/remote: **37**
+Role mix: data\-science\-ml: 22, data\-engineering: 22, analyst\-bi: 19, quant\-risk: 4
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
