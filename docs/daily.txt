@@ -1,7 +1,14 @@
-**Hungary data jobs — 2026-07-24**
-Observed: **67** · New: **0** · No longer observed: **1**
-Junior/internship: **14** · Hybrid/remote: **37**
-Role mix: data\-science\-ml: 22, data\-engineering: 22, analyst\-bi: 19, quant\-risk: 4
+**Hungary data jobs — 2026-07-25**
+Observed: **69** · New: **5** · No longer observed: **3**
+Junior/internship: **14** · Hybrid/remote: **39**
+Role mix: data\-science\-ml: 27, data\-engineering: 21, analyst\-bi: 17, quant\-risk: 4
+
+**Noteworthy new listings**
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-envision-pharma-kft-2958593) — Envision Pharma Kft\. \(Országos\)
+- [Adatelemzési szakértő \(Data Scientist\)](https://www.profession.hu/allas/adatelemzesi-szakerto-data-scientist-alfa-vienna-insurance-group-biztosito-zrt-budapest-2958063) — Alfa Vienna Insurance Group Biztosító Zrt\. \(Pest county, Budapest\)
+- [Lead AI Engineer](https://www.profession.hu/allas/lead-ai-engineer-hydro-extrusion-hungary-kft-szekesfehervar-2957975) — Hydro Extrusion Hungary Kft\. \(Fejér county, Székesfehérvár\)
+- [Principal Computer Vision / Machine Learning Engineer](https://www.profession.hu/allas/principal-computer-vision-machine-learning-engineer-hawk-eye-innovations-ltd-2958623) — Hawk\-Eye Innovations Ltd\. \(Országos\)
+- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2958583) — Hawk\-Eye Innovations Ltd\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
