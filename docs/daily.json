@@ -1,22 +1,22 @@
 {
-  "report_date": "2026-07-25",
-  "updated_at": "2026-07-25 06:38 CEST",
+  "report_date": "2026-07-26",
+  "updated_at": "2026-07-26 06:45 CEST",
   "status": "success",
-  "active_total": 69,
-  "new_total": 5,
-  "expired_total": 3,
+  "active_total": 67,
+  "new_total": 0,
+  "expired_total": 2,
   "junior_total": 14,
-  "hybrid_remote_total": 39,
+  "hybrid_remote_total": 38,
   "role_families": {
     "data-science-ml": 27,
-    "data-engineering": 21,
-    "analyst-bi": 17,
+    "data-engineering": 20,
+    "analyst-bi": 16,
     "quant-risk": 4
   },
   "top_locations": [
     [
       "Pest county",
-      32
+      31
     ],
     [
       "Pest county, Budapest",
@@ -24,7 +24,7 @@
     ],
     [
       "Országos",
-      9
+      8
     ],
     [
       "Pest county, Pécs",
@@ -58,11 +58,11 @@
   "top_skills": [
     [
       "English",
-      68
+      66
     ],
     [
       "Python",
-      43
+      42
     ],
     [
       "SQL",
@@ -86,7 +86,7 @@
     ],
     [
       "Spark",
-      11
+      10
     ],
     [
       "Tableau",
@@ -105,53 +105,7 @@
       3
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "2958593",
-      "title": "AI Engineer",
-      "company": "Envision Pharma Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-envision-pharma-kft-2958593",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2958063",
-      "title": "Adatelemzési szakértő (Data Scientist)",
-      "company": "Alfa Vienna Insurance Group Biztosító Zrt.",
-      "url": "https://www.profession.hu/allas/adatelemzesi-szakerto-data-scientist-alfa-vienna-insurance-group-biztosito-zrt-budapest-2958063",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2957975",
-      "title": "Lead AI Engineer",
-      "company": "Hydro Extrusion Hungary Kft.",
-      "url": "https://www.profession.hu/allas/lead-ai-engineer-hydro-extrusion-hungary-kft-szekesfehervar-2957975",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Fejér county, Székesfehérvár"
-    },
-    {
-      "job_id": "2958623",
-      "title": "Principal Computer Vision / Machine Learning Engineer",
-      "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/principal-computer-vision-machine-learning-engineer-hawk-eye-innovations-ltd-2958623",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2958583",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2958583",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "2943115",
@@ -304,16 +258,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2933082",
-      "title": "DATA ENGINEER (JT)",
-      "company": "Tech People Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-jt-tech-people-hungary-kft-budapest-2933082",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "5-10 years experience",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "2939085",
       "title": "Data Analytics & Reporting Specialist",
       "company": "SPS Germany GmbH Magyarországi Fióktelepe",
@@ -384,16 +328,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2935406",
-      "title": "Databricks Data Engineer",
-      "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/databricks-data-engineer-hiflylabs-zrt-budapest-2935406",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "2952356",
       "title": "Energetikai adatelemző",
       "company": "ZIEHL-ABEGG Kft.",
@@ -454,16 +388,6 @@
       "location": "Fejér county, Székesfehérvár"
     },
     {
-      "job_id": "2938531",
-      "title": "Lead ML Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2938531",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2952984",
       "title": "Machine Learning Tech Lead",
       "company": "Betsson Group",
@@ -504,13 +428,13 @@
       "location": "Budapest"
     },
     {
-      "job_id": "2958623",
+      "job_id": "2942033",
       "title": "Principal Computer Vision / Machine Learning Engineer",
       "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/principal-computer-vision-machine-learning-engineer-hawk-eye-innovations-ltd-2958623",
+      "url": "https://www.profession.hu/allas/principal-computer-vision-machine-learning-engineer-hawk-eye-innovations-ltd-2942033",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
+      "seniority": "professional experience is not required",
       "location": "Országos"
     },
     {
@@ -608,6 +532,16 @@
       "title": "Senior Credit Risk Analyst with afternoon shift",
       "company": "Arconic-Köfém Mill Products Hungary Kft.",
       "url": "https://www.profession.hu/allas/senior-credit-risk-analyst-with-afternoon-shift-arconic-kofem-mill-products-hungary-kft-2943043",
+      "family": "quant-risk",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Országos"
+    },
+    {
+      "job_id": "2947388",
+      "title": "Senior Credit Risk Analyst with afternoon shift",
+      "company": "Arconic-Köfém Mill Products Hungary Kft. Shared Services",
+      "url": "https://www.profession.hu/allas/senior-credit-risk-analyst-with-afternoon-shift-arconic-kofem-mill-products-hungary-kft-shared-services-2947388",
       "family": "quant-risk",
       "work_mode": "",
       "seniority": "senior",
@@ -754,20 +688,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2940534",
-      "title": "Senior Machine Learning Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2940534",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2958583",
+      "job_id": "2947322",
       "title": "Senior Machine Learning Engineer",
       "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2958583",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2947322",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "junior",
@@ -794,50 +718,60 @@
       "location": "Unspecified"
     },
     {
-      "job_id": "2953047",
-      "title": "Databricks & Snowflake Data Engineer (Spanish-speaking) _ Contractor",
-      "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/databricks-snowflake-data-engineer-spanish-speaking-contractor-hiflylabs-zrt-2953047",
+      "job_id": "2933082",
+      "title": "DATA ENGINEER (JT)",
+      "company": "Tech People Hungary Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-jt-tech-people-hungary-kft-budapest-2933082",
       "family": "data-engineering",
       "work_mode": "",
+      "seniority": "5-10 years experience",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2935406",
+      "title": "Databricks Data Engineer",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/databricks-data-engineer-hiflylabs-zrt-budapest-2935406",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2938531",
+      "title": "Lead ML Engineer",
+      "company": "greeHill Europe Kft.",
+      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2938531",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2958623",
+      "title": "Principal Computer Vision / Machine Learning Engineer",
+      "company": "Hawk-Eye Innovations Ltd.",
+      "url": "https://www.profession.hu/allas/principal-computer-vision-machine-learning-engineer-hawk-eye-innovations-ltd-2958623",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
       "seniority": "1-3 years experience",
       "location": "Országos"
     },
     {
-      "job_id": "2942033",
-      "title": "Principal Computer Vision / Machine Learning Engineer",
-      "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/principal-computer-vision-machine-learning-engineer-hawk-eye-innovations-ltd-2942033",
+      "job_id": "2940534",
+      "title": "Senior Machine Learning Engineer",
+      "company": "greeHill Europe Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2940534",
       "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "professional experience is not required",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2947314",
-      "title": "Procurement Data Analyst",
-      "company": "KOSTAL Global Business Services Center Kft.",
-      "url": "https://www.profession.hu/allas/procurement-data-analyst-kostal-global-business-services-center-kft-2947314",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "5-10 years experience",
+      "work_mode": "",
+      "seniority": "junior",
       "location": "Pest county"
     },
     {
-      "job_id": "2947388",
-      "title": "Senior Credit Risk Analyst with afternoon shift",
-      "company": "Arconic-Köfém Mill Products Hungary Kft. Shared Services",
-      "url": "https://www.profession.hu/allas/senior-credit-risk-analyst-with-afternoon-shift-arconic-kofem-mill-products-hungary-kft-shared-services-2947388",
-      "family": "quant-risk",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2947322",
+      "job_id": "2958583",
       "title": "Senior Machine Learning Engineer",
       "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2947322",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2958583",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "junior",
@@ -907,6 +841,13 @@
       "active_count": 69,
       "new_count": 5,
       "expired_count": 3
+    },
+    {
+      "completed_at": "2026-07-26T04:45:04.383630+00:00",
+      "status": "success",
+      "active_count": 67,
+      "new_count": 0,
+      "expired_count": 2
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
