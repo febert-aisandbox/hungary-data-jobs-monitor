@@ -1,7 +1,7 @@
-**Hungary data jobs — 2026-07-26**
-Observed: **67** · New: **0** · No longer observed: **2**
-Junior/internship: **14** · Hybrid/remote: **38**
-Role mix: data\-science\-ml: 27, data\-engineering: 20, analyst\-bi: 16, quant\-risk: 4
+**Hungary data jobs — 2026-07-27**
+Observed: **64** · New: **0** · No longer observed: **3**
+Junior/internship: **13** · Hybrid/remote: **36**
+Role mix: data\-science\-ml: 25, data\-engineering: 19, analyst\-bi: 16, quant\-risk: 4
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
