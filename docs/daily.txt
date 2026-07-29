@@ -1,13 +1,12 @@
-**Hungary data jobs — 2026-07-28**
-Observed: **68** · New: **4** · No longer observed: **0**
-Junior/internship: **14** · Hybrid/remote: **40**
-Role mix: data\-science\-ml: 28, data\-engineering: 19, analyst\-bi: 17, quant\-risk: 4
+**Hungary data jobs — 2026-07-29**
+Observed: **71** · New: **3** · No longer observed: **0**
+Junior/internship: **13** · Hybrid/remote: **42**
+Role mix: data\-science\-ml: 30, data\-engineering: 20, analyst\-bi: 17, quant\-risk: 4
 
 **Noteworthy new listings**
-- [AI Engineer \(AWS\) \(all genders\)](https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-debrecen-2960114) — Adesso business consulting Kft\. \(Pest county, Debrecen\)
-- [Principal Computer Vision / Machine Learning Engineer](https://www.profession.hu/allas/principal-computer-vision-machine-learning-engineer-hawk-eye-innovations-ltd-2958623) — Hawk\-Eye Innovations Ltd\. \(Országos\)
-- [Procurement Data Analyst](https://www.profession.hu/allas/procurement-data-analyst-kostal-global-business-services-center-kft-2947314) — KOSTAL Global Business Services Center Kft\. \(Pest county\)
-- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2958583) — Hawk\-Eye Innovations Ltd\. \(Pest county\)
+- [AI ENGINEER](https://www.profession.hu/allas/ai-engineer-raiffeisen-bank-zrt-budapest-2960399) — Raiffeisen Bank Zrt\. \(Pest county, Budapest\)
+- [AI ENGINEERING LEAD](https://www.profession.hu/allas/ai-engineering-lead-raiffeisen-bank-zrt-budapest-2960400) — Raiffeisen Bank Zrt\. \(Pest county, Budapest\)
+- [Databricks Data Engineer](https://www.profession.hu/allas/databricks-data-engineer-hiflylabs-zrt-budapest-2961019) — Hiflylabs Zrt\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
