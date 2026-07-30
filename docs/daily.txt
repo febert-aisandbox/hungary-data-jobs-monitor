@@ -1,12 +1,13 @@
-**Hungary data jobs — 2026-07-29**
-Observed: **71** · New: **3** · No longer observed: **0**
-Junior/internship: **13** · Hybrid/remote: **42**
-Role mix: data\-science\-ml: 30, data\-engineering: 20, analyst\-bi: 17, quant\-risk: 4
+**Hungary data jobs — 2026-07-30**
+Observed: **72** · New: **4** · No longer observed: **3**
+Junior/internship: **12** · Hybrid/remote: **39**
+Role mix: data\-science\-ml: 31, data\-engineering: 19, analyst\-bi: 18, quant\-risk: 4
 
 **Noteworthy new listings**
-- [AI ENGINEER](https://www.profession.hu/allas/ai-engineer-raiffeisen-bank-zrt-budapest-2960399) — Raiffeisen Bank Zrt\. \(Pest county, Budapest\)
-- [AI ENGINEERING LEAD](https://www.profession.hu/allas/ai-engineering-lead-raiffeisen-bank-zrt-budapest-2960400) — Raiffeisen Bank Zrt\. \(Pest county, Budapest\)
-- [Databricks Data Engineer](https://www.profession.hu/allas/databricks-data-engineer-hiflylabs-zrt-budapest-2961019) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [BI Analyst](https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-2961842) — Cushman & Wakefield Kft\. \(Pest county\)
+- [Machine Learning Data Builder](https://www.profession.hu/allas/machine-learning-data-builder-opswat-kft-2961874) — OPSWAT Kft\. \(Pest county\)
+- [Principal Data Scientist](https://www.profession.hu/allas/principal-data-scientist-abbvie-kft-2961732) — AbbVie Kft\. \(Országos\)
+- [Principal Data Scientist, 340B Strategy & Analytics](https://www.profession.hu/allas/principal-data-scientist-b-strategy-analytics-abbvie-kft-2961766) — AbbVie Kft\. \(Országos\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
