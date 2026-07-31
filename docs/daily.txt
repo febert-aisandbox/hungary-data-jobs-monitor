@@ -1,13 +1,11 @@
-**Hungary data jobs — 2026-07-30**
-Observed: **72** · New: **4** · No longer observed: **3**
-Junior/internship: **12** · Hybrid/remote: **39**
-Role mix: data\-science\-ml: 31, data\-engineering: 19, analyst\-bi: 18, quant\-risk: 4
+**Hungary data jobs — 2026-07-31**
+Observed: **72** · New: **2** · No longer observed: **2**
+Junior/internship: **13** · Hybrid/remote: **40**
+Role mix: data\-science\-ml: 32, data\-engineering: 19, analyst\-bi: 17, quant\-risk: 4
 
 **Noteworthy new listings**
-- [BI Analyst](https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-2961842) — Cushman & Wakefield Kft\. \(Pest county\)
-- [Machine Learning Data Builder](https://www.profession.hu/allas/machine-learning-data-builder-opswat-kft-2961874) — OPSWAT Kft\. \(Pest county\)
-- [Principal Data Scientist](https://www.profession.hu/allas/principal-data-scientist-abbvie-kft-2961732) — AbbVie Kft\. \(Országos\)
-- [Principal Data Scientist, 340B Strategy & Analytics](https://www.profession.hu/allas/principal-data-scientist-b-strategy-analytics-abbvie-kft-2961766) — AbbVie Kft\. \(Országos\)
+- [Business Analyst \(Data Analytics \- SAP\) \- REF5512O](https://www.profession.hu/allas/business-analyst-data-analytics-sap-ref-o-deutsche-telekom-tsi-hungary-kft-pecs-2962574) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
+- [Expert AI Engineer \(REF5708U\)](https://www.profession.hu/allas/expert-ai-engineer-ref-u-deutsche-telekom-tsi-hungary-kft-pecs-2962581) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._

@@ -1,34 +1,34 @@
 {
-  "report_date": "2026-07-30",
-  "updated_at": "2026-07-30 06:39 CEST",
+  "report_date": "2026-07-31",
+  "updated_at": "2026-07-31 06:45 CEST",
   "status": "success",
   "active_total": 72,
-  "new_total": 4,
-  "expired_total": 3,
-  "junior_total": 12,
-  "hybrid_remote_total": 39,
+  "new_total": 2,
+  "expired_total": 2,
+  "junior_total": 13,
+  "hybrid_remote_total": 40,
   "role_families": {
-    "data-science-ml": 31,
+    "data-science-ml": 32,
     "data-engineering": 19,
-    "analyst-bi": 18,
+    "analyst-bi": 17,
     "quant-risk": 4
   },
   "top_locations": [
     [
       "Pest county",
-      33
+      31
     ],
     [
       "Pest county, Budapest",
       15
     ],
     [
-      "Országos",
-      7
+      "Pest county, Pécs",
+      8
     ],
     [
-      "Pest county, Debrecen",
-      6
+      "Országos",
+      7
     ],
     [
       "Fejér county, Székesfehérvár",
@@ -62,15 +62,15 @@
     ],
     [
       "Python",
-      39
+      41
     ],
     [
       "SQL",
-      26
+      27
     ],
     [
       "Azure",
-      23
+      24
     ],
     [
       "AWS",
@@ -82,7 +82,7 @@
     ],
     [
       "Power BI",
-      12
+      13
     ],
     [
       "Spark",
@@ -90,7 +90,7 @@
     ],
     [
       "Docker",
-      8
+      9
     ],
     [
       "Tableau",
@@ -107,40 +107,22 @@
   ],
   "new_jobs": [
     {
-      "job_id": "2961842",
-      "title": "BI Analyst",
-      "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-2961842",
+      "job_id": "2962574",
+      "title": "Business Analyst (Data Analytics - SAP) - REF5512O",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/business-analyst-data-analytics-sap-ref-o-deutsche-telekom-tsi-hungary-kft-pecs-2962574",
       "family": "analyst-bi",
       "work_mode": "",
-      "location": "Pest county"
+      "location": "Pest county, Pécs"
     },
     {
-      "job_id": "2961874",
-      "title": "Machine Learning Data Builder",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-data-builder-opswat-kft-2961874",
+      "job_id": "2962581",
+      "title": "Expert AI Engineer (REF5708U)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/expert-ai-engineer-ref-u-deutsche-telekom-tsi-hungary-kft-pecs-2962581",
       "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2961732",
-      "title": "Principal Data Scientist",
-      "company": "AbbVie Kft.",
-      "url": "https://www.profession.hu/allas/principal-data-scientist-abbvie-kft-2961732",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2961766",
-      "title": "Principal Data Scientist, 340B Strategy & Analytics",
-      "company": "AbbVie Kft.",
-      "url": "https://www.profession.hu/allas/principal-data-scientist-b-strategy-analytics-abbvie-kft-2961766",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Országos"
+      "work_mode": "Távmunka",
+      "location": "Pest county, Pécs"
     }
   ],
   "active_jobs": [
@@ -198,21 +180,21 @@
       "job_id": "2960114",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-debrecen-2960114",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-pecs-2960114",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2954520",
       "title": "AI Engineer (REF5308Q)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-debrecen-2954520",
+      "url": "https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-pecs-2954520",
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2941266",
@@ -291,7 +273,7 @@
       "url": "https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-2961842",
       "family": "analyst-bi",
       "work_mode": "",
-      "seniority": "1-3 years experience",
+      "seniority": "junior",
       "location": "Pest county"
     },
     {
@@ -313,6 +295,16 @@
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
       "location": "Pest county, Üllő"
+    },
+    {
+      "job_id": "2962574",
+      "title": "Business Analyst (Data Analytics - SAP) - REF5512O",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/business-analyst-data-analytics-sap-ref-o-deutsche-telekom-tsi-hungary-kft-pecs-2962574",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "professional experience is not required",
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2950143",
@@ -358,21 +350,21 @@
       "job_id": "2954679",
       "title": "Data Engineer (REF5482T)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-debrecen-2954679",
+      "url": "https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-2954679",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "1-3 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2954542",
       "title": "Data Engineer (REF5635Y)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-ref-y-deutsche-telekom-tsi-hungary-kft-debrecen-2954542",
+      "url": "https://www.profession.hu/allas/data-engineer-ref-y-deutsche-telekom-tsi-hungary-kft-pecs-2954542",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2951055",
@@ -388,10 +380,20 @@
       "job_id": "2947843",
       "title": "Data Scientist / Machine Learning Engineer",
       "company": "",
-      "url": "https://www.profession.hu/allas/data-scientist-machine-learning-engineer-kpmg-tanacsado-kft-budapest-2947843",
+      "url": "https://www.profession.hu/allas/data-scientist-machine-learning-engineer-budapest-2947843",
       "family": "data-science-ml",
       "work_mode": "Távmunka",
       "seniority": "1-3 years experience",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2961019",
+      "title": "Databricks Data Engineer",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/databricks-data-engineer-hiflylabs-zrt-budapest-2961019",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
       "location": "Pest county, Budapest"
     },
     {
@@ -403,6 +405,16 @@
       "work_mode": "",
       "seniority": "professional experience is not required",
       "location": "Somogy county, Marcali"
+    },
+    {
+      "job_id": "2962581",
+      "title": "Expert AI Engineer (REF5708U)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/expert-ai-engineer-ref-u-deutsche-telekom-tsi-hungary-kft-pecs-2962581",
+      "family": "data-science-ml",
+      "work_mode": "Távmunka",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2943067",
@@ -525,26 +537,6 @@
       "location": "Országos"
     },
     {
-      "job_id": "2961732",
-      "title": "Principal Data Scientist",
-      "company": "AbbVie Kft.",
-      "url": "https://www.profession.hu/allas/principal-data-scientist-abbvie-kft-2961732",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2961766",
-      "title": "Principal Data Scientist, 340B Strategy & Analytics",
-      "company": "AbbVie Kft.",
-      "url": "https://www.profession.hu/allas/principal-data-scientist-b-strategy-analytics-abbvie-kft-2961766",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "5-10 years experience",
-      "location": "Országos"
-    },
-    {
       "job_id": "2947314",
       "title": "Procurement Data Analyst",
       "company": "KOSTAL Global Business Services Center Kft.",
@@ -658,21 +650,11 @@
       "job_id": "2954688",
       "title": "Senior Data Analyst - German Speaking (REF5252U)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-analyst-german-speaking-ref-u-deutsche-telekom-tsi-hungary-kft-debrecen-2954688",
+      "url": "https://www.profession.hu/allas/senior-data-analyst-german-speaking-ref-u-deutsche-telekom-tsi-hungary-kft-pecs-2954688",
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Debrecen"
-    },
-    {
-      "job_id": "2935842",
-      "title": "Senior Data Engineer",
-      "company": "thyssenkrupp Components Technology Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-thyssenkrupp-components-technology-hungary-kft-2935842",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2951951",
@@ -715,6 +697,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "2945484",
+      "title": "Senior Data Engineer (Databricks) - Spain",
+      "company": "DATAPAO Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-databricks-spain-datapao-kft-2945484",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
+      "location": "Országos"
+    },
+    {
       "job_id": "2943014",
       "title": "Senior Data Engineer (Databricks) - UK",
       "company": "DATAPAO Kft.",
@@ -728,11 +720,11 @@
       "job_id": "2954574",
       "title": "Senior Data Engineer - Power Platform - REF5084T",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-debrecen-2954574",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-2954574",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2942026",
@@ -825,44 +817,34 @@
       "location": "Unspecified"
     },
     {
-      "job_id": "2935497",
-      "title": "BI Analyst",
-      "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-2935497",
-      "family": "analyst-bi",
+      "job_id": "2961732",
+      "title": "Principal Data Scientist",
+      "company": "AbbVie Kft.",
+      "url": "https://www.profession.hu/allas/principal-data-scientist-abbvie-kft-2961732",
+      "family": "data-science-ml",
       "work_mode": "",
-      "seniority": "1-3 years experience",
-      "location": "Pest county"
+      "seniority": "senior",
+      "location": "Országos"
     },
     {
-      "job_id": "2961019",
-      "title": "Databricks Data Engineer",
-      "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/databricks-data-engineer-hiflylabs-zrt-budapest-2961019",
+      "job_id": "2961766",
+      "title": "Principal Data Scientist, 340B Strategy & Analytics",
+      "company": "AbbVie Kft.",
+      "url": "https://www.profession.hu/allas/principal-data-scientist-b-strategy-analytics-abbvie-kft-2961766",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "5-10 years experience",
+      "location": "Országos"
+    },
+    {
+      "job_id": "2935842",
+      "title": "Senior Data Engineer",
+      "company": "thyssenkrupp Components Technology Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-thyssenkrupp-components-technology-hungary-kft-2935842",
       "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2935502",
-      "title": "Senior BI Analyst",
-      "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/senior-bi-analyst-cushman-wakefield-kft-2935502",
-      "family": "analyst-bi",
       "work_mode": "",
       "seniority": "senior",
       "location": "Pest county"
-    },
-    {
-      "job_id": "2945484",
-      "title": "Senior Data Engineer (Databricks) - Spain",
-      "company": "DATAPAO Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-databricks-spain-datapao-kft-2945484",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
-      "location": "Országos"
     }
   ],
   "history": [
@@ -963,6 +945,13 @@
       "active_count": 72,
       "new_count": 4,
       "expired_count": 3
+    },
+    {
+      "completed_at": "2026-07-31T04:45:44.419037+00:00",
+      "status": "success",
+      "active_count": 72,
+      "new_count": 2,
+      "expired_count": 2
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
