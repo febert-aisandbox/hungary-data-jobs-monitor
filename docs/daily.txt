@@ -1,11 +1,10 @@
-**Hungary data jobs — 2026-07-31**
-Observed: **72** · New: **2** · No longer observed: **2**
-Junior/internship: **13** · Hybrid/remote: **40**
-Role mix: data\-science\-ml: 32, data\-engineering: 19, analyst\-bi: 17, quant\-risk: 4
+**Hungary data jobs — 2026-08-01**
+Observed: **70** · New: **1** · No longer observed: **3**
+Junior/internship: **13** · Hybrid/remote: **41**
+Role mix: data\-science\-ml: 30, data\-engineering: 19, analyst\-bi: 17, quant\-risk: 4
 
 **Noteworthy new listings**
-- [Business Analyst \(Data Analytics \- SAP\) \- REF5512O](https://www.profession.hu/allas/business-analyst-data-analytics-sap-ref-o-deutsche-telekom-tsi-hungary-kft-pecs-2962574) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
-- [Expert AI Engineer \(REF5708U\)](https://www.profession.hu/allas/expert-ai-engineer-ref-u-deutsche-telekom-tsi-hungary-kft-pecs-2962581) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
+- [Medior Data Engineer](https://www.profession.hu/allas/medior-data-engineer-mol-nyrt-budapest-2959462) — MOL Nyrt\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
