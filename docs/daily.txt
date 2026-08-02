@@ -1,10 +1,12 @@
-**Hungary data jobs — 2026-08-01**
-Observed: **70** · New: **1** · No longer observed: **3**
-Junior/internship: **13** · Hybrid/remote: **41**
-Role mix: data\-science\-ml: 30, data\-engineering: 19, analyst\-bi: 17, quant\-risk: 4
+**Hungary data jobs — 2026-08-02**
+Observed: **70** · New: **3** · No longer observed: **3**
+Junior/internship: **13** · Hybrid/remote: **39**
+Role mix: data\-science\-ml: 30, data\-engineering: 20, analyst\-bi: 18, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Medior Data Engineer](https://www.profession.hu/allas/medior-data-engineer-mol-nyrt-budapest-2959462) — MOL Nyrt\. \(Pest county, Budapest\)
+- [Databricks & Snowflake Data Engineer \(Spanish\-speaking\) \_ Contractor](https://www.profession.hu/allas/databricks-snowflake-data-engineer-spanish-speaking-contractor-hiflylabs-zrt-2953047) — Hiflylabs Zrt\. \(Országos\)
+- [GCP Cloud Data Engineer](https://www.profession.hu/allas/gcp-cloud-data-engineer-accenture-korlatolt-felelossegu-tarsasag-2963654) — Accenture Korlátolt Felelősségű Társaság \(Pest county\)
+- [Senior Data Analytics & Automation Engineer](https://www.profession.hu/allas/senior-data-analytics-automation-engineer-thermo-services-hungary-kft-2963691) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
