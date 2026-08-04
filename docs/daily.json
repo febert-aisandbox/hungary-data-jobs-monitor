@@ -1,30 +1,30 @@
 {
-  "report_date": "2026-08-03",
-  "updated_at": "2026-08-03 07:29 CEST",
+  "report_date": "2026-08-04",
+  "updated_at": "2026-08-04 06:50 CEST",
   "status": "success",
-  "active_total": 71,
-  "new_total": 1,
-  "expired_total": 0,
-  "junior_total": 13,
-  "hybrid_remote_total": 40,
+  "active_total": 69,
+  "new_total": 2,
+  "expired_total": 4,
+  "junior_total": 12,
+  "hybrid_remote_total": 37,
   "role_families": {
-    "data-science-ml": 31,
+    "data-science-ml": 30,
     "data-engineering": 20,
-    "analyst-bi": 18,
+    "analyst-bi": 17,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      33
+      32
     ],
     [
       "Pest county, Budapest",
       15
     ],
     [
-      "Pest county, Debrecen",
-      7
+      "Pest county, Pécs",
+      8
     ],
     [
       "Országos",
@@ -39,11 +39,11 @@
       2
     ],
     [
-      "Pest county, Pécs",
+      "Pest county, Alsónémedi",
       1
     ],
     [
-      "Pest county, Alsónémedi",
+      "Vas county, Rábahídvég",
       1
     ],
     [
@@ -58,7 +58,7 @@
   "top_skills": [
     [
       "English",
-      70
+      68
     ],
     [
       "Python",
@@ -70,7 +70,7 @@
     ],
     [
       "Azure",
-      25
+      23
     ],
     [
       "AWS",
@@ -78,11 +78,11 @@
     ],
     [
       "Machine learning",
-      17
+      18
     ],
     [
       "Power BI",
-      13
+      12
     ],
     [
       "Spark",
@@ -90,7 +90,7 @@
     ],
     [
       "Docker",
-      10
+      9
     ],
     [
       "Tableau",
@@ -107,12 +107,21 @@
   ],
   "new_jobs": [
     {
-      "job_id": "2963737",
-      "title": "Lead ML Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2963737",
-      "family": "data-science-ml",
+      "job_id": "2965123",
+      "title": "Data Analytics & Reporting Specialist",
+      "company": "SPS Germany GmbH Magyarországi Fióktelepe",
+      "url": "https://www.profession.hu/allas/data-analytics-reporting-specialist-sps-germany-gmbh-magyarorszagi-fioktelepe-rabahidveg-2965123",
+      "family": "analyst-bi",
       "work_mode": "Hibrid",
+      "location": "Vas county, Rábahídvég"
+    },
+    {
+      "job_id": "2965099",
+      "title": "Senior Machine Learning System Builder",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-system-builder-opswat-kft-2965099",
+      "family": "data-science-ml",
+      "work_mode": "",
       "location": "Pest county"
     }
   ],
@@ -181,11 +190,11 @@
       "job_id": "2954520",
       "title": "AI Engineer (REF5308Q)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-debrecen-2954520",
+      "url": "https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-pecs-2954520",
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2944404",
@@ -271,11 +280,11 @@
       "job_id": "2962574",
       "title": "Business Analyst (Data Analytics - SAP) - REF5512O",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/business-analyst-data-analytics-sap-ref-o-deutsche-telekom-tsi-hungary-kft-debrecen-2962574",
+      "url": "https://www.profession.hu/allas/business-analyst-data-analytics-sap-ref-o-deutsche-telekom-tsi-hungary-kft-pecs-2962574",
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "professional experience is not required",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2950143",
@@ -286,6 +295,16 @@
       "work_mode": "",
       "seniority": "senior",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2965123",
+      "title": "Data Analytics & Reporting Specialist",
+      "company": "SPS Germany GmbH Magyarországi Fióktelepe",
+      "url": "https://www.profession.hu/allas/data-analytics-reporting-specialist-sps-germany-gmbh-magyarorszagi-fioktelepe-rabahidveg-2965123",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Vas county, Rábahídvég"
     },
     {
       "job_id": "2945551",
@@ -311,21 +330,21 @@
       "job_id": "2954679",
       "title": "Data Engineer (REF5482T)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-debrecen-2954679",
+      "url": "https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-2954679",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "1-3 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2954542",
       "title": "Data Engineer (REF5635Y)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-ref-y-deutsche-telekom-tsi-hungary-kft-debrecen-2954542",
+      "url": "https://www.profession.hu/allas/data-engineer-ref-y-deutsche-telekom-tsi-hungary-kft-pecs-2954542",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2951055",
@@ -381,11 +400,11 @@
       "job_id": "2962581",
       "title": "Expert AI Engineer (REF5708U)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/expert-ai-engineer-ref-u-deutsche-telekom-tsi-hungary-kft-debrecen-2962581",
+      "url": "https://www.profession.hu/allas/expert-ai-engineer-ref-u-deutsche-telekom-tsi-hungary-kft-pecs-2962581",
       "family": "data-science-ml",
       "work_mode": "Távmunka",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2943067",
@@ -458,16 +477,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2952984",
-      "title": "Machine Learning Tech Lead",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-2952984",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2949418",
       "title": "Master Data Analyst",
       "company": "HumanField Kft",
@@ -515,16 +524,6 @@
       "family": "analyst-bi",
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2949824",
-      "title": "Quantitative Modeler, Associate",
-      "company": "BlackRock Hungary Kft.",
-      "url": "https://www.profession.hu/allas/quantitative-modeler-associate-blackrock-hungary-kft-2949824",
-      "family": "quant-risk",
-      "work_mode": "",
-      "seniority": "professional experience is not required",
       "location": "Pest county"
     },
     {
@@ -611,11 +610,11 @@
       "job_id": "2954688",
       "title": "Senior Data Analyst - German Speaking (REF5252U)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-analyst-german-speaking-ref-u-deutsche-telekom-tsi-hungary-kft-debrecen-2954688",
+      "url": "https://www.profession.hu/allas/senior-data-analyst-german-speaking-ref-u-deutsche-telekom-tsi-hungary-kft-pecs-2954688",
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2963691",
@@ -691,11 +690,11 @@
       "job_id": "2954574",
       "title": "Senior Data Engineer - Power Platform - REF5084T",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-debrecen-2954574",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-2954574",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2942026",
@@ -738,16 +737,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2945696",
-      "title": "Senior GenAI Engineer",
-      "company": "Zenitech Consulting Zrt.",
-      "url": "https://www.profession.hu/allas/senior-genai-engineer-zenitech-consulting-zrt-2945696",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2940534",
       "title": "Senior Machine Learning Engineer",
       "company": "greeHill Europe Kft.",
@@ -765,6 +754,16 @@
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2965099",
+      "title": "Senior Machine Learning System Builder",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-system-builder-opswat-kft-2965099",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "senior",
       "location": "Pest county"
     },
     {
@@ -788,40 +787,30 @@
       "location": "Unspecified"
     },
     {
-      "job_id": "2941266",
-      "title": "AI Engineer gyakornok - diákmunka",
-      "company": "Mind-Diák Szövetkezet",
-      "url": "https://www.profession.hu/allas/ai-engineer-gyakornok-diakmunka-mind-diak-szovetkezet-2941266",
+      "job_id": "2952984",
+      "title": "Machine Learning Tech Lead",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-2952984",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
-      "seniority": "junior",
+      "seniority": "senior",
       "location": "Pest county"
     },
     {
-      "job_id": "2940693",
-      "title": "BI elemző ( BI Analyst)",
-      "company": "ROSSMANN Magyarország Kft",
-      "url": "https://www.profession.hu/allas/bi-elemzo-bi-analyst-rossmann-magyarorszag-kft-ullo-2940693",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "5-10 years experience",
-      "location": "Pest county, Üllő"
+      "job_id": "2949824",
+      "title": "Quantitative Modeler, Associate",
+      "company": "BlackRock Hungary Kft.",
+      "url": "https://www.profession.hu/allas/quantitative-modeler-associate-blackrock-hungary-kft-2949824",
+      "family": "quant-risk",
+      "work_mode": "",
+      "seniority": "professional experience is not required",
+      "location": "Pest county"
     },
     {
-      "job_id": "2939085",
-      "title": "Data Analytics & Reporting Specialist",
-      "company": "SPS Germany GmbH Magyarországi Fióktelepe",
-      "url": "https://www.profession.hu/allas/data-analytics-reporting-specialist-sps-germany-gmbh-magyarorszagi-fioktelepe-rabahidveg-2939085",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
-      "location": "Vas county, Rábahídvég"
-    },
-    {
-      "job_id": "2938531",
-      "title": "Lead ML Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2938531",
+      "job_id": "2945696",
+      "title": "Senior GenAI Engineer",
+      "company": "Zenitech Consulting Zrt.",
+      "url": "https://www.profession.hu/allas/senior-genai-engineer-zenitech-consulting-zrt-2945696",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "senior",
@@ -954,6 +943,13 @@
       "active_count": 71,
       "new_count": 1,
       "expired_count": 0
+    },
+    {
+      "completed_at": "2026-08-04T04:50:13.981526+00:00",
+      "status": "success",
+      "active_count": 69,
+      "new_count": 2,
+      "expired_count": 4
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",

@@ -1,10 +1,11 @@
-**Hungary data jobs — 2026-08-03**
-Observed: **71** · New: **1** · No longer observed: **0**
-Junior/internship: **13** · Hybrid/remote: **40**
-Role mix: data\-science\-ml: 31, data\-engineering: 20, analyst\-bi: 18, quant\-risk: 2
+**Hungary data jobs — 2026-08-04**
+Observed: **69** · New: **2** · No longer observed: **4**
+Junior/internship: **12** · Hybrid/remote: **37**
+Role mix: data\-science\-ml: 30, data\-engineering: 20, analyst\-bi: 17, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Lead ML Engineer](https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2963737) — greeHill Europe Kft\. \(Pest county\)
+- [Data Analytics & Reporting Specialist](https://www.profession.hu/allas/data-analytics-reporting-specialist-sps-germany-gmbh-magyarorszagi-fioktelepe-rabahidveg-2965123) — SPS Germany GmbH Magyarországi Fióktelepe \(Vas county, Rábahídvég\)
+- [Senior Machine Learning System Builder](https://www.profession.hu/allas/senior-machine-learning-system-builder-opswat-kft-2965099) — OPSWAT Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
