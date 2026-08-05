@@ -1,11 +1,16 @@
-**Hungary data jobs — 2026-08-04**
-Observed: **69** · New: **2** · No longer observed: **4**
-Junior/internship: **12** · Hybrid/remote: **37**
-Role mix: data\-science\-ml: 30, data\-engineering: 20, analyst\-bi: 17, quant\-risk: 2
+**Hungary data jobs — 2026-08-05**
+Observed: **73** · New: **7** · No longer observed: **3**
+Junior/internship: **15** · Hybrid/remote: **38**
+Role mix: data\-science\-ml: 32, data\-engineering: 21, analyst\-bi: 18, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Data Analytics & Reporting Specialist](https://www.profession.hu/allas/data-analytics-reporting-specialist-sps-germany-gmbh-magyarorszagi-fioktelepe-rabahidveg-2965123) — SPS Germany GmbH Magyarországi Fióktelepe \(Vas county, Rábahídvég\)
-- [Senior Machine Learning System Builder](https://www.profession.hu/allas/senior-machine-learning-system-builder-opswat-kft-2965099) — OPSWAT Kft\. \(Pest county\)
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-thyssenkrupp-components-technology-hungary-kft-2965482) — thyssenkrupp Components Technology Hungary Kft\. \(Pest county\)
+- [Logisztikai adatelemző](https://www.profession.hu/allas/logisztikai-adatelemzo-trenkwalder-jaszarokszallas-2965511) — Trenkwalder \(Jász\-Nagykun\-Szolnok county, Jászárokszállás\)
+- [Principal Computer Vision / Machine Learning Engineer](https://www.profession.hu/allas/principal-computer-vision-machine-learning-engineer-hawk-eye-innovations-ltd-2958623) — Hawk\-Eye Innovations Ltd\. \(Országos\)
+- [Senior Credit Risk Analyst with afternoon shift](https://www.profession.hu/allas/senior-credit-risk-analyst-with-afternoon-shift-arconic-kofem-mill-products-hungary-kft-szekesfehervar-2943043) — Arconic\-Köfém Mill Products Hungary Kft\. \(Fejér county, Székesfehérvár\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-rossmann-magyarorszag-kft-ullo-2965303) — ROSSMANN Magyarország Kft \(Pest county, Üllő\)
+- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2958583) — Hawk\-Eye Innovations Ltd\. \(Pest county\)
+- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2966162) — greeHill Europe Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
