@@ -1,11 +1,17 @@
-**Hungary data jobs — 2026-08-07**
-Observed: **63** · New: **2** · No longer observed: **9**
-Junior/internship: **12** · Hybrid/remote: **33**
-Role mix: data\-science\-ml: 24, data\-engineering: 19, analyst\-bi: 18, quant\-risk: 2
+**Hungary data jobs — 2026-08-08**
+Observed: **69** · New: **12** · No longer observed: **6**
+Junior/internship: **14** · Hybrid/remote: **32**
+Role mix: data\-engineering: 26, data\-science\-ml: 25, analyst\-bi: 15, quant\-risk: 3
 
 **Noteworthy new listings**
-- [Machine Learning Tech Lead](https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-2965052) — Betsson Group \(Pest county\)
-- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-gitmax-it-services-zrt-2967936) — GITMAX IT Services Zrt\. \(Országos\)
+- [Analytics Engineer](https://www.profession.hu/allas/analytics-engineer-keskeny-es-tarsai-kft-budapest-2968572) — Keskeny és Társai 2001 Kft\. \(Pest county, Budapest\)
+- [Data Engineer \(dbt, Snowflake\)](https://www.profession.hu/allas/data-engineer-dbt-snowflake-grafton-recruitment-2968093) — Grafton Recruitment \(Pest county\)
+- [Medior Data Engineer](https://www.profession.hu/allas/medior-data-engineer-nix-tech-kft-2968382) — NIX Tech Kft\. \(Pest county\)
+- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-high-tech-engineering-center-kft-budapest-2969060) — High Tech Engineering Center Kft\. \(Pest county, Budapest\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-budapest-2968444) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-nix-tech-kft-2968449) — NIX Tech Kft\. \(Pest county\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-betsson-group-2969123) — Betsson Group \(Pest county\)
+- [Senior Data Engineer \(Databricks\)](https://www.profession.hu/allas/senior-data-engineer-databricks-datapao-kft-2969022) — DATAPAO Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
