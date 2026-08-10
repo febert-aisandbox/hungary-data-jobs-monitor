@@ -1,14 +1,14 @@
-**Hungary data jobs — 2026-08-09**
-Observed: **67** · New: **5** · No longer observed: **7**
-Junior/internship: **15** · Hybrid/remote: **32**
-Role mix: data\-engineering: 26, data\-science\-ml: 24, analyst\-bi: 15, quant\-risk: 2
+**Hungary data jobs — 2026-08-10**
+Observed: **63** · New: **5** · No longer observed: **9**
+Junior/internship: **11** · Hybrid/remote: **30**
+Role mix: data\-science\-ml: 26, data\-engineering: 21, analyst\-bi: 13, quant\-risk: 3
 
 **Noteworthy new listings**
-- [AI Engineer](https://www.profession.hu/allas/ai-engineer-greif-hungary-packaging-kft-2969390) — Greif Hungary Packaging Kft\. \(Pest county\)
-- [Financial Advisory Senior Associate \(Data Analytics & AI\)](https://www.profession.hu/allas/financial-advisory-senior-associate-data-analytics-ai-deloitte-zrt-2969438) — Deloitte Zrt\. \(Pest county\)
-- [Junior Data Engineer](https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-2969404) — NIX Tech Kft\. \(Pest county\)
-- [Senior Data Engineer \(Databricks\) \- UK](https://www.profession.hu/allas/senior-data-engineer-databricks-uk-datapao-kft-2969267) — DATAPAO Kft\. \(Országos\)
-- [Senior Databricks Data Engineer](https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-budapest-2969346) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-2969479) — SnapSoft Informatikai és Szolgáltató Kft\. \(Pest county\)
+- [Lead ML Engineer](https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2963737) — greeHill Europe Kft\. \(Pest county\)
+- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-2969511) — Diligent Governance Hungary Kft\. \(Pest county\)
+- [Senior Credit Risk Analyst with afternoon shift](https://www.profession.hu/allas/senior-credit-risk-analyst-with-afternoon-shift-arconic-kofem-mill-products-hungary-kft-szekesfehervar-2969784) — Arconic\-Köfém Mill Products Hungary Kft\. \(Fejér county, Székesfehérvár\)
+- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2966162) — greeHill Europe Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
