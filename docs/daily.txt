@@ -1,14 +1,15 @@
-**Hungary data jobs — 2026-08-10**
-Observed: **63** · New: **5** · No longer observed: **9**
-Junior/internship: **11** · Hybrid/remote: **30**
-Role mix: data\-science\-ml: 26, data\-engineering: 21, analyst\-bi: 13, quant\-risk: 3
+**Hungary data jobs — 2026-08-11**
+Observed: **67** · New: **6** · No longer observed: **2**
+Junior/internship: **12** · Hybrid/remote: **33**
+Role mix: data\-science\-ml: 27, data\-engineering: 24, analyst\-bi: 13, quant\-risk: 3
 
 **Noteworthy new listings**
-- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-2969479) — SnapSoft Informatikai és Szolgáltató Kft\. \(Pest county\)
-- [Lead ML Engineer](https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2963737) — greeHill Europe Kft\. \(Pest county\)
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-2969511) — Diligent Governance Hungary Kft\. \(Pest county\)
-- [Senior Credit Risk Analyst with afternoon shift](https://www.profession.hu/allas/senior-credit-risk-analyst-with-afternoon-shift-arconic-kofem-mill-products-hungary-kft-szekesfehervar-2969784) — Arconic\-Köfém Mill Products Hungary Kft\. \(Fejér county, Székesfehérvár\)
-- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2966162) — greeHill Europe Kft\. \(Pest county\)
+- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-2971356) — Lufthansa Systems Hungária Kft\. \(Pest county\)
+- [AI/ML Engineer \- Szeged](https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2971263) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-e-group-ict-software-zrt-2971291) — E\-GROUP ICT SOFTWARE Zrt\. \(Pest county\)
+- [Data Scientist](https://www.profession.hu/allas/data-scientist-ford-kozep-es-kelet-europai-kft-2971299) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
+- [Senior Data Engineer \(Contract\)](https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-2971272) — Hiflylabs Zrt\. \(Pest county\)
+- [Senior Data Engineer \(Databricks\) \- Spain](https://www.profession.hu/allas/senior-data-engineer-databricks-spain-datapao-kft-2971169) — DATAPAO Kft\. \(Országos\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
