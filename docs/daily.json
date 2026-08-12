@@ -1,22 +1,22 @@
 {
-  "report_date": "2026-08-11",
-  "updated_at": "2026-08-11 06:48 CEST",
+  "report_date": "2026-08-12",
+  "updated_at": "2026-08-12 06:40 CEST",
   "status": "success",
-  "active_total": 67,
-  "new_total": 6,
-  "expired_total": 2,
-  "junior_total": 12,
-  "hybrid_remote_total": 33,
+  "active_total": 62,
+  "new_total": 2,
+  "expired_total": 7,
+  "junior_total": 11,
+  "hybrid_remote_total": 28,
   "role_families": {
-    "data-science-ml": 27,
-    "data-engineering": 24,
-    "analyst-bi": 13,
+    "data-science-ml": 26,
+    "data-engineering": 21,
+    "analyst-bi": 12,
     "quant-risk": 3
   },
   "top_locations": [
     [
       "Pest county",
-      32
+      29
     ],
     [
       "Pest county, Budapest",
@@ -24,19 +24,19 @@
     ],
     [
       "Országos",
-      7
+      6
     ],
     [
       "Pest county, Debrecen",
       5
     ],
     [
-      "Csongrád-Csanád county, Szeged",
+      "Fejér county, Székesfehérvár",
       2
     ],
     [
-      "Fejér county, Székesfehérvár",
-      2
+      "Csongrád-Csanád county, Szeged",
+      1
     ],
     [
       "Vas county, Rábahídvég",
@@ -58,47 +58,47 @@
   "top_skills": [
     [
       "English",
-      65
+      60
     ],
     [
       "Python",
-      40
+      35
     ],
     [
       "SQL",
-      29
+      25
     ],
     [
       "Azure",
-      28
+      23
     ],
     [
       "AWS",
-      20
+      17
     ],
     [
       "Machine learning",
-      18
+      17
     ],
     [
       "Spark",
-      14
-    ],
-    [
-      "Power BI",
-      10
+      11
     ],
     [
       "Docker",
       8
     ],
     [
+      "Power BI",
+      8
+    ],
+    [
       "GCP",
-      6
+      4
     ],
     [
       "Tableau",
-      5
+      4
     ],
     [
       "Statistics",
@@ -107,58 +107,22 @@
   ],
   "new_jobs": [
     {
-      "job_id": "2971356",
-      "title": "AI/ML Engineer",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-2971356",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2971263",
-      "title": "AI/ML Engineer - Szeged",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2971263",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Csongrád-Csanád county, Szeged"
-    },
-    {
-      "job_id": "2971291",
-      "title": "Data Engineer",
-      "company": "E-GROUP ICT SOFTWARE Zrt.",
-      "url": "https://www.profession.hu/allas/data-engineer-e-group-ict-software-zrt-2971291",
-      "family": "data-engineering",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2971299",
-      "title": "Data Scientist",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/data-scientist-ford-kozep-es-kelet-europai-kft-2971299",
+      "job_id": "2972437",
+      "title": "AI Engineer",
+      "company": "IPACKCHEM Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437",
       "family": "data-science-ml",
       "work_mode": "",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2971272",
-      "title": "Senior Data Engineer (Contract)",
-      "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-2971272",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
       "location": "Pest county"
     },
     {
-      "job_id": "2971169",
-      "title": "Senior Data Engineer (Databricks) - Spain",
-      "company": "DATAPAO Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-databricks-spain-datapao-kft-2971169",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Országos"
+      "job_id": "2972481",
+      "title": "AI Engineering Workflow Developer - T Cloud Public (REF5739F)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-2972481",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "location": "Pest county"
     }
   ],
   "active_jobs": [
@@ -193,6 +157,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "2972437",
+      "title": "AI Engineer",
+      "company": "IPACKCHEM Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "2960114",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
@@ -211,6 +185,16 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Pest county, Debrecen"
+    },
+    {
+      "job_id": "2972481",
+      "title": "AI Engineering Workflow Developer - T Cloud Public (REF5739F)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-2972481",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "2969479",
@@ -279,7 +263,7 @@
       "url": "https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-2961842",
       "family": "analyst-bi",
       "work_mode": "",
-      "seniority": "3-5 years experience",
+      "seniority": "junior",
       "location": "Pest county"
     },
     {
@@ -361,16 +345,6 @@
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Pest county"
-    },
-    {
-      "job_id": "2971299",
-      "title": "Data Scientist",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/data-scientist-ford-kozep-es-kelet-europai-kft-2971299",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Országos"
     },
     {
       "job_id": "2947843",
@@ -563,16 +537,6 @@
       "location": "Országos"
     },
     {
-      "job_id": "2969784",
-      "title": "Senior Credit Risk Analyst with afternoon shift",
-      "company": "Arconic-Köfém Mill Products Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-credit-risk-analyst-with-afternoon-shift-arconic-kofem-mill-products-hungary-kft-szekesfehervar-2969784",
-      "family": "quant-risk",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Fejér county, Székesfehérvár"
-    },
-    {
       "job_id": "2965303",
       "title": "Senior Data Engineer",
       "company": "ROSSMANN Magyarország Kft",
@@ -763,74 +727,24 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2969390",
-      "title": "AI Engineer",
-      "company": "Greif Hungary Packaging Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-greif-hungary-packaging-kft-2969390",
+      "job_id": "2971299",
+      "title": "Data Scientist",
+      "company": "Ford Közép- és Kelet-Európai Kft.",
+      "url": "https://www.profession.hu/allas/data-scientist-ford-kozep-es-kelet-europai-kft-2971299",
       "family": "data-science-ml",
       "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2945617",
-      "title": "AI/ML Engineer",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-2945617",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2945546",
-      "title": "AI/ML Engineer - Szeged",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2945546",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Csongrád-Csanád county, Szeged"
-    },
-    {
-      "job_id": "2945551",
-      "title": "Data Engineer",
-      "company": "E-GROUP ICT SOFTWARE Zrt.",
-      "url": "https://www.profession.hu/allas/data-engineer-e-group-ict-software-zrt-2945551",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2953029",
-      "title": "GBS Data Analytics, Sr. Analyst",
-      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2953029",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2945552",
-      "title": "Senior Data Engineer (Contract)",
-      "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-2945552",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
       "seniority": "senior",
-      "location": "Pest county"
+      "location": "Országos"
     },
     {
-      "job_id": "2945484",
-      "title": "Senior Data Engineer (Databricks) - Spain",
-      "company": "DATAPAO Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-databricks-spain-datapao-kft-2945484",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
-      "location": "Országos"
+      "job_id": "2969784",
+      "title": "Senior Credit Risk Analyst with afternoon shift",
+      "company": "Arconic-Köfém Mill Products Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-credit-risk-analyst-with-afternoon-shift-arconic-kofem-mill-products-hungary-kft-szekesfehervar-2969784",
+      "family": "quant-risk",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Fejér county, Székesfehérvár"
     }
   ],
   "history": [
@@ -1015,6 +929,13 @@
       "active_count": 67,
       "new_count": 6,
       "expired_count": 2
+    },
+    {
+      "completed_at": "2026-08-12T04:40:25.978304+00:00",
+      "status": "success",
+      "active_count": 62,
+      "new_count": 2,
+      "expired_count": 7
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
