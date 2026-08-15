@@ -1,11 +1,17 @@
-**Hungary data jobs — 2026-08-12**
-Observed: **62** · New: **2** · No longer observed: **7**
-Junior/internship: **11** · Hybrid/remote: **28**
-Role mix: data\-science\-ml: 26, data\-engineering: 21, analyst\-bi: 12, quant\-risk: 3
+**Hungary data jobs — 2026-08-15**
+Observed: **75** · New: **15** · No longer observed: **2**
+Junior/internship: **14** · Hybrid/remote: **34**
+Role mix: data\-science\-ml: 29, data\-engineering: 27, analyst\-bi: 16, quant\-risk: 3
 
 **Noteworthy new listings**
-- [AI Engineer](https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437) — IPACKCHEM Kft\. \(Pest county\)
-- [AI Engineering Workflow Developer \- T Cloud Public \(REF5739F\)](https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-2972481) — Deutsche Telekom TSI Hungary Kft\. \(Pest county\)
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-greif-hungary-packaging-kft-2969390) — Greif Hungary Packaging Kft\. \(Pest county\)
+- [Adatelemző szakértő](https://www.profession.hu/allas/adatelemzo-szakerto-budapesti-gazdasagtudomanyi-egyetem-budapest-2974993) — Budapesti Gazdaságtudományi Egyetem \(Pest county, Budapest\)
+- [Cost Data Analyst](https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-2973825) — Ford Közép\- és Kelet\-Európai Kft\. \(Pest county, Szentendre\)
+- [Data Scientist / Machine Learning Engineer](https://www.profession.hu/allas/data-scientist-machine-learning-engineer-kpmg-tanacsado-kft-budapest-2973971) — KPMG Tanácsadó Kft\. \(Pest county, Budapest\)
+- [GBS Data Analytics, Sr\. Analyst](https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2953029) — International Flavors & Fragrances I\.F\.F\. \(Hungary\) Kft\. \(Pest county\)
+- [Risk Analyst](https://www.profession.hu/allas/risk-analyst-betsson-group-2973466) — Betsson Group \(Országos\)
+- [Senior AI Engineer \(Evaluations \- Canvas Agent\)](https://www.profession.hu/allas/senior-ai-engineer-evaluations-canvas-agent-instructure-hungary-kft-2976001) — Instructure Hungary Kft\. \(Pest county\)
+- [Senior Cloud Data Engineer \(AWS\)](https://www.profession.hu/allas/senior-cloud-data-engineer-aws-hiflylabs-zrt-2973573) — Hiflylabs Zrt\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
