@@ -1,22 +1,22 @@
 {
-  "report_date": "2026-08-16",
-  "updated_at": "2026-08-16 06:48 CEST",
+  "report_date": "2026-08-17",
+  "updated_at": "2026-08-17 06:39 CEST",
   "status": "success",
-  "active_total": 65,
-  "new_total": 1,
-  "expired_total": 11,
-  "junior_total": 11,
-  "hybrid_remote_total": 30,
+  "active_total": 68,
+  "new_total": 3,
+  "expired_total": 0,
+  "junior_total": 12,
+  "hybrid_remote_total": 32,
   "role_families": {
-    "data-engineering": 25,
-    "data-science-ml": 23,
+    "data-engineering": 27,
+    "data-science-ml": 24,
     "analyst-bi": 15,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      26
+      28
     ],
     [
       "Pest county, Budapest",
@@ -28,14 +28,18 @@
     ],
     [
       "Pest county, Pécs",
-      5
+      4
+    ],
+    [
+      "Csongrád-Csanád county, Szeged",
+      2
     ],
     [
       "Pest county, Szeged",
       2
     ],
     [
-      "Csongrád-Csanád county, Szeged",
+      "Pest county, Győr",
       1
     ],
     [
@@ -49,28 +53,24 @@
     [
       "Somogy county, Marcali",
       1
-    ],
-    [
-      "Fejér county, Székesfehérvár",
-      1
     ]
   ],
   "top_skills": [
     [
       "English",
-      63
+      66
     ],
     [
       "Python",
-      38
+      41
     ],
     [
       "SQL",
-      27
+      30
     ],
     [
       "Azure",
-      25
+      28
     ],
     [
       "AWS",
@@ -82,7 +82,7 @@
     ],
     [
       "Spark",
-      12
+      14
     ],
     [
       "Docker",
@@ -107,13 +107,31 @@
   ],
   "new_jobs": [
     {
-      "job_id": "2976140",
-      "title": "Data Engineer",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-ford-kozep-es-kelet-europai-kft-2976140",
-      "family": "data-engineering",
+      "job_id": "2972437",
+      "title": "AI Engineer",
+      "company": "IPACKCHEM Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437",
+      "family": "data-science-ml",
       "work_mode": "",
-      "location": "Országos"
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2976293",
+      "title": "Data Engineer",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-2976293",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2976284",
+      "title": "Data Engineer - Szeged",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2976284",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "location": "Csongrád-Csanád county, Szeged"
     }
   ],
   "active_jobs": [
@@ -138,10 +156,10 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2969390",
+      "job_id": "2972437",
       "title": "AI Engineer",
-      "company": "Greif Hungary Packaging Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-greif-hungary-packaging-kft-2969390",
+      "company": "IPACKCHEM Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437",
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "junior",
@@ -151,11 +169,11 @@
       "job_id": "2960114",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-pecs-2960114",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-2960114",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Győr"
     },
     {
       "job_id": "2954520",
@@ -308,26 +326,6 @@
       "location": "Vas county, Rábahídvég"
     },
     {
-      "job_id": "2951026",
-      "title": "Data Engineer",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-2951026",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2971291",
-      "title": "Data Engineer",
-      "company": "E-GROUP ICT SOFTWARE Zrt.",
-      "url": "https://www.profession.hu/allas/data-engineer-e-group-ict-software-zrt-2971291",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2976140",
       "title": "Data Engineer",
       "company": "Ford Közép- és Kelet-Európai Kft.",
@@ -336,6 +334,16 @@
       "work_mode": "",
       "seniority": "junior",
       "location": "Országos"
+    },
+    {
+      "job_id": "2976293",
+      "title": "Data Engineer",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-2976293",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "2954679",
@@ -356,6 +364,16 @@
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Pest county"
+    },
+    {
+      "job_id": "2976284",
+      "title": "Data Engineer - Szeged",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2976284",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "professional experience is not required",
+      "location": "Csongrád-Csanád county, Szeged"
     },
     {
       "job_id": "2973971",
@@ -766,6 +784,36 @@
       "work_mode": "Távmunka",
       "seniority": "1-3 years experience",
       "location": "Pest county"
+    },
+    {
+      "job_id": "2969390",
+      "title": "AI Engineer",
+      "company": "Greif Hungary Packaging Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineer-greif-hungary-packaging-kft-2969390",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2951026",
+      "title": "Data Engineer",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-2951026",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2971291",
+      "title": "Data Engineer",
+      "company": "E-GROUP ICT SOFTWARE Zrt.",
+      "url": "https://www.profession.hu/allas/data-engineer-e-group-ict-software-zrt-2971291",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
     }
   ],
   "history": [
@@ -971,6 +1019,13 @@
       "active_count": 65,
       "new_count": 1,
       "expired_count": 11
+    },
+    {
+      "completed_at": "2026-08-17T04:39:48.946789+00:00",
+      "status": "success",
+      "active_count": 68,
+      "new_count": 3,
+      "expired_count": 0
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",

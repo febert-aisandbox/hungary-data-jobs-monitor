@@ -1,10 +1,12 @@
-**Hungary data jobs — 2026-08-16**
-Observed: **65** · New: **1** · No longer observed: **11**
-Junior/internship: **11** · Hybrid/remote: **30**
-Role mix: data\-engineering: 25, data\-science\-ml: 23, analyst\-bi: 15, quant\-risk: 2
+**Hungary data jobs — 2026-08-17**
+Observed: **68** · New: **3** · No longer observed: **0**
+Junior/internship: **12** · Hybrid/remote: **32**
+Role mix: data\-engineering: 27, data\-science\-ml: 24, analyst\-bi: 15, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-ford-kozep-es-kelet-europai-kft-2976140) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437) — IPACKCHEM Kft\. \(Pest county\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-2976293) — Lufthansa Systems Hungária Kft\. \(Pest county\)
+- [Data Engineer \- Szeged](https://www.profession.hu/allas/data-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2976284) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
