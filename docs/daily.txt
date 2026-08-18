@@ -1,12 +1,12 @@
-**Hungary data jobs — 2026-08-17**
-Observed: **68** · New: **3** · No longer observed: **0**
-Junior/internship: **12** · Hybrid/remote: **32**
-Role mix: data\-engineering: 27, data\-science\-ml: 24, analyst\-bi: 15, quant\-risk: 2
+**Hungary data jobs — 2026-08-18**
+Observed: **69** · New: **3** · No longer observed: **2**
+Junior/internship: **12** · Hybrid/remote: **33**
+Role mix: data\-engineering: 27, data\-science\-ml: 25, analyst\-bi: 15, quant\-risk: 2
 
 **Noteworthy new listings**
-- [AI Engineer](https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437) — IPACKCHEM Kft\. \(Pest county\)
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-2976293) — Lufthansa Systems Hungária Kft\. \(Pest county\)
-- [Data Engineer \- Szeged](https://www.profession.hu/allas/data-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2976284) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
+- [Data engineer](https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-2977771) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
+- [Financial Data Engineer](https://www.profession.hu/allas/financial-data-engineer-msci-kft-2977682) — MSCI Kft\. \(Pest county\)
+- [ML engineer](https://www.profession.hu/allas/ml-engineer-kontron-hungary-kft-budaors-2977728) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
