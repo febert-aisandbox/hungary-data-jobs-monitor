@@ -1,16 +1,16 @@
 {
-  "report_date": "2026-08-18",
-  "updated_at": "2026-08-18 06:45 CEST",
+  "report_date": "2026-08-19",
+  "updated_at": "2026-08-19 06:37 CEST",
   "status": "success",
-  "active_total": 69,
-  "new_total": 3,
-  "expired_total": 2,
-  "junior_total": 12,
-  "hybrid_remote_total": 33,
+  "active_total": 70,
+  "new_total": 4,
+  "expired_total": 3,
+  "junior_total": 13,
+  "hybrid_remote_total": 34,
   "role_families": {
     "data-engineering": 27,
-    "data-science-ml": 25,
-    "analyst-bi": 15,
+    "data-science-ml": 24,
+    "analyst-bi": 17,
     "quant-risk": 2
   },
   "top_locations": [
@@ -20,15 +20,15 @@
     ],
     [
       "Pest county, Budapest",
-      17
-    ],
-    [
-      "Országos",
-      9
+      19
     ],
     [
       "Pest county, Pécs",
-      5
+      7
+    ],
+    [
+      "Országos",
+      7
     ],
     [
       "Csongrád-Csanád county, Szeged",
@@ -58,7 +58,7 @@
   "top_skills": [
     [
       "English",
-      67
+      68
     ],
     [
       "Python",
@@ -70,68 +70,77 @@
     ],
     [
       "Azure",
-      29
+      28
     ],
     [
       "AWS",
-      19
+      18
     ],
     [
       "Machine learning",
-      15
-    ],
-    [
-      "Spark",
-      12
-    ],
-    [
-      "Docker",
-      11
+      13
     ],
     [
       "Power BI",
+      13
+    ],
+    [
+      "Spark",
+      11
+    ],
+    [
+      "Docker",
       10
     ],
     [
       "Tableau",
-      4
+      5
     ],
     [
       "GCP",
       3
     ],
     [
-      "Statistics",
-      1
+      "Excel",
+      2
     ]
   ],
   "new_jobs": [
     {
-      "job_id": "2977771",
-      "title": "Data engineer",
-      "company": "Kontron Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-2977771",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Budaörs"
+      "job_id": "2977822",
+      "title": "Diákmunka - Project Data Analyst Intern",
+      "company": "MŰISZ Iskolaszövetkezet",
+      "url": "https://www.profession.hu/allas/diakmunka-project-data-analyst-intern-muisz-iskolaszovetkezet-budapest-2977822",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2977682",
-      "title": "Financial Data Engineer",
-      "company": "MSCI Kft.",
-      "url": "https://www.profession.hu/allas/financial-data-engineer-msci-kft-2977682",
+      "job_id": "2978566",
+      "title": "Expert Developer – Data Analytics & Data Engineering - REF5086I",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-pecs-2978566",
       "family": "data-engineering",
       "work_mode": "",
+      "location": "Pest county, Pécs"
+    },
+    {
+      "job_id": "2978533",
+      "title": "GBS Data Analytics, Sr. Analyst",
+      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2978533",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
       "location": "Pest county"
     },
     {
-      "job_id": "2977728",
-      "title": "ML engineer",
-      "company": "Kontron Hungary Kft.",
-      "url": "https://www.profession.hu/allas/ml-engineer-kontron-hungary-kft-budaors-2977728",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Budaörs"
+      "job_id": "2977896",
+      "title": "HR adatelemző(1089 Budapest, Orczy út 44-46.)",
+      "company": "BÁRDI AUTÓ ZRT.",
+      "url": "https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-2977896",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Pest county, Budapest"
     }
   ],
   "active_jobs": [
@@ -169,11 +178,11 @@
       "job_id": "2960114",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-2960114",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-pecs-2960114",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
-      "location": "Országos"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2954520",
@@ -386,6 +395,16 @@
       "location": "Pest county, Budaörs"
     },
     {
+      "job_id": "2977822",
+      "title": "Diákmunka - Project Data Analyst Intern",
+      "company": "MŰISZ Iskolaszövetkezet",
+      "url": "https://www.profession.hu/allas/diakmunka-project-data-analyst-intern-muisz-iskolaszovetkezet-budapest-2977822",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county, Budapest"
+    },
+    {
       "job_id": "2962581",
       "title": "Expert AI Engineer (REF5708U)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
@@ -393,6 +412,16 @@
       "family": "data-science-ml",
       "work_mode": "Távmunka",
       "seniority": "professional experience is not required",
+      "location": "Pest county, Pécs"
+    },
+    {
+      "job_id": "2978566",
+      "title": "Expert Developer – Data Analytics & Data Engineering - REF5086I",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-pecs-2978566",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "5-10 years experience",
       "location": "Pest county, Pécs"
     },
     {
@@ -416,14 +445,24 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2953029",
+      "job_id": "2978533",
       "title": "GBS Data Analytics, Sr. Analyst",
       "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2953029",
+      "url": "https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2978533",
       "family": "analyst-bi",
       "work_mode": "Hibrid",
       "seniority": "junior",
       "location": "Pest county"
+    },
+    {
+      "job_id": "2977896",
+      "title": "HR adatelemző(1089 Budapest, Orczy út 44-46.)",
+      "company": "BÁRDI AUTÓ ZRT.",
+      "url": "https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-2977896",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "professional experience is not required",
+      "location": "Pest county, Budapest"
     },
     {
       "job_id": "2957975",
@@ -464,6 +503,16 @@
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
       "location": "Pest county, Budaörs"
+    },
+    {
+      "job_id": "2965052",
+      "title": "Machine Learning Tech Lead",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-2965052",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "2959462",
@@ -564,6 +613,16 @@
       "work_mode": "",
       "seniority": "senior",
       "location": "Országos"
+    },
+    {
+      "job_id": "2969123",
+      "title": "Senior Data Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-betsson-group-2969123",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "2968449",
@@ -712,7 +771,7 @@
       "url": "https://www.profession.hu/allas/senior-fraud-analyst-global-payments-avis-budget-group-bsc-kft-2968410",
       "family": "quant-risk",
       "work_mode": "",
-      "seniority": "senior",
+      "seniority": "junior",
       "location": "Pest county"
     },
     {
@@ -776,64 +835,17 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2972437",
-      "title": "AI Engineer",
-      "company": "IPACKCHEM Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2976140",
-      "title": "Data Engineer",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-ford-kozep-es-kelet-europai-kft-2976140",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2952356",
-      "title": "Energetikai adatelemző",
-      "company": "ZIEHL-ABEGG Kft.",
-      "url": "https://www.profession.hu/allas/energetikai-adatelemzo-ziehl-abegg-kft-marcali-2952356",
+      "job_id": "2953029",
+      "title": "GBS Data Analytics, Sr. Analyst",
+      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2953029",
       "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "professional experience is not required",
-      "location": "Somogy county, Marcali"
-    },
-    {
-      "job_id": "2965052",
-      "title": "Machine Learning Tech Lead",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-2965052",
-      "family": "data-science-ml",
       "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2969123",
-      "title": "Senior Data Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-betsson-group-2969123",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
+      "seniority": "junior",
       "location": "Pest county"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-07-16T07:53:26.586373+00:00",
-      "status": "success",
-      "active_count": 64,
-      "new_count": 5,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-07-17T04:46:00.394870+00:00",
       "status": "success",
@@ -1036,6 +1048,13 @@
       "active_count": 69,
       "new_count": 3,
       "expired_count": 2
+    },
+    {
+      "completed_at": "2026-08-19T04:37:03.829574+00:00",
+      "status": "success",
+      "active_count": 70,
+      "new_count": 4,
+      "expired_count": 3
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",

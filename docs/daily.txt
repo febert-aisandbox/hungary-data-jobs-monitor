@@ -1,12 +1,13 @@
-**Hungary data jobs — 2026-08-18**
-Observed: **69** · New: **3** · No longer observed: **2**
-Junior/internship: **12** · Hybrid/remote: **33**
-Role mix: data\-engineering: 27, data\-science\-ml: 25, analyst\-bi: 15, quant\-risk: 2
+**Hungary data jobs — 2026-08-19**
+Observed: **70** · New: **4** · No longer observed: **3**
+Junior/internship: **13** · Hybrid/remote: **34**
+Role mix: data\-engineering: 27, data\-science\-ml: 24, analyst\-bi: 17, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Data engineer](https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-2977771) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
-- [Financial Data Engineer](https://www.profession.hu/allas/financial-data-engineer-msci-kft-2977682) — MSCI Kft\. \(Pest county\)
-- [ML engineer](https://www.profession.hu/allas/ml-engineer-kontron-hungary-kft-budaors-2977728) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
+- [Diákmunka \- Project Data Analyst Intern](https://www.profession.hu/allas/diakmunka-project-data-analyst-intern-muisz-iskolaszovetkezet-budapest-2977822) — MŰISZ Iskolaszövetkezet \(Pest county, Budapest\)
+- [Expert Developer – Data Analytics & Data Engineering \- REF5086I](https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-pecs-2978566) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
+- [GBS Data Analytics, Sr\. Analyst](https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2978533) — International Flavors & Fragrances I\.F\.F\. \(Hungary\) Kft\. \(Pest county\)
+- [HR adatelemző\(1089 Budapest, Orczy út 44\-46\.\)](https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-2977896) — BÁRDI AUTÓ ZRT\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
