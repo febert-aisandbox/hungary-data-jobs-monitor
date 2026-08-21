@@ -1,11 +1,11 @@
-**Hungary data jobs — 2026-08-20**
-Observed: **71** · New: **2** · No longer observed: **1**
-Junior/internship: **11** · Hybrid/remote: **34**
-Role mix: data\-engineering: 27, data\-science\-ml: 24, analyst\-bi: 18, quant\-risk: 2
+**Hungary data jobs — 2026-08-21**
+Observed: **69** · New: **2** · No longer observed: **4**
+Junior/internship: **12** · Hybrid/remote: **33**
+Role mix: data\-engineering: 27, data\-science\-ml: 24, analyst\-bi: 16, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Business Intelligence Engineer – MOHU \(MOL Csoport\)](https://www.profession.hu/allas/business-intelligence-engineer-mohu-mol-csoport-mohu-mol-hulladekgazdalkodasi-zrt-budapest-2977983) — MOHU MOL Hulladékgazdálkodási Zrt\. \(Pest county, Budapest\)
-- [HR Reporting Analyst](https://www.profession.hu/allas/hr-reporting-analyst-roche-szolgaltato-europa-kft-2979499) — Roche Szolgáltató \(Európa\) Kft\. \(Pest county\)
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437) — IPACKCHEM Kft\. \(Pest county\)
+- [Quality Analytics Engineer](https://www.profession.hu/allas/quality-analytics-engineer-ford-kozep-es-kelet-europai-kft-2979863) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
