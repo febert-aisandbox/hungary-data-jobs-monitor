@@ -1,12 +1,11 @@
-**Hungary data jobs — 2026-08-22**
-Observed: **71** · New: **3** · No longer observed: **1**
-Junior/internship: **12** · Hybrid/remote: **34**
-Role mix: data\-engineering: 28, data\-science\-ml: 25, analyst\-bi: 16, quant\-risk: 2
+**Hungary data jobs — 2026-08-23**
+Observed: **64** · New: **2** · No longer observed: **9**
+Junior/internship: **8** · Hybrid/remote: **30**
+Role mix: data\-engineering: 27, data\-science\-ml: 20, analyst\-bi: 15, quant\-risk: 2
 
 **Noteworthy new listings**
-- [AI Engineer \(REF5308Q\)](https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-debrecen-2980402) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
-- [Data Engineer \(REF5482T\)](https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-debrecen-2980386) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
-- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2958583) — Hawk\-Eye Innovations Ltd\. \(Pest county\)
+- [Data Scientist](https://www.profession.hu/allas/data-scientist-ford-kozep-es-kelet-europai-kft-2980549) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
+- [Full Stack Data Engineer](https://www.profession.hu/allas/full-stack-data-engineer-ford-kozep-es-kelet-europai-kft-2980563) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
