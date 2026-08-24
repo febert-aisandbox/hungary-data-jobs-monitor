@@ -1,11 +1,14 @@
-**Hungary data jobs — 2026-08-23**
-Observed: **64** · New: **2** · No longer observed: **9**
-Junior/internship: **8** · Hybrid/remote: **30**
-Role mix: data\-engineering: 27, data\-science\-ml: 20, analyst\-bi: 15, quant\-risk: 2
+**Hungary data jobs — 2026-08-24**
+Observed: **65** · New: **5** · No longer observed: **4**
+Junior/internship: **11** · Hybrid/remote: **29**
+Role mix: data\-engineering: 27, data\-science\-ml: 22, analyst\-bi: 15, quant\-risk: 1
 
 **Noteworthy new listings**
-- [Data Scientist](https://www.profession.hu/allas/data-scientist-ford-kozep-es-kelet-europai-kft-2980549) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
-- [Full Stack Data Engineer](https://www.profession.hu/allas/full-stack-data-engineer-ford-kozep-es-kelet-europai-kft-2980563) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
+- [Accounts Payable Senior Vendor Master Data Analyst](https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-2980695) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
+- [Lead ML Engineer](https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2963737) — greeHill Europe Kft\. \(Pest county\)
+- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2966162) — greeHill Europe Kft\. \(Pest county\)
+- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2973393) — Hawk\-Eye Innovations Ltd\. \(Pest county\)
+- [Supply Chain Business Intelligence Engineer](https://www.profession.hu/allas/supply-chain-business-intelligence-engineer-ford-kozep-es-kelet-europai-kft-2980694) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
