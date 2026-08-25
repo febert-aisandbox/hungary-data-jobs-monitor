@@ -1,26 +1,26 @@
 {
-  "report_date": "2026-08-24",
-  "updated_at": "2026-08-24 06:39 CEST",
+  "report_date": "2026-08-25",
+  "updated_at": "2026-08-25 06:45 CEST",
   "status": "success",
-  "active_total": 65,
-  "new_total": 5,
+  "active_total": 63,
+  "new_total": 2,
   "expired_total": 4,
-  "junior_total": 11,
-  "hybrid_remote_total": 29,
+  "junior_total": 10,
+  "hybrid_remote_total": 28,
   "role_families": {
     "data-engineering": 27,
-    "data-science-ml": 22,
-    "analyst-bi": 15,
+    "data-science-ml": 21,
+    "analyst-bi": 14,
     "quant-risk": 1
   },
   "top_locations": [
     [
       "Pest county",
-      25
+      24
     ],
     [
       "Pest county, Budapest",
-      18
+      17
     ],
     [
       "Országos",
@@ -28,11 +28,15 @@
     ],
     [
       "Pest county, Debrecen",
-      7
+      5
     ],
     [
       "Csongrád-Csanád county, Szeged",
       2
+    ],
+    [
+      "Pest county, Győr",
+      1
     ],
     [
       "Pest county, Szentendre",
@@ -40,10 +44,6 @@
     ],
     [
       "Vas county, Rábahídvég",
-      1
-    ],
-    [
-      "Fejér county, Székesfehérvár",
       1
     ],
     [
@@ -58,15 +58,15 @@
   "top_skills": [
     [
       "English",
-      63
+      61
     ],
     [
       "Python",
-      41
+      40
     ],
     [
       "SQL",
-      29
+      28
     ],
     [
       "Azure",
@@ -77,11 +77,11 @@
       17
     ],
     [
-      "Spark",
-      12
+      "Machine learning",
+      11
     ],
     [
-      "Machine learning",
+      "Spark",
       11
     ],
     [
@@ -107,49 +107,22 @@
   ],
   "new_jobs": [
     {
-      "job_id": "2980695",
-      "title": "Accounts Payable Senior Vendor Master Data Analyst",
-      "company": "Thermo Services (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-2980695",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2963737",
-      "title": "Lead ML Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2963737",
+      "job_id": "2982225",
+      "title": "Senior AI Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-2982225",
       "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2966162",
-      "title": "Senior Machine Learning Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2966162",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2973393",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2973393",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2980694",
-      "title": "Supply Chain Business Intelligence Engineer",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/supply-chain-business-intelligence-engineer-ford-kozep-es-kelet-europai-kft-2980694",
-      "family": "analyst-bi",
       "work_mode": "",
       "location": "Országos"
+    },
+    {
+      "job_id": "2982217",
+      "title": "Senior Machine Learning Engineer, Learner Modeling",
+      "company": "Instructure Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-2982217",
+      "family": "data-science-ml",
+      "work_mode": "Távmunka",
+      "location": "Pest county"
     }
   ],
   "active_jobs": [
@@ -177,11 +150,11 @@
       "job_id": "2960114",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-debrecen-2960114",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-2960114",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Győr"
     },
     {
       "job_id": "2980402",
@@ -281,16 +254,6 @@
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2977983",
-      "title": "Business Intelligence Engineer – MOHU (MOL Csoport)",
-      "company": "MOHU MOL Hulladékgazdálkodási Zrt.",
-      "url": "https://www.profession.hu/allas/business-intelligence-engineer-mohu-mol-csoport-mohu-mol-hulladekgazdalkodasi-zrt-budapest-2977983",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "senior",
       "location": "Pest county, Budapest"
     },
     {
@@ -414,16 +377,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2980563",
-      "title": "Full Stack Data Engineer",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/full-stack-data-engineer-ford-kozep-es-kelet-europai-kft-2980563",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "5-10 years experience",
-      "location": "Országos"
-    },
-    {
       "job_id": "2979499",
       "title": "HR Reporting Analyst",
       "company": "Roche Szolgáltató (Európa) Kft.",
@@ -442,16 +395,6 @@
       "work_mode": "",
       "seniority": "professional experience is not required",
       "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2957975",
-      "title": "Lead AI Engineer",
-      "company": "Hydro Extrusion Hungary Kft.",
-      "url": "https://www.profession.hu/allas/lead-ai-engineer-hydro-extrusion-hungary-kft-szekesfehervar-2957975",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Fejér county, Székesfehérvár"
     },
     {
       "job_id": "2963737",
@@ -522,6 +465,16 @@
       "work_mode": "Hibrid",
       "seniority": "senior",
       "location": "Pest county"
+    },
+    {
+      "job_id": "2982225",
+      "title": "Senior AI Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-2982225",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Országos"
     },
     {
       "job_id": "2976001",
@@ -657,11 +610,11 @@
       "job_id": "2973800",
       "title": "Senior Data Engineer - Power Platform - REF5084T",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-debrecen-2973800",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-szeged-2973800",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "2969119",
@@ -734,6 +687,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "2982217",
+      "title": "Senior Machine Learning Engineer, Learner Modeling",
+      "company": "Instructure Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-2982217",
+      "family": "data-science-ml",
+      "work_mode": "Távmunka",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "2965099",
       "title": "Senior Machine Learning System Builder",
       "company": "OPSWAT Kft.",
@@ -754,6 +717,36 @@
       "location": "Országos"
     },
     {
+      "job_id": "2977983",
+      "title": "Business Intelligence Engineer – MOHU (MOL Csoport)",
+      "company": "MOHU MOL Hulladékgazdálkodási Zrt.",
+      "url": "https://www.profession.hu/allas/business-intelligence-engineer-mohu-mol-csoport-mohu-mol-hulladekgazdalkodasi-zrt-budapest-2977983",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2980563",
+      "title": "Full Stack Data Engineer",
+      "company": "Ford Közép- és Kelet-Európai Kft.",
+      "url": "https://www.profession.hu/allas/full-stack-data-engineer-ford-kozep-es-kelet-europai-kft-2980563",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "5-10 years experience",
+      "location": "Országos"
+    },
+    {
+      "job_id": "2957975",
+      "title": "Lead AI Engineer",
+      "company": "Hydro Extrusion Hungary Kft.",
+      "url": "https://www.profession.hu/allas/lead-ai-engineer-hydro-extrusion-hungary-kft-szekesfehervar-2957975",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Fejér county, Székesfehérvár"
+    },
+    {
       "job_id": "2980694",
       "title": "Supply Chain Business Intelligence Engineer",
       "company": "Ford Közép- és Kelet-Európai Kft.",
@@ -762,56 +755,9 @@
       "work_mode": "",
       "seniority": "1-3 years experience",
       "location": "Országos"
-    },
-    {
-      "job_id": "2956606",
-      "title": "Accounts Payable Senior Vendor Master Data Analyst",
-      "company": "Thermo Services (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-2956606",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2958063",
-      "title": "Adatelemzési szakértő (Data Scientist)",
-      "company": "Alfa Vienna Insurance Group Biztosító Zrt.",
-      "url": "https://www.profession.hu/allas/adatelemzesi-szakerto-data-scientist-alfa-vienna-insurance-group-biztosito-zrt-budapest-2958063",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2980549",
-      "title": "Data Scientist",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/data-scientist-ford-kozep-es-kelet-europai-kft-2980549",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2958583",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2958583",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
-      "location": "Pest county"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-07-24T04:47:37.964490+00:00",
-      "status": "success",
-      "active_count": 67,
-      "new_count": 0,
-      "expired_count": 1
-    },
     {
       "completed_at": "2026-07-25T04:38:55.599160+00:00",
       "status": "success",
@@ -1013,6 +959,13 @@
       "status": "success",
       "active_count": 65,
       "new_count": 5,
+      "expired_count": 4
+    },
+    {
+      "completed_at": "2026-08-25T04:45:43.594807+00:00",
+      "status": "success",
+      "active_count": 63,
+      "new_count": 2,
       "expired_count": 4
     }
   ],
