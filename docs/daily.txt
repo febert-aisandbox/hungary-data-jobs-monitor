@@ -1,11 +1,12 @@
-**Hungary data jobs — 2026-08-25**
-Observed: **63** · New: **2** · No longer observed: **4**
-Junior/internship: **10** · Hybrid/remote: **28**
-Role mix: data\-engineering: 27, data\-science\-ml: 21, analyst\-bi: 14, quant\-risk: 1
+**Hungary data jobs — 2026-08-26**
+Observed: **62** · New: **3** · No longer observed: **4**
+Junior/internship: **9** · Hybrid/remote: **29**
+Role mix: data\-engineering: 26, data\-science\-ml: 23, analyst\-bi: 12, quant\-risk: 1
 
 **Noteworthy new listings**
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-betsson-group-2982225) — Betsson Group \(Országos\)
-- [Senior Machine Learning Engineer, Learner Modeling](https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-2982217) — Instructure Hungary Kft\. \(Pest county\)
+- [Lead AI Engineer](https://www.profession.hu/allas/lead-ai-engineer-hydro-extrusion-hungary-kft-szekesfehervar-2982417) — Hydro Extrusion Hungary Kft\. \(Fejér county, Székesfehérvár\)
+- [Machine Learning Data Builder](https://www.profession.hu/allas/machine-learning-data-builder-opswat-kft-2961874) — OPSWAT Kft\. \(Pest county\)
+- [Senior data scientist](https://www.profession.hu/allas/senior-data-scientist-profession-services-2982650) — Profession Services \(Unspecified\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._

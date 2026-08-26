@@ -1,30 +1,30 @@
 {
-  "report_date": "2026-08-25",
-  "updated_at": "2026-08-25 06:45 CEST",
+  "report_date": "2026-08-26",
+  "updated_at": "2026-08-26 06:36 CEST",
   "status": "success",
-  "active_total": 63,
-  "new_total": 2,
+  "active_total": 62,
+  "new_total": 3,
   "expired_total": 4,
-  "junior_total": 10,
-  "hybrid_remote_total": 28,
+  "junior_total": 9,
+  "hybrid_remote_total": 29,
   "role_families": {
-    "data-engineering": 27,
-    "data-science-ml": 21,
-    "analyst-bi": 14,
+    "data-engineering": 26,
+    "data-science-ml": 23,
+    "analyst-bi": 12,
     "quant-risk": 1
   },
   "top_locations": [
     [
       "Pest county",
-      24
+      25
     ],
     [
       "Pest county, Budapest",
-      17
+      16
     ],
     [
       "Országos",
-      8
+      6
     ],
     [
       "Pest county, Debrecen",
@@ -47,18 +47,18 @@
       1
     ],
     [
-      "Jász-Nagykun-Szolnok county, Jászárokszállás",
+      "Fejér county, Székesfehérvár",
       1
     ],
     [
-      "Pest county, Üllő",
+      "Jász-Nagykun-Szolnok county, Jászárokszállás",
       1
     ]
   ],
   "top_skills": [
     [
       "English",
-      61
+      60
     ],
     [
       "Python",
@@ -66,7 +66,7 @@
     ],
     [
       "SQL",
-      28
+      27
     ],
     [
       "Azure",
@@ -78,7 +78,7 @@
     ],
     [
       "Machine learning",
-      11
+      12
     ],
     [
       "Spark",
@@ -86,7 +86,7 @@
     ],
     [
       "Power BI",
-      11
+      10
     ],
     [
       "Docker",
@@ -94,11 +94,11 @@
     ],
     [
       "Tableau",
-      6
+      5
     ],
     [
       "GCP",
-      4
+      3
     ],
     [
       "Excel",
@@ -107,22 +107,31 @@
   ],
   "new_jobs": [
     {
-      "job_id": "2982225",
-      "title": "Senior AI Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-2982225",
+      "job_id": "2982417",
+      "title": "Lead AI Engineer",
+      "company": "Hydro Extrusion Hungary Kft.",
+      "url": "https://www.profession.hu/allas/lead-ai-engineer-hydro-extrusion-hungary-kft-szekesfehervar-2982417",
       "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Országos"
+      "work_mode": "Hibrid",
+      "location": "Fejér county, Székesfehérvár"
     },
     {
-      "job_id": "2982217",
-      "title": "Senior Machine Learning Engineer, Learner Modeling",
-      "company": "Instructure Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-2982217",
+      "job_id": "2961874",
+      "title": "Machine Learning Data Builder",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-data-builder-opswat-kft-2961874",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2982650",
+      "title": "Senior data scientist",
+      "company": "Profession Services",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-profession-services-2982650",
       "family": "data-science-ml",
       "work_mode": "Távmunka",
-      "location": "Pest county"
+      "location": "Unspecified"
     }
   ],
   "active_jobs": [
@@ -243,7 +252,7 @@
       "url": "https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-2961842",
       "family": "analyst-bi",
       "work_mode": "",
-      "seniority": "junior",
+      "seniority": "1-3 years experience",
       "location": "Pest county"
     },
     {
@@ -397,6 +406,16 @@
       "location": "Pest county, Budapest"
     },
     {
+      "job_id": "2982417",
+      "title": "Lead AI Engineer",
+      "company": "Hydro Extrusion Hungary Kft.",
+      "url": "https://www.profession.hu/allas/lead-ai-engineer-hydro-extrusion-hungary-kft-szekesfehervar-2982417",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Fejér county, Székesfehérvár"
+    },
+    {
       "job_id": "2963737",
       "title": "Lead ML Engineer",
       "company": "greeHill Europe Kft.",
@@ -415,6 +434,16 @@
       "work_mode": "",
       "seniority": "1-3 years experience",
       "location": "Jász-Nagykun-Szolnok county, Jászárokszállás"
+    },
+    {
+      "job_id": "2961874",
+      "title": "Machine Learning Data Builder",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-data-builder-opswat-kft-2961874",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "2959462",
@@ -610,11 +639,11 @@
       "job_id": "2973800",
       "title": "Senior Data Engineer - Power Platform - REF5084T",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-szeged-2973800",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-2973800",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Szeged"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2969119",
@@ -707,6 +736,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "2982650",
+      "title": "Senior data scientist",
+      "company": "Profession Services",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-profession-services-2982650",
+      "family": "data-science-ml",
+      "work_mode": "Távmunka",
+      "seniority": "senior",
+      "location": "Unspecified"
+    },
+    {
       "job_id": "2975992",
       "title": "Sportsbook – Senior Data Engineer",
       "company": "Betsson Group",
@@ -715,56 +754,9 @@
       "work_mode": "",
       "seniority": "senior",
       "location": "Országos"
-    },
-    {
-      "job_id": "2977983",
-      "title": "Business Intelligence Engineer – MOHU (MOL Csoport)",
-      "company": "MOHU MOL Hulladékgazdálkodási Zrt.",
-      "url": "https://www.profession.hu/allas/business-intelligence-engineer-mohu-mol-csoport-mohu-mol-hulladekgazdalkodasi-zrt-budapest-2977983",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2980563",
-      "title": "Full Stack Data Engineer",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/full-stack-data-engineer-ford-kozep-es-kelet-europai-kft-2980563",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "5-10 years experience",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2957975",
-      "title": "Lead AI Engineer",
-      "company": "Hydro Extrusion Hungary Kft.",
-      "url": "https://www.profession.hu/allas/lead-ai-engineer-hydro-extrusion-hungary-kft-szekesfehervar-2957975",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Fejér county, Székesfehérvár"
-    },
-    {
-      "job_id": "2980694",
-      "title": "Supply Chain Business Intelligence Engineer",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/supply-chain-business-intelligence-engineer-ford-kozep-es-kelet-europai-kft-2980694",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "1-3 years experience",
-      "location": "Országos"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-07-25T04:38:55.599160+00:00",
-      "status": "success",
-      "active_count": 69,
-      "new_count": 5,
-      "expired_count": 3
-    },
     {
       "completed_at": "2026-07-26T04:45:04.383630+00:00",
       "status": "success",
@@ -966,6 +958,13 @@
       "status": "success",
       "active_count": 63,
       "new_count": 2,
+      "expired_count": 4
+    },
+    {
+      "completed_at": "2026-08-26T04:36:34.246932+00:00",
+      "status": "success",
+      "active_count": 62,
+      "new_count": 3,
       "expired_count": 4
     }
   ],
