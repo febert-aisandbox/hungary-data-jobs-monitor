@@ -1,12 +1,15 @@
-**Hungary data jobs — 2026-08-26**
-Observed: **62** · New: **3** · No longer observed: **4**
-Junior/internship: **9** · Hybrid/remote: **29**
-Role mix: data\-engineering: 26, data\-science\-ml: 23, analyst\-bi: 12, quant\-risk: 1
+**Hungary data jobs — 2026-08-28**
+⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
+Observed: **67** · New: **5** · No longer observed: **0**
+Junior/internship: **9** · Hybrid/remote: **31**
+Role mix: data\-engineering: 28, data\-science\-ml: 24, analyst\-bi: 14, quant\-risk: 1
 
 **Noteworthy new listings**
-- [Lead AI Engineer](https://www.profession.hu/allas/lead-ai-engineer-hydro-extrusion-hungary-kft-szekesfehervar-2982417) — Hydro Extrusion Hungary Kft\. \(Fejér county, Székesfehérvár\)
-- [Machine Learning Data Builder](https://www.profession.hu/allas/machine-learning-data-builder-opswat-kft-2961874) — OPSWAT Kft\. \(Pest county\)
-- [Senior data scientist](https://www.profession.hu/allas/senior-data-scientist-profession-services-2982650) — Profession Services \(Unspecified\)
+- [CE Data Analyst](https://www.profession.hu/allas/ce-data-analyst-tesco-global-zrt-budaors-2985337) — TESCO\-GLOBAL ZRT\. \(Pest county, Budaörs\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-betsson-group-2985658) — Betsson Group \(Országos\)
+- [Global Mobility Policy Data Analyst](https://www.profession.hu/allas/global-mobility-policy-data-analyst-siemens-energy-kft-2984787) — Siemens Energy Kft\. \(Pest county\)
+- [Machine Learning Engineer](https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-2985734) — OPSWAT Kft\. \(Pest county\)
+- [Senior Data Engineer \(f/m/d\)](https://www.profession.hu/allas/senior-data-engineer-f-m-d-siemens-energy-kft-2984606) — Siemens Energy Kft\. \(Országos\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
