@@ -32,7 +32,6 @@ def _digest(snapshot: dict) -> str:
 def decide_delivery(now: datetime, snapshot) -> str:
     if now.tzinfo is None: raise ValueError("now must be timezone-aware")
     local=now.astimezone(TZ)
-    if (local.hour,local.minute)!=(7,30): return ""
     today=local.date().isoformat()
     if not _valid_snapshot(snapshot,today): return f"⚠️ Hungary data jobs report is not available for {today}. The collector will retry on its next scheduled run."
     return _digest(snapshot)
@@ -57,7 +56,6 @@ def _fetch_report() -> dict:
 
 def main() -> int:
     now=datetime.now(TZ)
-    if (now.hour,now.minute)!=(7,30): return 0
     try: snapshot=_fetch_report()
     except (OSError,RuntimeError,ValueError,json.JSONDecodeError,UnicodeError,urllib.error.HTTPError): snapshot=None
     output=decide_delivery(now,snapshot)

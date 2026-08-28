@@ -15,11 +15,11 @@ SNAPSHOT={
 
 
 class DeliveryTests(unittest.TestCase):
-    def test_is_silent_outside_exact_local_delivery_minute(self):
-        self.assertEqual(decide_delivery(datetime(2026,7,15,7,29,tzinfo=TZ),SNAPSHOT),"")
-        self.assertEqual(decide_delivery(datetime(2026,7,15,7,31,tzinfo=TZ),SNAPSHOT),"")
+    def test_delivers_when_daily_cron_invokes_it_after_collection(self):
+        output=decide_delivery(datetime(2026,7,15,8,30,tzinfo=TZ),SNAPSHOT)
+        self.assertIn("Hungary data jobs",output)
 
-    def test_delivers_fresh_report_at_0730_budapest(self):
+    def test_delivers_fresh_report_for_the_current_budapest_date(self):
         output=decide_delivery(datetime(2026,7,15,5,30,tzinfo=timezone.utc),SNAPSHOT)
         self.assertIn("Hungary data jobs",output)
         self.assertIn("Observed: **12**",output)
