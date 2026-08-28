@@ -1,14 +1,15 @@
 {
   "report_date": "2026-08-28",
-  "updated_at": "2026-08-28 18:35 CEST",
+  "updated_at": "2026-08-28 18:55 CEST",
   "status": "degraded",
   "active_total": 67,
   "new_total": 0,
   "expired_total": 0,
-  "completed_queries": 10,
+  "completed_queries": 9,
   "expected_queries": 11,
   "failed_searches": [
-    "quantitative analyst"
+    "business intelligence",
+    "data engineer"
   ],
   "junior_total": 9,
   "hybrid_remote_total": 31,
@@ -203,16 +204,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2966213",
-      "title": "Business Intelligence & Process Improvement Specialist",
-      "company": "MOL Nyrt.",
-      "url": "https://www.profession.hu/allas/business-intelligence-process-improvement-specialist-mol-nyrt-budapest-2966213",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "2985337",
       "title": "CE Data Analyst",
       "company": "TESCO-GLOBAL ZRT.",
@@ -313,16 +304,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2978566",
-      "title": "Expert Developer – Data Analytics & Data Engineering - REF5086I",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-szeged-2978566",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "5-10 years experience",
-      "location": "Pest county, Szeged"
-    },
-    {
       "job_id": "2969438",
       "title": "Financial Advisory Senior Associate (Data Analytics & AI)",
       "company": "Deloitte Zrt.",
@@ -350,16 +331,6 @@
       "family": "analyst-bi",
       "work_mode": "Hibrid",
       "seniority": "1-3 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2979499",
-      "title": "HR Reporting Analyst",
-      "company": "Roche Szolgáltató (Európa) Kft.",
-      "url": "https://www.profession.hu/allas/hr-reporting-analyst-roche-szolgaltato-europa-kft-2979499",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
       "location": "Pest county"
     },
     {
@@ -440,16 +411,6 @@
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "1-3 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2966990",
-      "title": "Research & Reporting Analyst",
-      "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/research-reporting-analyst-cushman-wakefield-kft-2966990",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "senior",
       "location": "Pest county"
     },
     {
@@ -663,16 +624,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2968410",
-      "title": "Senior Fraud Analyst, Global Payments",
-      "company": "Avis Budget Group BSC Kft.",
-      "url": "https://www.profession.hu/allas/senior-fraud-analyst-global-payments-avis-budget-group-bsc-kft-2968410",
-      "family": "quant-risk",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2966162",
       "title": "Senior Machine Learning Engineer",
       "company": "greeHill Europe Kft.",
@@ -733,6 +684,56 @@
       "location": "Országos"
     },
     {
+      "job_id": "2966213",
+      "title": "Business Intelligence & Process Improvement Specialist",
+      "company": "MOL Nyrt.",
+      "url": "https://www.profession.hu/allas/business-intelligence-process-improvement-specialist-mol-nyrt-budapest-2966213",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2978566",
+      "title": "Expert Developer – Data Analytics & Data Engineering - REF5086I",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-szeged-2978566",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "5-10 years experience",
+      "location": "Pest county, Szeged"
+    },
+    {
+      "job_id": "2979499",
+      "title": "HR Reporting Analyst",
+      "company": "Roche Szolgáltató (Európa) Kft.",
+      "url": "https://www.profession.hu/allas/hr-reporting-analyst-roche-szolgaltato-europa-kft-2979499",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2966990",
+      "title": "Research & Reporting Analyst",
+      "company": "Cushman & Wakefield Kft.",
+      "url": "https://www.profession.hu/allas/research-reporting-analyst-cushman-wakefield-kft-2966990",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2968410",
+      "title": "Senior Fraud Analyst, Global Payments",
+      "company": "Avis Budget Group BSC Kft.",
+      "url": "https://www.profession.hu/allas/senior-fraud-analyst-global-payments-avis-budget-group-bsc-kft-2968410",
+      "family": "quant-risk",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "2960399",
       "title": "AI ENGINEER",
       "company": "Raiffeisen Bank Zrt.",
@@ -784,13 +785,6 @@
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-08-20T04:45:54.238717+00:00",
-      "status": "success",
-      "active_count": 71,
-      "new_count": 2,
-      "expired_count": 1
-    },
     {
       "completed_at": "2026-08-21T04:36:49.288972+00:00",
       "status": "success",
@@ -989,6 +983,13 @@
     },
     {
       "completed_at": "2026-08-28T16:35:38.505803+00:00",
+      "status": "degraded",
+      "active_count": 67,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-08-28T16:55:29.249035+00:00",
       "status": "degraded",
       "active_count": 67,
       "new_count": 0,
