@@ -1,15 +1,13 @@
 {
   "report_date": "2026-08-28",
-  "updated_at": "2026-08-28 19:15 CEST",
-  "status": "degraded",
+  "updated_at": "2026-08-28 19:36 CEST",
+  "status": "success",
   "active_total": 67,
   "new_total": 0,
   "expired_total": 0,
-  "completed_queries": 10,
+  "completed_queries": 11,
   "expected_queries": 11,
-  "failed_searches": [
-    "data engineer"
-  ],
+  "failed_searches": [],
   "junior_total": 9,
   "hybrid_remote_total": 31,
   "role_families": {
@@ -785,13 +783,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-08-22T04:42:40.770019+00:00",
-      "status": "success",
-      "active_count": 71,
-      "new_count": 3,
-      "expired_count": 1
-    },
-    {
       "completed_at": "2026-08-23T04:48:38.733294+00:00",
       "status": "success",
       "active_count": 64,
@@ -990,6 +981,13 @@
     {
       "completed_at": "2026-08-28T17:15:41.626398+00:00",
       "status": "degraded",
+      "active_count": 67,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-08-28T17:36:42.844157+00:00",
+      "status": "success",
       "active_count": 67,
       "new_count": 0,
       "expired_count": 0
