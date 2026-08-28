@@ -17,6 +17,11 @@ if [[ -f "$LOG" && "$(stat -c %s "$LOG")" -gt 5242880 ]]; then mv "$LOG" "$LOG.1
 if timeout 20m "$RUNNER" >>"$LOG" 2>&1; then
   printf '%s\n' "$TODAY" > "$STAMP"
 else
-  printf '[%s] collection failed\n' "$(date -Is)" >>"$LOG"
+  status=$?
+  if [[ "$status" -eq 5 ]]; then
+    printf '[%s] degraded report published; retrying later\n' "$(date -Is)" >>"$LOG"
+  else
+    printf '[%s] collection failed\n' "$(date -Is)" >>"$LOG"
+  fi
   exit 1
 fi

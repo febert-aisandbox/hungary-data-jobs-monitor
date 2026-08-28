@@ -35,6 +35,20 @@ class ScheduleTests(unittest.TestCase):
             subprocess.run([str(SCRIPT)], env=env, check=True)
             self.assertEqual(calls.read_text(), "run")
 
+    def test_degraded_publication_is_not_stamped_and_is_retried(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            base = Path(tmp)
+            runner = base / "runner.sh"
+            runner.write_text("#!/bin/sh\nexit 5\n")
+            runner.chmod(0o755)
+            env = {**os.environ, "BASE": str(base), "RUNNER": str(runner), "NOW_DATE": "2026-08-28", "NOW_HHMM": "0630"}
+
+            result = subprocess.run([str(SCRIPT)], env=env, check=False)
+
+            self.assertNotEqual(result.returncode, 0)
+            self.assertFalse((base / "data" / "last-success-date").exists())
+            self.assertIn("degraded report published; retrying later", (base / "logs" / "collector.log").read_text())
+
     def test_uses_configured_app_directory_for_default_runner(self):
         with tempfile.TemporaryDirectory() as tmp:
             base=Path(tmp); app=base/"app"; data=base/"data"; calls=base/"calls"

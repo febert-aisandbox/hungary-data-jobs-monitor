@@ -33,6 +33,14 @@ class Store:
     def latest_success_on(self, date: str):
         rows=self.db.execute("SELECT * FROM runs WHERE status='success' ORDER BY id DESC").fetchall()
         row=next((r for r in rows if datetime.fromisoformat(r["completed_at"]).astimezone(ZoneInfo("Europe/Budapest")).date().isoformat()==date),None)
+        return self._run_result(row)
+
+    def latest_reportable_on(self, date: str):
+        rows=self.db.execute("SELECT * FROM runs WHERE status IN ('success','degraded') ORDER BY id DESC").fetchall()
+        row=next((r for r in rows if datetime.fromisoformat(r["completed_at"]).astimezone(ZoneInfo("Europe/Budapest")).date().isoformat()==date),None)
+        return self._run_result(row)
+
+    def _run_result(self, row):
         if row is None: return None
         events=self.db.execute("SELECT job_id,event FROM run_events WHERE run_id=?",(row["id"],)).fetchall()
         return RunResult(row["id"],row["completed_at"],sorted(r["job_id"] for r in events if r["event"]=="new"),sorted(r["job_id"] for r in events if r["event"]=="expired"),row["active_count"],row["status"])
@@ -42,13 +50,17 @@ class Store:
         self.db.commit()
 
     def report_on(self, date: str):
-        run=self.latest_success_on(date)
+        run=self.latest_reportable_on(date)
         if run is None: return None
         row=self.db.execute("SELECT payload FROM reports WHERE run_id=?",(run.run_id,)).fetchone()
         return json.loads(row[0]) if row else None
 
     def mark_published(self, run_id: int):
         self.db.execute("UPDATE reports SET published=1 WHERE run_id=?",(run_id,)); self.db.commit()
+
+    def report_is_published(self, run_id: int) -> bool:
+        row=self.db.execute("SELECT published FROM reports WHERE run_id=?",(run_id,)).fetchone()
+        return bool(row and row[0])
 
     def close(self): self.db.close()
 
@@ -57,16 +69,20 @@ class Store:
             return self.record_partial_run(by_query, expected_queries, observed_at)
         return self._record(by_query, expected_queries, observed_at)
 
+    def record_degraded_run(self, by_query: dict[str, list[Job]], expected_queries: int, observed_at: str | None = None) -> RunResult:
+        if not by_query or len(by_query) >= expected_queries:
+            raise ValueError("degraded run requires some but not all queries to complete")
+        return self._record(by_query,expected_queries,observed_at,status="degraded",count_misses=False)
+
     def record_partial_run(self, by_query: dict[str, list[Job]], expected_queries: int | None = None, observed_at: str | None = None) -> RunResult:
         now = observed_at or datetime.now(timezone.utc).isoformat()
         cur = self.db.execute("INSERT INTO runs(completed_at,status,expected_queries,completed_queries,active_count) VALUES(?,?,?,?,?)", (now,"partial",expected_queries or len(by_query),len(by_query),self.active_count()))
         self.db.commit()
         return RunResult(cur.lastrowid,now,[],[],self.active_count(),"partial")
 
-    def _record(self, by_query, expected_queries, observed_at=None):
+    def _record(self, by_query, expected_queries, observed_at=None, status="success", count_misses=True):
         now = observed_at or datetime.now(timezone.utc).isoformat()
         run_date = datetime.fromisoformat(now).astimezone(ZoneInfo("Europe/Budapest")).date().isoformat()
-        status = "success"
         cur = self.db.execute("INSERT INTO runs(completed_at,status,expected_queries,completed_queries) VALUES(?,?,?,?)", (now,status,expected_queries,len(by_query)))
         run_id = cur.lastrowid
         existing = {r["job_id"]: dict(r) for r in self.db.execute("SELECT * FROM jobs")}
@@ -89,7 +105,7 @@ class Store:
                 self.db.execute("INSERT OR IGNORE INTO observations(run_id,job_id) VALUES(?,?)", (run_id,enriched.job_id))
                 self.db.execute("INSERT OR IGNORE INTO job_queries(run_id,job_id,query) VALUES(?,?,?)", (run_id,enriched.job_id,query))
         expired: list[str] = []
-        active_ids = [r[0] for r in self.db.execute("SELECT job_id FROM jobs WHERE active=1")]
+        active_ids = [r[0] for r in self.db.execute("SELECT job_id FROM jobs WHERE active=1")] if count_misses else []
         for job_id in active_ids:
             if job_id not in seen:
                 prior_miss=self.db.execute("SELECT last_miss_date FROM jobs WHERE job_id=?", (job_id,)).fetchone()[0]
@@ -113,4 +129,4 @@ class Store:
         marks=",".join("?" for _ in ids)
         return [dict(r) for r in self.db.execute(f"SELECT * FROM jobs WHERE job_id IN ({marks}) ORDER BY title", tuple(ids))]
     def history(self, days=30):
-        return [dict(r) for r in self.db.execute("SELECT completed_at,status,active_count,new_count,expired_count FROM runs WHERE status='success' ORDER BY id DESC LIMIT ?", (days,))][::-1]
+        return [dict(r) for r in self.db.execute("SELECT completed_at,status,active_count,new_count,expired_count FROM runs WHERE status IN ('success','degraded') ORDER BY id DESC LIMIT ?", (days,))][::-1]

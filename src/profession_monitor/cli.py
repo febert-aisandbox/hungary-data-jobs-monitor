@@ -61,8 +61,9 @@ def main(argv=None):
         store=Store(str(db_path))
         try:
             today=datetime.now(ZoneInfo("Europe/Budapest")).date().isoformat()
-            existing_run=store.latest_success_on(today)
-            if existing_run:
+            existing_run=store.latest_reportable_on(today)
+            retry_unpublished_degraded=bool(existing_run and existing_run.status == "degraded" and args.publish and not store.report_is_published(existing_run.run_id))
+            if existing_run and (existing_run.status == "success" or retry_unpublished_degraded):
                 snapshot=store.report_on(today)
                 if snapshot is None:
                     snapshot=build_snapshot(store,existing_run)
@@ -75,18 +76,32 @@ def main(argv=None):
                     commit=_publish_artifacts(files,token)["commit"]
                     store.mark_published(existing_run.run_id)
                 print(json.dumps({"status":"republished" if args.publish else "already-complete","commit":commit,"report_date":today}))
-                return 0
+                return 0 if existing_run.status == "success" else 5
             if not args.skip_robots_check and not robots_allows_search(http_fetch):
                 print("Profession.hu robots policy disallows search collection",file=sys.stderr); return 4
             by_query,errors=collect_queries(queries,max_pages,http_fetch,delay)
             if errors:
-                store.record_partial_run(by_query,len(queries))
-                print(json.dumps({"status":"partial","errors":errors,"completed_queries":len(by_query)},ensure_ascii=False),file=sys.stderr)
-                return 2
+                if not by_query:
+                    store.record_partial_run(by_query,len(queries))
+                    print(json.dumps({"status":"partial","errors":errors,"completed_queries":0},ensure_ascii=False),file=sys.stderr)
+                    return 2
+                run=store.record_degraded_run(by_query,len(queries))
+                failed_searches=[error.split(":",1)[0] for error in errors]
+                snapshot=build_snapshot(store,run,failed_searches=failed_searches,expected_queries=len(queries))
+                store.save_report(run.run_id,snapshot)
+                files=_render_artifacts(snapshot)
+                _atomic_write_artifacts(output,files)
+                commit=None
+                if args.publish:
+                    if not token: raise RuntimeError("GITHUB_LLM_MANAGER is not configured")
+                    commit=_publish_artifacts(files,token)["commit"]
+                    store.mark_published(run.run_id)
+                print(json.dumps({"status":"degraded","errors":errors,"completed_queries":len(by_query),"active":run.active_total,"new":len(run.new_ids),"expired":0,"commit":commit},ensure_ascii=False))
+                return 5
             run=store.record_successful_run(by_query,len(queries))
             if run.status != "success":
                 print("run failed completeness validation",file=sys.stderr); return 2
-            snapshot=build_snapshot(store,run)
+            snapshot=build_snapshot(store,run,expected_queries=len(queries))
             store.save_report(run.run_id,snapshot)
             files=_render_artifacts(snapshot)
             _atomic_write_artifacts(output,files)

@@ -11,14 +11,19 @@ MAX_RESPONSE_BYTES=1_000_000
 
 
 def _valid_snapshot(snapshot, today: str) -> bool:
-    if not isinstance(snapshot,dict) or snapshot.get("report_date") != today or snapshot.get("status") != "success": return False
+    if not isinstance(snapshot,dict) or snapshot.get("report_date") != today or snapshot.get("status") not in {"success","degraded"}: return False
     integer_fields=("active_total","new_total","expired_total","junior_total","hybrid_remote_total")
     if not all(type(snapshot.get(key)) is int and 0<=snapshot[key]<=1_000_000 for key in integer_fields): return False
+    if snapshot.get("status") == "degraded":
+        completed=snapshot.get("completed_queries")
+        expected=snapshot.get("expected_queries")
+        if type(completed) is not int or type(expected) is not int or not 0<completed<expected<=1_000: return False
     return isinstance(snapshot.get("role_families"),dict) and isinstance(snapshot.get("new_jobs"),list)
 
 
 def _digest(snapshot: dict) -> str:
     lines=[f"**Hungary data jobs — {snapshot['report_date']}**",f"Observed: **{snapshot['active_total']}** · New: **{snapshot['new_total']}** · No longer observed: **{snapshot['expired_total']}**",f"Junior/internship: **{snapshot['junior_total']}** · Hybrid/remote: **{snapshot['hybrid_remote_total']}**","\n[Open dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)"]
+    if snapshot["status"] == "degraded": lines.insert(1,f"⚠️ Partial coverage: **{snapshot['completed_queries']}/{snapshot['expected_queries']} searches** completed; no expirations were recorded.")
     output="\n".join(lines)
     if len(output)>3900: raise ValueError("rendered digest too long")
     return output
