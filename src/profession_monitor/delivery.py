@@ -17,7 +17,7 @@ def _valid_snapshot(snapshot, today: str) -> bool:
     if snapshot.get("status") == "degraded":
         completed=snapshot.get("completed_queries")
         expected=snapshot.get("expected_queries")
-        if type(completed) is not int or type(expected) is not int or not 0<completed<expected<=1_000: return False
+        if type(completed) is not int or type(expected) is not int or not 0<completed<expected<=1_000 or snapshot.get("expired_total") != 0: return False
     return isinstance(snapshot.get("role_families"),dict) and isinstance(snapshot.get("new_jobs"),list)
 
 

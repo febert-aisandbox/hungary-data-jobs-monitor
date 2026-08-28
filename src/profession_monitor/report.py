@@ -17,12 +17,13 @@ def build_snapshot(store, run, site_url=SITE_URL, failed_searches=None, expected
     hybrid_remote=sum(bool(j["work_mode"]) for j in jobs)
     junior=sum(any(x in f'{j["title"]} {j["seniority"]}'.casefold() for x in ("junior","gyakornok","intern","pályakezd")) for j in jobs)
     local = datetime.fromisoformat(run.completed_at).astimezone(ZoneInfo("Europe/Budapest"))
-    failed_searches=list(failed_searches or [])
-    expected_queries=expected_queries if expected_queries is not None else 0
+    failed_searches=list(run.failed_searches if failed_searches is None else failed_searches)
+    expected_queries=run.expected_queries if expected_queries is None else expected_queries
+    completed_queries=run.completed_queries if failed_searches == list(run.failed_searches) and expected_queries == run.expected_queries else expected_queries-len(failed_searches)
     return {
         "report_date": local.date().isoformat(), "updated_at": local.strftime("%Y-%m-%d %H:%M %Z"),
         "status": run.status, "active_total": len(jobs), "new_total": len(run.new_ids), "expired_total": len(run.expired_ids),
-        "completed_queries": expected_queries-len(failed_searches), "expected_queries": expected_queries, "failed_searches": failed_searches,
+        "completed_queries": completed_queries, "expected_queries": expected_queries, "failed_searches": failed_searches,
         "junior_total": junior, "hybrid_remote_total": hybrid_remote,
         "role_families": dict(family.most_common()), "top_locations": locations.most_common(10), "top_skills": skills.most_common(12),
         "new_jobs": [{**{k:j[k] for k in ("job_id","title","company","url","family","work_mode")},"location":_pretty_location(j["location"])} for j in new_jobs[:25]],

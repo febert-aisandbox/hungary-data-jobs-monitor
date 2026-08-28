@@ -9,7 +9,7 @@ from .models import Job, RunResult
 
 SCHEMA = """
 PRAGMA journal_mode=WAL;
-CREATE TABLE IF NOT EXISTS runs(id INTEGER PRIMARY KEY, completed_at TEXT NOT NULL, status TEXT NOT NULL, expected_queries INTEGER NOT NULL, completed_queries INTEGER NOT NULL, active_count INTEGER NOT NULL DEFAULT 0, new_count INTEGER NOT NULL DEFAULT 0, expired_count INTEGER NOT NULL DEFAULT 0);
+CREATE TABLE IF NOT EXISTS runs(id INTEGER PRIMARY KEY, completed_at TEXT NOT NULL, status TEXT NOT NULL, expected_queries INTEGER NOT NULL, completed_queries INTEGER NOT NULL, active_count INTEGER NOT NULL DEFAULT 0, new_count INTEGER NOT NULL DEFAULT 0, expired_count INTEGER NOT NULL DEFAULT 0, failed_searches TEXT NOT NULL DEFAULT '[]');
 CREATE TABLE IF NOT EXISTS jobs(job_id TEXT PRIMARY KEY, url TEXT NOT NULL, title TEXT NOT NULL, company TEXT, location TEXT, seniority TEXT, work_mode TEXT, card_text TEXT, family TEXT, skills TEXT, first_seen TEXT NOT NULL, last_seen TEXT NOT NULL, active INTEGER NOT NULL DEFAULT 1, miss_count INTEGER NOT NULL DEFAULT 0, last_miss_date TEXT);
 CREATE TABLE IF NOT EXISTS observations(run_id INTEGER NOT NULL, job_id TEXT NOT NULL, PRIMARY KEY(run_id, job_id));
 CREATE TABLE IF NOT EXISTS job_queries(run_id INTEGER NOT NULL, job_id TEXT NOT NULL, query TEXT NOT NULL, PRIMARY KEY(run_id, job_id, query));
@@ -25,6 +25,10 @@ class Store:
         columns={row[1] for row in self.db.execute("PRAGMA table_info(jobs)")}
         if "last_miss_date" not in columns:
             self.db.execute("ALTER TABLE jobs ADD COLUMN last_miss_date TEXT")
+            self.db.commit()
+        run_columns={row[1] for row in self.db.execute("PRAGMA table_info(runs)")}
+        if "failed_searches" not in run_columns:
+            self.db.execute("ALTER TABLE runs ADD COLUMN failed_searches TEXT NOT NULL DEFAULT '[]'")
             self.db.commit()
 
     def has_success_on(self, date: str) -> bool:
@@ -43,7 +47,7 @@ class Store:
     def _run_result(self, row):
         if row is None: return None
         events=self.db.execute("SELECT job_id,event FROM run_events WHERE run_id=?",(row["id"],)).fetchall()
-        return RunResult(row["id"],row["completed_at"],sorted(r["job_id"] for r in events if r["event"]=="new"),sorted(r["job_id"] for r in events if r["event"]=="expired"),row["active_count"],row["status"])
+        return RunResult(row["id"],row["completed_at"],sorted(r["job_id"] for r in events if r["event"]=="new"),sorted(r["job_id"] for r in events if r["event"]=="expired"),row["active_count"],row["status"],row["expected_queries"],row["completed_queries"],tuple(json.loads(row["failed_searches"])))
 
     def save_report(self, run_id: int, payload: dict):
         self.db.execute("INSERT INTO reports(run_id,payload) VALUES(?,?) ON CONFLICT(run_id) DO UPDATE SET payload=excluded.payload",(run_id,json.dumps(payload,ensure_ascii=False)))
@@ -69,10 +73,13 @@ class Store:
             return self.record_partial_run(by_query, expected_queries, observed_at)
         return self._record(by_query, expected_queries, observed_at)
 
-    def record_degraded_run(self, by_query: dict[str, list[Job]], expected_queries: int, observed_at: str | None = None) -> RunResult:
+    def record_degraded_run(self, by_query: dict[str, list[Job]], expected_queries: int, failed_searches: list[str] | None = None, observed_at: str | None = None) -> RunResult:
         if not by_query or len(by_query) >= expected_queries:
             raise ValueError("degraded run requires some but not all queries to complete")
-        return self._record(by_query,expected_queries,observed_at,status="degraded",count_misses=False)
+        failed_searches=list(failed_searches or [])
+        if len(failed_searches) != expected_queries-len(by_query):
+            raise ValueError("failed search count does not match incomplete coverage")
+        return self._record(by_query,expected_queries,observed_at,status="degraded",count_misses=False,failed_searches=failed_searches)
 
     def record_partial_run(self, by_query: dict[str, list[Job]], expected_queries: int | None = None, observed_at: str | None = None) -> RunResult:
         now = observed_at or datetime.now(timezone.utc).isoformat()
@@ -80,10 +87,11 @@ class Store:
         self.db.commit()
         return RunResult(cur.lastrowid,now,[],[],self.active_count(),"partial")
 
-    def _record(self, by_query, expected_queries, observed_at=None, status="success", count_misses=True):
+    def _record(self, by_query, expected_queries, observed_at=None, status="success", count_misses=True, failed_searches=None):
         now = observed_at or datetime.now(timezone.utc).isoformat()
         run_date = datetime.fromisoformat(now).astimezone(ZoneInfo("Europe/Budapest")).date().isoformat()
-        cur = self.db.execute("INSERT INTO runs(completed_at,status,expected_queries,completed_queries) VALUES(?,?,?,?)", (now,status,expected_queries,len(by_query)))
+        failed_searches=list(failed_searches or [])
+        cur = self.db.execute("INSERT INTO runs(completed_at,status,expected_queries,completed_queries,failed_searches) VALUES(?,?,?,?,?)", (now,status,expected_queries,len(by_query),json.dumps(failed_searches,ensure_ascii=False)))
         run_id = cur.lastrowid
         existing = {r["job_id"]: dict(r) for r in self.db.execute("SELECT * FROM jobs")}
         seen: dict[str, Job] = {}
@@ -120,7 +128,7 @@ class Store:
         for job_id in expired: self.db.execute("INSERT OR IGNORE INTO run_events(run_id,job_id,event) VALUES(?,?,?)",(run_id,job_id,"expired"))
         self.db.execute("UPDATE runs SET active_count=?,new_count=?,expired_count=? WHERE id=?", (active,len(set(new_ids)),len(expired),run_id))
         self.db.commit()
-        return RunResult(run_id,now,sorted(set(new_ids)),sorted(expired),active,status)
+        return RunResult(run_id,now,sorted(set(new_ids)),sorted(expired),active,status,expected_queries,len(by_query),tuple(failed_searches))
 
     def active_count(self): return self.db.execute("SELECT COUNT(*) FROM jobs WHERE active=1").fetchone()[0]
     def active_jobs(self): return [dict(r) for r in self.db.execute("SELECT * FROM jobs WHERE active=1 ORDER BY last_seen DESC,title")]

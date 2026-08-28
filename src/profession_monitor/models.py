@@ -33,3 +33,6 @@ class RunResult:
     expired_ids: list[str]
     active_total: int
     status: str = "success"
+    expected_queries: int = 0
+    completed_queries: int = 0
+    failed_searches: tuple[str, ...] = field(default_factory=tuple)

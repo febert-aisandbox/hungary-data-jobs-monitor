@@ -85,8 +85,8 @@ def main(argv=None):
                     store.record_partial_run(by_query,len(queries))
                     print(json.dumps({"status":"partial","errors":errors,"completed_queries":0},ensure_ascii=False),file=sys.stderr)
                     return 2
-                run=store.record_degraded_run(by_query,len(queries))
                 failed_searches=[error.split(":",1)[0] for error in errors]
+                run=store.record_degraded_run(by_query,len(queries),failed_searches=failed_searches)
                 snapshot=build_snapshot(store,run,failed_searches=failed_searches,expected_queries=len(queries))
                 store.save_report(run.run_id,snapshot)
                 files=_render_artifacts(snapshot)

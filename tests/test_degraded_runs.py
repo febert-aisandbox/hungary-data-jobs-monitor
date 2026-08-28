@@ -23,7 +23,7 @@ class DegradedRunTests(unittest.TestCase):
             store = Store(str(Path(td) / "market.db"))
             store.record_successful_run({"good": [job("old")]}, 1, observed_at="2026-08-26T04:30:00+00:00")
 
-            run = store.record_degraded_run({"good": [job("new")]}, 2, observed_at="2026-08-28T04:30:00+00:00")
+            run = store.record_degraded_run({"good": [job("new")]}, 2, failed_searches=["broken"], observed_at="2026-08-28T04:30:00+00:00")
 
             self.assertEqual(run.status, "degraded")
             self.assertEqual(run.new_ids, ["new"])
@@ -35,7 +35,7 @@ class DegradedRunTests(unittest.TestCase):
     def test_snapshot_discloses_failed_searches_and_delivery_accepts_it(self):
         with tempfile.TemporaryDirectory() as td:
             store = Store(str(Path(td) / "market.db"))
-            run = store.record_degraded_run({"good": [job()]}, 2, observed_at="2026-08-28T04:30:00+00:00")
+            run = store.record_degraded_run({"good": [job()]}, 2, failed_searches=["broken"], observed_at="2026-08-28T04:30:00+00:00")
 
             snapshot = build_snapshot(store, run, failed_searches=["broken"], expected_queries=2)
             output = decide_delivery(datetime(2026, 8, 28, 7, 30, tzinfo=ZoneInfo("Europe/Budapest")), snapshot)
@@ -48,11 +48,37 @@ class DegradedRunTests(unittest.TestCase):
             self.assertIn("1/2 searches", output)
             store.close()
 
+    def test_degraded_coverage_survives_report_reconstruction_after_a_crash(self):
+        with tempfile.TemporaryDirectory() as td:
+            store = Store(str(Path(td) / "market.db"))
+            run = store.record_degraded_run({"good": [job()]}, 2, failed_searches=["broken"], observed_at="2026-08-28T04:30:00+00:00")
+
+            rebuilt = store.latest_reportable_on("2026-08-28")
+            snapshot = build_snapshot(store, rebuilt)
+
+            self.assertEqual(rebuilt.run_id, run.run_id)
+            self.assertEqual(snapshot["completed_queries"], 1)
+            self.assertEqual(snapshot["expected_queries"], 2)
+            self.assertEqual(snapshot["failed_searches"], ["broken"])
+            store.close()
+
     def test_delivery_rejects_degraded_snapshot_without_valid_coverage_counts(self):
         snapshot = {
             "report_date": "2026-08-28", "status": "degraded", "active_total": 1,
             "new_total": 1, "expired_total": 0, "junior_total": 0,
             "hybrid_remote_total": 0, "role_families": {}, "new_jobs": [],
+        }
+
+        output = decide_delivery(datetime(2026, 8, 28, 7, 30, tzinfo=ZoneInfo("Europe/Budapest")), snapshot)
+
+        self.assertIn("report is not available", output)
+
+    def test_delivery_rejects_degraded_snapshot_that_claims_expirations(self):
+        snapshot = {
+            "report_date": "2026-08-28", "status": "degraded", "active_total": 1,
+            "new_total": 0, "expired_total": 1, "junior_total": 0,
+            "hybrid_remote_total": 0, "role_families": {}, "new_jobs": [],
+            "completed_queries": 1, "expected_queries": 2,
         }
 
         output = decide_delivery(datetime(2026, 8, 28, 7, 30, tzinfo=ZoneInfo("Europe/Budapest")), snapshot)
