@@ -1,9 +1,9 @@
 {
   "report_date": "2026-08-28",
-  "updated_at": "2026-08-28 10:58 CEST",
+  "updated_at": "2026-08-28 11:19 CEST",
   "status": "degraded",
   "active_total": 67,
-  "new_total": 5,
+  "new_total": 0,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -110,53 +110,7 @@
       2
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "2985337",
-      "title": "CE Data Analyst",
-      "company": "TESCO-GLOBAL ZRT.",
-      "url": "https://www.profession.hu/allas/ce-data-analyst-tesco-global-zrt-budaors-2985337",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Budaörs"
-    },
-    {
-      "job_id": "2985658",
-      "title": "Data Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/data-engineer-betsson-group-2985658",
-      "family": "data-engineering",
-      "work_mode": "",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2984787",
-      "title": "Global Mobility Policy Data Analyst",
-      "company": "Siemens Energy Kft.",
-      "url": "https://www.profession.hu/allas/global-mobility-policy-data-analyst-siemens-energy-kft-2984787",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2985734",
-      "title": "Machine Learning Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-2985734",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2984606",
-      "title": "Senior Data Engineer (f/m/d)",
-      "company": "Siemens Energy Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-f-m-d-siemens-energy-kft-2984606",
-      "family": "data-engineering",
-      "work_mode": "",
-      "location": "Országos"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "2960114",
@@ -831,13 +785,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-07-27T04:36:07.711343+00:00",
-      "status": "success",
-      "active_count": 64,
-      "new_count": 0,
-      "expired_count": 3
-    },
-    {
       "completed_at": "2026-07-28T04:42:08.270567+00:00",
       "status": "success",
       "active_count": 68,
@@ -1038,6 +985,13 @@
       "status": "degraded",
       "active_count": 67,
       "new_count": 5,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-08-28T09:19:39.702678+00:00",
+      "status": "degraded",
+      "active_count": 67,
+      "new_count": 0,
       "expired_count": 0
     }
   ],
