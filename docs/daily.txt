@@ -1,12 +1,11 @@
-**Hungary data jobs — 2026-08-29**
-Observed: **65** · New: **3** · No longer observed: **5**
-Junior/internship: **8** · Hybrid/remote: **29**
-Role mix: data\-engineering: 30, data\-science\-ml: 21, analyst\-bi: 13, quant\-risk: 1
+**Hungary data jobs — 2026-08-30**
+Observed: **65** · New: **2** · No longer observed: **2**
+Junior/internship: **9** · Hybrid/remote: **29**
+Role mix: data\-engineering: 31, data\-science\-ml: 21, analyst\-bi: 13
 
 **Noteworthy new listings**
-- [AI Engineer \(AWS\)](https://www.profession.hu/allas/ai-engineer-aws-adesso-business-consulting-kft-debrecen-2986928) — Adesso business consulting Kft\. \(Pest county, Debrecen\)
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-magyar-telekom-nyrt-2986904) — Magyar Telekom Nyrt\. \(Pest county\)
-- [Data Engineer, Automation & Controls, BlueOval Battery Park Michigan](https://www.profession.hu/allas/data-engineer-automation-controls-blueoval-battery-park-michigan-ford-kozep-es-kelet-europai-kft-2986911) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437) — IPACKCHEM Kft\. \(Pest county\)
+- [Microsoft Fabric Data Engineer](https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-2986978) — Accenture Korlátolt Felelősségű Társaság \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
