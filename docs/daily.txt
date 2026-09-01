@@ -1,11 +1,14 @@
-**Hungary data jobs — 2026-08-31**
-Observed: **66** · New: **2** · No longer observed: **1**
-Junior/internship: **9** · Hybrid/remote: **29**
-Role mix: data\-engineering: 30, data\-science\-ml: 22, analyst\-bi: 14
+**Hungary data jobs — 2026-09-01**
+Observed: **67** · New: **5** · No longer observed: **4**
+Junior/internship: **8** · Hybrid/remote: **29**
+Role mix: data\-engineering: 32, data\-science\-ml: 22, analyst\-bi: 13
 
 **Noteworthy new listings**
-- [BI Analyst](https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-2987126) — Cushman & Wakefield Kft\. \(Pest county\)
-- [Machine Learning Data Engineer](https://www.profession.hu/allas/machine-learning-data-engineer-opswat-kft-2987202) — OPSWAT Kft\. \(Pest county\)
+- [Adatmérnök / Data Engineer](https://www.profession.hu/allas/adatmernok-data-engineer-piller-nonprofit-kft-budapest-2988544) — Pillér Nonprofit Kft \(Pest county, Budapest\)
+- [Data Scientist, Charging & Energy Services](https://www.profession.hu/allas/data-scientist-charging-energy-services-ford-kozep-es-kelet-europai-kft-2988543) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
+- [Oracle adatbázis fejlesztő](https://www.profession.hu/allas/oracle-adatbazis-fejleszto-piller-nonprofit-kft-budapest-2988548) — Pillér Nonprofit Kft \(Pest county, Budapest\)
+- [Software Engineer \(ID Verification \- Machine Learning team\)](https://www.profession.hu/allas/software-engineer-id-verification-machine-learning-team-seon-technologies-kft-2988474) — SEON Technologies Kft\. \(Pest county\)
+- [Ügyfélkapcsolati Adatelemző szakértő](https://www.profession.hu/allas/ugyfelkapcsolati-adatelemzo-szakerto-optesz-opus-zrt-2987291) — OPTESZ OPUS Zrt\. \(Hajdú\-Bihar county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
