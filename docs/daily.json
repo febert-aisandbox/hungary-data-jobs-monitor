@@ -1,51 +1,47 @@
 {
-  "report_date": "2026-09-01",
-  "updated_at": "2026-09-01 06:44 CEST",
+  "report_date": "2026-09-02",
+  "updated_at": "2026-09-02 06:50 CEST",
   "status": "success",
-  "active_total": 67,
-  "new_total": 5,
-  "expired_total": 4,
+  "active_total": 68,
+  "new_total": 4,
+  "expired_total": 3,
   "completed_queries": 11,
   "expected_queries": 11,
   "failed_searches": [],
-  "junior_total": 8,
-  "hybrid_remote_total": 29,
+  "junior_total": 12,
+  "hybrid_remote_total": 32,
   "role_families": {
     "data-engineering": 32,
     "data-science-ml": 22,
-    "analyst-bi": 13
+    "analyst-bi": 14
   },
   "top_locations": [
     [
       "Pest county",
-      26
+      25
     ],
     [
       "Pest county, Budapest",
-      16
+      17
     ],
     [
       "Országos",
       9
     ],
     [
-      "Pest county, Pécs",
-      3
-    ],
-    [
       "Pest county, Szeged",
-      3
+      6
     ],
     [
       "Csongrád-Csanád county, Szeged",
       2
     ],
     [
-      "Pest county, Budaörs",
+      "Pest county, Debrecen",
       1
     ],
     [
-      "Pest county, Szentendre",
+      "Pest county, Budaörs",
       1
     ],
     [
@@ -54,6 +50,10 @@
     ],
     [
       "Fejér county, Székesfehérvár",
+      1
+    ],
+    [
+      "Jász-Nagykun-Szolnok county, Jászárokszállás",
       1
     ]
   ],
@@ -72,7 +72,7 @@
     ],
     [
       "Azure",
-      27
+      29
     ],
     [
       "AWS",
@@ -88,11 +88,11 @@
     ],
     [
       "Machine learning",
-      12
+      10
     ],
     [
       "Docker",
-      8
+      9
     ],
     [
       "Tableau",
@@ -109,61 +109,62 @@
   ],
   "new_jobs": [
     {
-      "job_id": "2988544",
-      "title": "Adatmérnök / Data Engineer",
-      "company": "Pillér Nonprofit Kft",
-      "url": "https://www.profession.hu/allas/adatmernok-data-engineer-piller-nonprofit-kft-budapest-2988544",
-      "family": "data-engineering",
-      "work_mode": "",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2988543",
-      "title": "Data Scientist, Charging & Energy Services",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/data-scientist-charging-energy-services-ford-kozep-es-kelet-europai-kft-2988543",
+      "job_id": "2972437",
+      "title": "AI Engineer",
+      "company": "IPACKCHEM Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437",
       "family": "data-science-ml",
       "work_mode": "",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2988548",
-      "title": "Oracle adatbázis fejlesztő",
-      "company": "Pillér Nonprofit Kft",
-      "url": "https://www.profession.hu/allas/oracle-adatbazis-fejleszto-piller-nonprofit-kft-budapest-2988548",
-      "family": "data-engineering",
-      "work_mode": "",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2988474",
-      "title": "Software Engineer (ID Verification - Machine Learning team)",
-      "company": "SEON Technologies Kft.",
-      "url": "https://www.profession.hu/allas/software-engineer-id-verification-machine-learning-team-seon-technologies-kft-2988474",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
       "location": "Pest county"
     },
     {
-      "job_id": "2987291",
-      "title": "Ügyfélkapcsolati Adatelemző szakértő",
-      "company": "OPTESZ OPUS Zrt.",
-      "url": "https://www.profession.hu/allas/ugyfelkapcsolati-adatelemzo-szakerto-optesz-opus-zrt-2987291",
+      "job_id": "2989829",
+      "title": "Expert AI Engineer (REF5708U)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/expert-ai-engineer-ref-u-deutsche-telekom-tsi-hungary-kft-szeged-2989829",
+      "family": "data-science-ml",
+      "work_mode": "Távmunka",
+      "location": "Pest county, Szeged"
+    },
+    {
+      "job_id": "2989048",
+      "title": "Junior Data & BI Analyst - Financial risk management",
+      "company": "OTP Bank Nyrt.",
+      "url": "https://www.profession.hu/allas/junior-data-bi-analyst-financial-risk-management-otp-bank-nyrt-budapest-2989048",
       "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Hajdú-Bihar county"
+      "work_mode": "Hibrid",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2989806",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Hawk-Eye Innovations Ltd.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2989806",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "location": "Pest county"
     }
   ],
   "active_jobs": [
     {
+      "job_id": "2972437",
+      "title": "AI Engineer",
+      "company": "IPACKCHEM Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "2986928",
       "title": "AI Engineer (AWS)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-adesso-business-consulting-kft-pecs-2986928",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-adesso-business-consulting-kft-debrecen-2986928",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Debrecen"
     },
     {
       "job_id": "2980402",
@@ -252,7 +253,7 @@
       "url": "https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-2987126",
       "family": "analyst-bi",
       "work_mode": "",
-      "seniority": "1-3 years experience",
+      "seniority": "junior",
       "location": "Pest county"
     },
     {
@@ -274,16 +275,6 @@
       "work_mode": "Hibrid",
       "seniority": "1-3 years experience",
       "location": "Pest county, Budaörs"
-    },
-    {
-      "job_id": "2973825",
-      "title": "Cost Data Analyst",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-2973825",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
-      "location": "Pest county, Szentendre"
     },
     {
       "job_id": "2965123",
@@ -366,44 +357,24 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2988543",
-      "title": "Data Scientist, Charging & Energy Services",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/data-scientist-charging-energy-services-ford-kozep-es-kelet-europai-kft-2988543",
+      "job_id": "2989829",
+      "title": "Expert AI Engineer (REF5708U)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/expert-ai-engineer-ref-u-deutsche-telekom-tsi-hungary-kft-szeged-2989829",
       "family": "data-science-ml",
-      "work_mode": "",
+      "work_mode": "Távmunka",
       "seniority": "3-5 years experience",
-      "location": "Országos"
-    },
-    {
-      "job_id": "2977822",
-      "title": "Diákmunka - Project Data Analyst Intern",
-      "company": "MŰISZ Iskolaszövetkezet",
-      "url": "https://www.profession.hu/allas/diakmunka-project-data-analyst-intern-muisz-iskolaszovetkezet-budapest-2977822",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county, Budapest"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "2978566",
       "title": "Expert Developer – Data Analytics & Data Engineering - REF5086I",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-pecs-2978566",
+      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-szeged-2978566",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "5-10 years experience",
-      "location": "Pest county, Pécs"
-    },
-    {
-      "job_id": "2969438",
-      "title": "Financial Advisory Senior Associate (Data Analytics & AI)",
-      "company": "Deloitte Zrt.",
-      "url": "https://www.profession.hu/allas/financial-advisory-senior-associate-data-analytics-ai-deloitte-zrt-2969438",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
-      "location": "Pest county"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "2977682",
@@ -416,16 +387,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2984787",
-      "title": "Global Mobility Policy Data Analyst",
-      "company": "Siemens Energy Kft.",
-      "url": "https://www.profession.hu/allas/global-mobility-policy-data-analyst-siemens-energy-kft-2984787",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "professional experience is not required",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2977896",
       "title": "HR adatelemző(1089 Budapest, Orczy út 44-46.)",
       "company": "BÁRDI AUTÓ ZRT.",
@@ -433,6 +394,16 @@
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "professional experience is not required",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2989048",
+      "title": "Junior Data & BI Analyst - Financial risk management",
+      "company": "OTP Bank Nyrt.",
+      "url": "https://www.profession.hu/allas/junior-data-bi-analyst-financial-risk-management-otp-bank-nyrt-budapest-2989048",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
       "location": "Pest county, Budapest"
     },
     {
@@ -464,16 +435,6 @@
       "work_mode": "",
       "seniority": "1-3 years experience",
       "location": "Jász-Nagykun-Szolnok county, Jászárokszállás"
-    },
-    {
-      "job_id": "2959462",
-      "title": "Medior Data Engineer",
-      "company": "MOL Nyrt.",
-      "url": "https://www.profession.hu/allas/medior-data-engineer-mol-nyrt-budapest-2959462",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
     },
     {
       "job_id": "2968382",
@@ -679,11 +640,11 @@
       "job_id": "2973800",
       "title": "Senior Data Engineer - Power Platform - REF5084T",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-2973800",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-szeged-2973800",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "2969119",
@@ -736,10 +697,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2973393",
+      "job_id": "2989806",
       "title": "Senior Machine Learning Engineer",
       "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2973393",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2989806",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "junior",
@@ -796,44 +757,77 @@
       "location": "Hajdú-Bihar county"
     },
     {
-      "job_id": "2987202",
-      "title": "Machine Learning Data Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-data-engineer-opswat-kft-2987202",
+      "job_id": "2973825",
+      "title": "Cost Data Analyst",
+      "company": "Ford Közép- és Kelet-Európai Kft.",
+      "url": "https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-2973825",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Pest county, Szentendre"
+    },
+    {
+      "job_id": "2988543",
+      "title": "Data Scientist, Charging & Energy Services",
+      "company": "Ford Közép- és Kelet-Európai Kft.",
+      "url": "https://www.profession.hu/allas/data-scientist-charging-energy-services-ford-kozep-es-kelet-europai-kft-2988543",
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "3-5 years experience",
+      "location": "Országos"
+    },
+    {
+      "job_id": "2977822",
+      "title": "Diákmunka - Project Data Analyst Intern",
+      "company": "MŰISZ Iskolaszövetkezet",
+      "url": "https://www.profession.hu/allas/diakmunka-project-data-analyst-intern-muisz-iskolaszovetkezet-budapest-2977822",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2969438",
+      "title": "Financial Advisory Senior Associate (Data Analytics & AI)",
+      "company": "Deloitte Zrt.",
+      "url": "https://www.profession.hu/allas/financial-advisory-senior-associate-data-analytics-ai-deloitte-zrt-2969438",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
       "location": "Pest county"
     },
     {
-      "job_id": "2985734",
-      "title": "Machine Learning Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-2985734",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "1-3 years experience",
+      "job_id": "2984787",
+      "title": "Global Mobility Policy Data Analyst",
+      "company": "Siemens Energy Kft.",
+      "url": "https://www.profession.hu/allas/global-mobility-policy-data-analyst-siemens-energy-kft-2984787",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "professional experience is not required",
       "location": "Pest county"
     },
     {
-      "job_id": "2965099",
-      "title": "Senior Machine Learning System Builder",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-system-builder-opswat-kft-2965099",
+      "job_id": "2959462",
+      "title": "Medior Data Engineer",
+      "company": "MOL Nyrt.",
+      "url": "https://www.profession.hu/allas/medior-data-engineer-mol-nyrt-budapest-2959462",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2973393",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Hawk-Eye Innovations Ltd.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2973393",
       "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "senior",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
       "location": "Pest county"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-08-28T08:58:55.884323+00:00",
-      "status": "degraded",
-      "active_count": 67,
-      "new_count": 5,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-08-28T09:19:39.702678+00:00",
       "status": "degraded",
@@ -1036,6 +1030,13 @@
       "active_count": 67,
       "new_count": 5,
       "expired_count": 4
+    },
+    {
+      "completed_at": "2026-09-02T04:50:32.491723+00:00",
+      "status": "success",
+      "active_count": 68,
+      "new_count": 4,
+      "expired_count": 3
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
