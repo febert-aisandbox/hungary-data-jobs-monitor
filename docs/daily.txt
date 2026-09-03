@@ -1,13 +1,17 @@
-**Hungary data jobs — 2026-09-02**
-Observed: **68** · New: **4** · No longer observed: **3**
-Junior/internship: **12** · Hybrid/remote: **32**
-Role mix: data\-engineering: 32, data\-science\-ml: 22, analyst\-bi: 14
+**Hungary data jobs — 2026-09-03**
+Observed: **71** · New: **8** · No longer observed: **5**
+Junior/internship: **13** · Hybrid/remote: **31**
+Role mix: data\-engineering: 33, data\-science\-ml: 24, analyst\-bi: 13, quant\-risk: 1
 
 **Noteworthy new listings**
-- [AI Engineer](https://www.profession.hu/allas/ai-engineer-ipackchem-kft-2972437) — IPACKCHEM Kft\. \(Pest county\)
-- [Expert AI Engineer \(REF5708U\)](https://www.profession.hu/allas/expert-ai-engineer-ref-u-deutsche-telekom-tsi-hungary-kft-szeged-2989829) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Szeged\)
-- [Junior Data & BI Analyst \- Financial risk management](https://www.profession.hu/allas/junior-data-bi-analyst-financial-risk-management-otp-bank-nyrt-budapest-2989048) — OTP Bank Nyrt\. \(Pest county, Budapest\)
-- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2989806) — Hawk\-Eye Innovations Ltd\. \(Pest county\)
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-greif-hungary-packaging-kft-2969390) — Greif Hungary Packaging Kft\. \(Pest county\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-ford-kozep-es-kelet-europai-kft-2990992) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
+- [GBS Data Analytics, Sr\. Analyst](https://www.profession.hu/allas/gbs-data-analytics-sr-analyst-international-flavors-fragrances-i-f-f-hungary-kft-2978533) — International Flavors & Fragrances I\.F\.F\. \(Hungary\) Kft\. \(Pest county\)
+- [Junior logisztikai adatelemző\(Budapest\)](https://www.profession.hu/allas/junior-logisztikai-adatelemzo-budapest-bardi-auto-zrt-budapest-2990978) — BÁRDI AUTÓ ZRT\. \(Pest county, Budapest\)
+- [Machine Learning Engineer](https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-2985734) — OPSWAT Kft\. \(Pest county\)
+- [Medior Data Engineer](https://www.profession.hu/allas/medior-data-engineer-mol-nyrt-budapest-2989980) — MOL Nyrt\. \(Pest county, Budapest\)
+- [Senior Machine Learning System Builder](https://www.profession.hu/allas/senior-machine-learning-system-builder-opswat-kft-2965099) — OPSWAT Kft\. \(Pest county\)
+- [Senior Quantitative Data Analyst](https://www.profession.hu/allas/senior-quantitative-data-analyst-betsson-group-2990908) — Betsson Group \(Országos\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
