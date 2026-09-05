@@ -1,13 +1,14 @@
-**Hungary data jobs — 2026-09-04**
-Observed: **72** · New: **4** · No longer observed: **3**
-Junior/internship: **13** · Hybrid/remote: **29**
-Role mix: data\-engineering: 33, data\-science\-ml: 26, analyst\-bi: 12, quant\-risk: 1
+**Hungary data jobs — 2026-09-05**
+Observed: **73** · New: **5** · No longer observed: **4**
+Junior/internship: **13** · Hybrid/remote: **30**
+Role mix: data\-engineering: 32, data\-science\-ml: 27, analyst\-bi: 13, quant\-risk: 1
 
 **Noteworthy new listings**
-- [Analytics Engineer \- 5476](https://www.profession.hu/allas/analytics-engineer-united-consult-zrt-2991941) — UNITED CONSULT Zrt\. \(Pest county\)
-- [Data Scientist](https://www.profession.hu/allas/data-scientist-ford-kozep-es-kelet-europai-kft-2991954) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
-- [Machine Learning Data Engineer](https://www.profession.hu/allas/machine-learning-data-engineer-opswat-kft-2987202) — OPSWAT Kft\. \(Pest county\)
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-betsson-group-2991926) — Betsson Group \(Országos\)
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-betsson-group-2993074) — Betsson Group \(Országos\)
+- [Data Analyst \(Marketing & E\-Commerce Alnalytics\)](https://www.profession.hu/allas/data-analyst-marketing-e-commerce-alnalytics-publicis-groupe-hungary-2993113) — Publicis Groupe Hungary \(Pest county\)
+- [Data and Reporting Analyst](https://www.profession.hu/allas/data-and-reporting-analyst-greehill-europe-kft-2993041) — greeHill Europe Kft\. \(Pest county\)
+- [Lead ML Engineer](https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2993075) — greeHill Europe Kft\. \(Pest county\)
+- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-opswat-kft-2993109) — OPSWAT Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
