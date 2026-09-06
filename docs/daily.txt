@@ -1,14 +1,10 @@
-**Hungary data jobs — 2026-09-05**
-Observed: **73** · New: **5** · No longer observed: **4**
-Junior/internship: **13** · Hybrid/remote: **30**
-Role mix: data\-engineering: 32, data\-science\-ml: 27, analyst\-bi: 13, quant\-risk: 1
+**Hungary data jobs — 2026-09-06**
+Observed: **71** · New: **1** · No longer observed: **3**
+Junior/internship: **12** · Hybrid/remote: **28**
+Role mix: data\-engineering: 31, data\-science\-ml: 25, analyst\-bi: 14, quant\-risk: 1
 
 **Noteworthy new listings**
-- [AI Engineer](https://www.profession.hu/allas/ai-engineer-betsson-group-2993074) — Betsson Group \(Országos\)
-- [Data Analyst \(Marketing & E\-Commerce Alnalytics\)](https://www.profession.hu/allas/data-analyst-marketing-e-commerce-alnalytics-publicis-groupe-hungary-2993113) — Publicis Groupe Hungary \(Pest county\)
-- [Data and Reporting Analyst](https://www.profession.hu/allas/data-and-reporting-analyst-greehill-europe-kft-2993041) — greeHill Europe Kft\. \(Pest county\)
-- [Lead ML Engineer](https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2993075) — greeHill Europe Kft\. \(Pest county\)
-- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-opswat-kft-2993109) — OPSWAT Kft\. \(Pest county\)
+- [Business Intelligence & Process Improvement Specialist](https://www.profession.hu/allas/business-intelligence-process-improvement-specialist-mol-nyrt-budapest-2990000) — MOL Nyrt\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
