@@ -1,10 +1,12 @@
-**Hungary data jobs — 2026-09-06**
-Observed: **71** · New: **1** · No longer observed: **3**
-Junior/internship: **12** · Hybrid/remote: **28**
-Role mix: data\-engineering: 31, data\-science\-ml: 25, analyst\-bi: 14, quant\-risk: 1
+**Hungary data jobs — 2026-09-07**
+Observed: **70** · New: **3** · No longer observed: **4**
+Junior/internship: **10** · Hybrid/remote: **28**
+Role mix: data\-engineering: 32, data\-science\-ml: 23, analyst\-bi: 14, quant\-risk: 1
 
 **Noteworthy new listings**
-- [Business Intelligence & Process Improvement Specialist](https://www.profession.hu/allas/business-intelligence-process-improvement-specialist-mol-nyrt-budapest-2990000) — MOL Nyrt\. \(Pest county, Budapest\)
+- [Data Analytics & Decision Expert](https://www.profession.hu/allas/data-analytics-decision-expert-otp-bank-nyrt-budapest-2993337) — OTP Bank Nyrt\. \(Pest county, Budapest\)
+- [Research & Reporting Analyst](https://www.profession.hu/allas/research-reporting-analyst-cushman-wakefield-kft-2993308) — Cushman & Wakefield Kft\. \(Pest county\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-rossmann-magyarorszag-kft-ullo-2993343) — ROSSMANN Magyarország Kft \(Pest county, Üllő\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
