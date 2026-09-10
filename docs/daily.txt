@@ -1,17 +1,13 @@
-**Hungary data jobs — 2026-09-09**
-Observed: **80** · New: **10** · No longer observed: **6**
-Junior/internship: **13** · Hybrid/remote: **36**
-Role mix: data\-engineering: 34, data\-science\-ml: 29, analyst\-bi: 16, quant\-risk: 1
+**Hungary data jobs — 2026-09-10**
+Observed: **77** · New: **4** · No longer observed: **7**
+Junior/internship: **14** · Hybrid/remote: **34**
+Role mix: data\-engineering: 34, data\-science\-ml: 27, analyst\-bi: 15, quant\-risk: 1
 
 **Noteworthy new listings**
-- [AI Engineer](https://www.profession.hu/allas/ai-engineer-ford-kozep-es-kelet-europai-kft-2996296) — Ford Közép\- és Kelet\-Európai Kft\. \(Országos\)
-- [Data and Reporting Analyst](https://www.profession.hu/allas/data-and-reporting-analyst-greehill-europe-kft-2993041) — greeHill Europe Kft\. \(Pest county\)
-- [Data engineer](https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-2977771) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
-- [Lead ML Engineer](https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2993075) — greeHill Europe Kft\. \(Pest county\)
-- [ML engineer](https://www.profession.hu/allas/ml-engineer-kontron-hungary-kft-budaors-2977728) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-high-tech-engineering-center-kft-budapest-2996250) — High Tech Engineering Center Kft\. \(Pest county, Budapest\)
-- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-betsson-group-2996231) — Betsson Group \(Pest county\)
-- [Senior Data Engineer \(Databricks\)](https://www.profession.hu/allas/senior-data-engineer-databricks-datapao-kft-2996212) — DATAPAO Kft\. \(Pest county\)
+- [Financial Advisory Senior Associate \(Data Analytics & AI\)](https://www.profession.hu/allas/financial-advisory-senior-associate-data-analytics-ai-deloitte-zrt-2997409) — Deloitte Zrt\. \(Pest county\)
+- [Junior Data Engineer](https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-2997538) — NIX Tech Kft\. \(Pest county\)
+- [Senior Data Engineer \(Databricks\) \- UK](https://www.profession.hu/allas/senior-data-engineer-databricks-uk-datapao-kft-2997356) — DATAPAO Kft\. \(Pest county\)
+- [Senior Databricks Data Engineer](https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-budapest-2997420) — Hiflylabs Zrt\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
