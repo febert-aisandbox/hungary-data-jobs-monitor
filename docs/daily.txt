@@ -1,13 +1,12 @@
-**Hungary data jobs — 2026-09-10**
-Observed: **77** · New: **4** · No longer observed: **7**
-Junior/internship: **14** · Hybrid/remote: **34**
-Role mix: data\-engineering: 34, data\-science\-ml: 27, analyst\-bi: 15, quant\-risk: 1
+**Hungary data jobs — 2026-09-11**
+Observed: **73** · New: **3** · No longer observed: **7**
+Junior/internship: **13** · Hybrid/remote: **31**
+Role mix: data\-engineering: 30, data\-science\-ml: 26, analyst\-bi: 16, quant\-risk: 1
 
 **Noteworthy new listings**
-- [Financial Advisory Senior Associate \(Data Analytics & AI\)](https://www.profession.hu/allas/financial-advisory-senior-associate-data-analytics-ai-deloitte-zrt-2997409) — Deloitte Zrt\. \(Pest county\)
-- [Junior Data Engineer](https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-2997538) — NIX Tech Kft\. \(Pest county\)
-- [Senior Data Engineer \(Databricks\) \- UK](https://www.profession.hu/allas/senior-data-engineer-databricks-uk-datapao-kft-2997356) — DATAPAO Kft\. \(Pest county\)
-- [Senior Databricks Data Engineer](https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-budapest-2997420) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-2998613) — SnapSoft Informatikai és Szolgáltató Kft\. \(Pest county\)
+- [Data Analyst](https://www.profession.hu/allas/data-analyst-media-markt-magyarorszag-kft-budapest-2997846) — Media Markt Magyarország Kft\. \(Pest county, Budapest\)
+- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-2998603) — Diligent Governance Hungary Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
