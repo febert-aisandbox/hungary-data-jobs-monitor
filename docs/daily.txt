@@ -1,12 +1,17 @@
-**Hungary data jobs — 2026-09-11**
-Observed: **73** · New: **3** · No longer observed: **7**
-Junior/internship: **13** · Hybrid/remote: **31**
-Role mix: data\-engineering: 30, data\-science\-ml: 26, analyst\-bi: 16, quant\-risk: 1
+**Hungary data jobs — 2026-09-12**
+Observed: **79** · New: **8** · No longer observed: **2**
+Junior/internship: **16** · Hybrid/remote: **36**
+Role mix: data\-engineering: 32, data\-science\-ml: 26, analyst\-bi: 19, quant\-risk: 2
 
 **Noteworthy new listings**
-- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-2998613) — SnapSoft Informatikai és Szolgáltató Kft\. \(Pest county\)
-- [Data Analyst](https://www.profession.hu/allas/data-analyst-media-markt-magyarorszag-kft-budapest-2997846) — Media Markt Magyarország Kft\. \(Pest county, Budapest\)
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-2998603) — Diligent Governance Hungary Kft\. \(Pest county\)
+- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-2999756) — Lufthansa Systems Hungária Kft\. \(Pest county\)
+- [AI/ML Engineer \- Szeged](https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2999833) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
+- [Director, Quantitative Engineer](https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-2999687) — BlackRock Hungary Kft\. \(Pest county\)
+- [Junior Business & Reporting Analyst](https://www.profession.hu/allas/junior-business-reporting-analyst-padthaiwokbar-kft-budapest-2999107) — Padthaiwokbar Kft\. \(Pest county, Budapest\)
+- [Senior Data Engineer \(Contract\)](https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-2999771) — Hiflylabs Zrt\. \(Pest county\)
+- [Senior Data Engineer \(Databricks\) \- Spain](https://www.profession.hu/allas/senior-data-engineer-databricks-spain-datapao-kft-2999688) — DATAPAO Kft\. \(Pest county\)
+- [Senior Marketing Data Analyst \(german speaking\)](https://www.profession.hu/allas/senior-marketing-data-analyst-german-speaking-vois-budapest-2998834) — VOIS \(Pest county, Budapest\)
+- [Termelési Jelentéskészítő és Adatelemző gyakornok \(WHC023968\) \- Diákmunka](https://www.profession.hu/allas/termelesi-jelenteskeszito-es-adatelemzo-gyakornok-whc-diakmunka-whc-diak-iskolaszovetkezet-veresegyhaz-2998856) — WHC Diák Iskolaszövetkezet \(Pest county, Veresegyház\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
