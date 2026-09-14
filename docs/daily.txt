@@ -1,10 +1,11 @@
-**Hungary data jobs — 2026-09-13**
-Observed: **75** · New: **1** · No longer observed: **5**
-Junior/internship: **15** · Hybrid/remote: **33**
-Role mix: data\-engineering: 30, data\-science\-ml: 24, analyst\-bi: 19, quant\-risk: 2
+**Hungary data jobs — 2026-09-14**
+Observed: **75** · New: **2** · No longer observed: **2**
+Junior/internship: **15** · Hybrid/remote: **34**
+Role mix: data\-engineering: 29, data\-science\-ml: 24, analyst\-bi: 20, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Principal Data Scientist](https://www.profession.hu/allas/principal-data-scientist-ford-kozep-es-kelet-europai-kft-szentendre-2999915) — Ford Közép\- és Kelet\-Európai Kft\. \(Pest county, Szentendre\)
+- [Cost Data Analyst](https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-3000061) — Ford Közép\- és Kelet\-Európai Kft\. \(Pest county, Szentendre\)
+- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2999971) — Hawk\-Eye Innovations Ltd\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
