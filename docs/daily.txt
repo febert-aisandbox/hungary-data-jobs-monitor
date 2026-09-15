@@ -1,11 +1,13 @@
-**Hungary data jobs — 2026-09-14**
-Observed: **75** · New: **2** · No longer observed: **2**
-Junior/internship: **15** · Hybrid/remote: **34**
-Role mix: data\-engineering: 29, data\-science\-ml: 24, analyst\-bi: 20, quant\-risk: 2
+**Hungary data jobs — 2026-09-15**
+Observed: **71** · New: **4** · No longer observed: **8**
+Junior/internship: **13** · Hybrid/remote: **29**
+Role mix: data\-engineering: 30, data\-science\-ml: 21, analyst\-bi: 18, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Cost Data Analyst](https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-3000061) — Ford Közép\- és Kelet\-Európai Kft\. \(Pest county, Szentendre\)
-- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2999971) — Hawk\-Eye Innovations Ltd\. \(Pest county\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-betsson-group-2985658) — Betsson Group \(Pest county\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-msci-kft-3001482) — MSCI Kft\. \(Pest county\)
+- [Data Engineer — Data Platform](https://www.profession.hu/allas/data-engineer-data-platform-greehill-europe-kft-3001468) — greeHill Europe Kft\. \(Pest county\)
+- [Senior Data Engineer / Scala, Spark](https://www.profession.hu/allas/senior-data-engineer-scala-spark-high-tech-engineering-center-kft-budapest-3001466) — High Tech Engineering Center Kft\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
