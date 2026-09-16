@@ -1,13 +1,17 @@
-**Hungary data jobs — 2026-09-15**
-Observed: **71** · New: **4** · No longer observed: **8**
-Junior/internship: **13** · Hybrid/remote: **29**
-Role mix: data\-engineering: 30, data\-science\-ml: 21, analyst\-bi: 18, quant\-risk: 2
+**Hungary data jobs — 2026-09-16**
+Observed: **76** · New: **9** · No longer observed: **4**
+Junior/internship: **15** · Hybrid/remote: **31**
+Role mix: data\-engineering: 31, data\-science\-ml: 22, analyst\-bi: 21, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-betsson-group-2985658) — Betsson Group \(Pest county\)
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-msci-kft-3001482) — MSCI Kft\. \(Pest county\)
-- [Data Engineer — Data Platform](https://www.profession.hu/allas/data-engineer-data-platform-greehill-europe-kft-3001468) — greeHill Europe Kft\. \(Pest county\)
-- [Senior Data Engineer / Scala, Spark](https://www.profession.hu/allas/senior-data-engineer-scala-spark-high-tech-engineering-center-kft-budapest-3001466) — High Tech Engineering Center Kft\. \(Pest county, Budapest\)
+- [AI Engineering Workflow Developer \- T Cloud Public \(REF5739F\)](https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-pecs-3002672) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
+- [Adatelemző gyakornok \- diákmunka](https://www.profession.hu/allas/adatelemzo-gyakornok-diakmunka-mind-diak-szovetkezet-nyiregyhaza-3002579) — Mind\-Diák Szövetkezet \(Szabolcs\-Szatmár\-Bereg county, Nyíregyháza\)
+- [Data engineer](https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-2977771) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
+- [Diákmunka \- Data Analyst – Assembly Intern](https://www.profession.hu/allas/diakmunka-data-analyst-assembly-intern-muisz-iskolaszovetkezet-debrecen-3002280) — MŰISZ Iskolaszövetkezet \(Hajdú\-Bihar county, Debrecen\)
+- [Finance Subject Matter Expert \(SME\) – ALM Systems, Transformation & Business Intelligence](https://www.profession.hu/allas/finance-subject-matter-expert-sme-alm-systems-transformation-business-intelligence-iron-mountain-magyarorszag-kft-3002679) — Iron Mountain Magyarország Kft\. \(Pest county\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-betsson-group-3002610) — Betsson Group \(Pest county\)
+- [Senior Data Scientist](https://www.profession.hu/allas/senior-data-scientist-yettel-hungary-ltd-torokbalint-3002651) — Yettel Hungary Ltd\. \(Pest county, Törökbálint\)
+- [Sportsbook – Senior Data Engineer](https://www.profession.hu/allas/sportsbook-senior-data-engineer-betsson-group-3002620) — Betsson Group \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
