@@ -1,16 +1,13 @@
-**Hungary data jobs — 2026-09-17**
-Observed: **108** · New: **34** · No longer observed: **2**
-Junior/internship: **18** · Hybrid/remote: **48**
-Role mix: data\-engineering: 43, data\-science\-ml: 33, analyst\-bi: 30, quant\-risk: 2
+**Hungary data jobs — 2026-09-18**
+Observed: **91** · New: **4** · No longer observed: **21**
+Junior/internship: **17** · Hybrid/remote: **39**
+Role mix: data\-engineering: 41, data\-science\-ml: 24, analyst\-bi: 24, quant\-risk: 2
 
 **Noteworthy new listings**
-- [AI Engineer \(AWS\) \(all genders\)](https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-korlatolt-felelossegu-tarsasag-pecs-3004480) — adesso business consulting Korlátolt Felelősségű Társaság \(Pest county, Pécs\)
-- [AI Engineer \(REF5308Q\)](https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-korlatolt-felelossegu-tarsasag-pecs-3004700) — Deutsche Telekom TSI Hungary Korlátolt Felelősségű Társaság \(Pest county, Pécs\)
-- [AI Engineering Workflow Developer \- T Cloud Public \(REF5739F\)](https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-korlatolt-felelossegu-tarsasag-pecs-3004304) — Deutsche Telekom TSI Hungary Korlátolt Felelősségű Társaság \(Pest county, Pécs\)
-- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-informacios-technikai-szolgaltato-es-szerviz-korlatolt-felelossegu-tarsasag-3004638) — Lufthansa Systems Hungária Információs Technikai Szolgáltató és Szervíz Korlátolt Felelősségű Társaság \(Pest county\)
-- [AI/ML Engineer \- Szeged](https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-informacios-technikai-szolgaltato-es-szerviz-korlatolt-felelossegu-tarsasag-szeged-3004735) — Lufthansa Systems Hungária Információs Technikai Szolgáltató és Szervíz Korlátolt Felelősségű Társaság \(Csongrád\-Csanád county, Szeged\)
-- [Analytics Engineer \- 5476](https://www.profession.hu/allas/analytics-engineer-united-consult-zartkoruen-mukodo-reszvenytarsasag-3004049) — UNITED CONSULT Zártkörűen Működő Részvénytársaság \(Pest county\)
-- [Cost Data Analyst](https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-ertekesito-korlatolt-felelossegu-tarsasag-szentendre-3004176) — Ford Közép\- és Kelet\-Európai Értékesítő Korlátolt Felelősségű Társaság \(Pest county, Szentendre\)
-- [Data Analyst](https://www.profession.hu/allas/data-analyst-lufthansa-systems-hungaria-informacios-technikai-szolgaltato-es-szerviz-korlatolt-felelossegu-tarsasag-3003793) — Lufthansa Systems Hungária Információs Technikai Szolgáltató és Szervíz Korlátolt Felelősségű Társaság \(Pest county\)
+- [Adatbázis\- és adatelemző munkatárs](https://www.profession.hu/allas/adatbazis-es-adatelemzo-munkatars-orszagos-korhazi-foigazgatosag-budapest-3005253) — Országos Kórházi Főigazgatóság \(Pest county, Budapest\)
+- [Adatbázis\- és adatelemző munkatárs](https://www.profession.hu/allas/adatbazis-es-adatelemzo-munkatars-orszagos-korhazi-foigazgatosag-budapest-3005282) — Országos Kórházi Főigazgatóság \(Pest county, Budapest\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-3005713) — Lufthansa Systems Hungária Kft\. \(Pest county\)
+- [Data Engineer \- Szeged](https://www.profession.hu/allas/data-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3005711) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
 
-[Full marke
+[Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
+_Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
