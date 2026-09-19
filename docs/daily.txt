@@ -1,13 +1,17 @@
-**Hungary data jobs — 2026-09-18**
-Observed: **91** · New: **4** · No longer observed: **21**
-Junior/internship: **17** · Hybrid/remote: **39**
-Role mix: data\-engineering: 41, data\-science\-ml: 24, analyst\-bi: 24, quant\-risk: 2
+**Hungary data jobs — 2026-09-19**
+Observed: **80** · New: **23** · No longer observed: **34**
+Junior/internship: **15** · Hybrid/remote: **33**
+Role mix: data\-engineering: 34, data\-science\-ml: 24, analyst\-bi: 20, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Adatbázis\- és adatelemző munkatárs](https://www.profession.hu/allas/adatbazis-es-adatelemzo-munkatars-orszagos-korhazi-foigazgatosag-budapest-3005253) — Országos Kórházi Főigazgatóság \(Pest county, Budapest\)
-- [Adatbázis\- és adatelemző munkatárs](https://www.profession.hu/allas/adatbazis-es-adatelemzo-munkatars-orszagos-korhazi-foigazgatosag-budapest-3005282) — Országos Kórházi Főigazgatóság \(Pest county, Budapest\)
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-3005713) — Lufthansa Systems Hungária Kft\. \(Pest county\)
-- [Data Engineer \- Szeged](https://www.profession.hu/allas/data-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3005711) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
+- [AI Engineer \(REF5308Q\)](https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-debrecen-2980402) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
+- [AI Engineering Workflow Developer \- T Cloud Public \(REF5739F\)](https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-debrecen-3002672) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
+- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-2999756) — Lufthansa Systems Hungária Kft\. \(Pest county\)
+- [AI/ML Engineer \- Szeged](https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2999833) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
+- [Analytics Engineer \- 5476](https://www.profession.hu/allas/analytics-engineer-united-consult-zrt-2991941) — UNITED CONSULT Zrt\. \(Pest county\)
+- [Big Data Engineer](https://www.profession.hu/allas/big-data-engineer-pont-systems-zrt-3006763) — Pont Systems Zrt\. \(Pest county\)
+- [Cost Data Analyst](https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-3000061) — Ford Közép\- és Kelet\-Európai Kft\. \(Pest county, Szentendre\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-magyar-telekom-nyrt-2986904) — Magyar Telekom Nyrt\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
