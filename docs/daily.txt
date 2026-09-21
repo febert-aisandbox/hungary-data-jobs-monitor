@@ -1,10 +1,10 @@
-**Hungary data jobs — 2026-09-20**
-Observed: **79** · New: **1** · No longer observed: **2**
-Junior/internship: **15** · Hybrid/remote: **33**
-Role mix: data\-engineering: 33, data\-science\-ml: 24, analyst\-bi: 20, quant\-risk: 2
+**Hungary data jobs — 2026-09-21**
+Observed: **77** · New: **1** · No longer observed: **3**
+Junior/internship: **15** · Hybrid/remote: **31**
+Role mix: data\-engineering: 32, data\-science\-ml: 23, analyst\-bi: 20, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Generative AI Engineer](https://www.profession.hu/allas/generative-ai-engineer-accenture-korlatolt-felelossegu-tarsasag-3006909) — Accenture Korlátolt Felelősségű Társaság \(Pest county\)
+- [GBS Data Analytics Analyst](https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3007075) — International Flavors & Fragrances I\.F\.F\. \(Hungary\) Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
