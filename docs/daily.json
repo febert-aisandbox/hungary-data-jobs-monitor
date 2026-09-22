@@ -1,17 +1,17 @@
 {
-  "report_date": "2026-09-21",
-  "updated_at": "2026-09-21 06:49 CEST",
+  "report_date": "2026-09-22",
+  "updated_at": "2026-09-22 06:40 CEST",
   "status": "success",
-  "active_total": 77,
+  "active_total": 78,
   "new_total": 1,
-  "expired_total": 3,
+  "expired_total": 0,
   "completed_queries": 11,
   "expected_queries": 11,
   "failed_searches": [],
   "junior_total": 15,
-  "hybrid_remote_total": 31,
+  "hybrid_remote_total": 32,
   "role_families": {
-    "data-engineering": 32,
+    "data-engineering": 33,
     "data-science-ml": 23,
     "analyst-bi": 20,
     "quant-risk": 2
@@ -34,15 +34,11 @@
       2
     ],
     [
-      "Szabolcs-Szatmár-Bereg county, Nyíregyháza",
-      1
-    ],
-    [
       "Pest county, Budaörs",
-      1
+      2
     ],
     [
-      "Pest county, Szentendre",
+      "Szabolcs-Szatmár-Bereg county, Nyíregyháza",
       1
     ],
     [
@@ -56,6 +52,10 @@
     [
       "Pest county, Üllő",
       1
+    ],
+    [
+      "Pest county, Törökbálint",
+      1
     ]
   ],
   "top_skills": [
@@ -65,7 +65,7 @@
     ],
     [
       "Python",
-      47
+      46
     ],
     [
       "SQL",
@@ -73,7 +73,7 @@
     ],
     [
       "Azure",
-      26
+      27
     ],
     [
       "AWS",
@@ -84,11 +84,11 @@
       14
     ],
     [
-      "Machine learning",
-      13
+      "Power BI",
+      14
     ],
     [
-      "Power BI",
+      "Machine learning",
       13
     ],
     [
@@ -110,13 +110,13 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3007075",
-      "title": "GBS Data Analytics Analyst",
-      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3007075",
-      "family": "analyst-bi",
+      "job_id": "3006865",
+      "title": "Data engineer",
+      "company": "Kontron Hungary Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3006865",
+      "family": "data-engineering",
       "work_mode": "Hibrid",
-      "location": "Pest county"
+      "location": "Pest county, Budaörs"
     }
   ],
   "active_jobs": [
@@ -281,16 +281,6 @@
       "location": "Pest county, Budaörs"
     },
     {
-      "job_id": "3000061",
-      "title": "Cost Data Analyst",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-3000061",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
-      "location": "Pest county, Szentendre"
-    },
-    {
       "job_id": "2997846",
       "title": "Data Analyst",
       "company": "Media Markt Magyarország Kft.",
@@ -309,16 +299,6 @@
       "work_mode": "Hibrid",
       "seniority": "1-3 years experience",
       "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2986904",
-      "title": "Data Engineer",
-      "company": "Magyar Telekom Nyrt.",
-      "url": "https://www.profession.hu/allas/data-engineer-magyar-telekom-nyrt-2986904",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
     },
     {
       "job_id": "3001482",
@@ -369,6 +349,16 @@
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Pest county"
+    },
+    {
+      "job_id": "3006865",
+      "title": "Data engineer",
+      "company": "Kontron Hungary Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3006865",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Budaörs"
     },
     {
       "job_id": "2999687",
@@ -501,13 +491,13 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2985734",
-      "title": "Machine Learning Engineer",
+      "job_id": "2987202",
+      "title": "Machine Learning Data Engineer",
       "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-2985734",
+      "url": "https://www.profession.hu/allas/machine-learning-data-engineer-opswat-kft-2987202",
       "family": "data-science-ml",
       "work_mode": "",
-      "seniority": "1-3 years experience",
+      "seniority": "3-5 years experience",
       "location": "Pest county"
     },
     {
@@ -549,6 +539,16 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2993308",
+      "title": "Research & Reporting Analyst",
+      "company": "Cushman & Wakefield Kft.",
+      "url": "https://www.profession.hu/allas/research-reporting-analyst-cushman-wakefield-kft-2993308",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "2982225",
@@ -871,34 +871,37 @@
       "location": "Hajdú-Bihar county"
     },
     {
-      "job_id": "2987202",
-      "title": "Machine Learning Data Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-data-engineer-opswat-kft-2987202",
-      "family": "data-science-ml",
-      "work_mode": "",
+      "job_id": "3000061",
+      "title": "Cost Data Analyst",
+      "company": "Ford Közép- és Kelet-Európai Kft.",
+      "url": "https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-3000061",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Pest county, Szentendre"
+    },
+    {
+      "job_id": "2986904",
+      "title": "Data Engineer",
+      "company": "Magyar Telekom Nyrt.",
+      "url": "https://www.profession.hu/allas/data-engineer-magyar-telekom-nyrt-2986904",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Pest county"
     },
     {
-      "job_id": "2993308",
-      "title": "Research & Reporting Analyst",
-      "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/research-reporting-analyst-cushman-wakefield-kft-2993308",
-      "family": "analyst-bi",
+      "job_id": "2985734",
+      "title": "Machine Learning Engineer",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-2985734",
+      "family": "data-science-ml",
       "work_mode": "",
-      "seniority": "senior",
+      "seniority": "1-3 years experience",
       "location": "Pest county"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-08-28T15:54:10.923578+00:00",
-      "status": "degraded",
-      "active_count": 67,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-08-28T16:14:52.189953+00:00",
       "status": "degraded",
@@ -1101,6 +1104,13 @@
       "active_count": 77,
       "new_count": 1,
       "expired_count": 3
+    },
+    {
+      "completed_at": "2026-09-22T04:40:28.948296+00:00",
+      "status": "success",
+      "active_count": 78,
+      "new_count": 1,
+      "expired_count": 0
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
