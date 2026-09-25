@@ -1,10 +1,11 @@
-**Hungary data jobs — 2026-09-24**
-Observed: **77** · New: **1** · No longer observed: **3**
-Junior/internship: **16** · Hybrid/remote: **30**
-Role mix: data\-engineering: 33, data\-science\-ml: 22, analyst\-bi: 20, quant\-risk: 2
+**Hungary data jobs — 2026-09-25**
+Observed: **78** · New: **2** · No longer observed: **1**
+Junior/internship: **16** · Hybrid/remote: **29**
+Role mix: data\-engineering: 33, data\-science\-ml: 23, analyst\-bi: 20, quant\-risk: 2
 
 **Noteworthy new listings**
-- [BI data analyst](https://www.profession.hu/allas/bi-data-analyst-gls-general-logistics-systems-hungary-kft-alsonemedi-3009622) — GLS General Logistics Systems Hungary Kft\. \(Pest county, Alsónémedi\)
+- [HR adatelemző\(1089 Budapest, Orczy út 44\-46\.\)](https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-3011322) — BÁRDI AUTÓ ZRT\. \(Pest county, Budapest\)
+- [Senior Data Scientist with AI product mindset](https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-budapest-3011317) — Hiflylabs Zrt\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._

@@ -1,18 +1,18 @@
 {
-  "report_date": "2026-09-24",
-  "updated_at": "2026-09-24 06:38 CEST",
+  "report_date": "2026-09-25",
+  "updated_at": "2026-09-25 06:45 CEST",
   "status": "success",
-  "active_total": 77,
-  "new_total": 1,
-  "expired_total": 3,
+  "active_total": 78,
+  "new_total": 2,
+  "expired_total": 1,
   "completed_queries": 11,
   "expected_queries": 11,
   "failed_searches": [],
   "junior_total": 16,
-  "hybrid_remote_total": 30,
+  "hybrid_remote_total": 29,
   "role_families": {
     "data-engineering": 33,
-    "data-science-ml": 22,
+    "data-science-ml": 23,
     "analyst-bi": 20,
     "quant-risk": 2
   },
@@ -23,7 +23,7 @@
     ],
     [
       "Pest county, Budapest",
-      22
+      24
     ],
     [
       "Pest county, Szeged",
@@ -42,10 +42,6 @@
       1
     ],
     [
-      "Pest county, Budaörs",
-      1
-    ],
-    [
       "Hajdú-Bihar county, Debrecen",
       1
     ],
@@ -56,6 +52,10 @@
     [
       "Pest county, Üllő",
       1
+    ],
+    [
+      "Pest county, Törökbálint",
+      1
     ]
   ],
   "top_skills": [
@@ -65,11 +65,11 @@
     ],
     [
       "Python",
-      47
+      49
     ],
     [
       "SQL",
-      35
+      37
     ],
     [
       "Azure",
@@ -81,15 +81,15 @@
     ],
     [
       "Machine learning",
-      14
+      15
     ],
     [
       "Spark",
-      13
+      14
     ],
     [
       "Power BI",
-      13
+      14
     ],
     [
       "Docker",
@@ -110,13 +110,22 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3009622",
-      "title": "BI data analyst",
-      "company": "GLS General Logistics Systems Hungary Kft.",
-      "url": "https://www.profession.hu/allas/bi-data-analyst-gls-general-logistics-systems-hungary-kft-alsonemedi-3009622",
+      "job_id": "3011322",
+      "title": "HR adatelemző(1089 Budapest, Orczy út 44-46.)",
+      "company": "BÁRDI AUTÓ ZRT.",
+      "url": "https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-3011322",
       "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Alsónémedi"
+      "work_mode": "",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3011317",
+      "title": "Senior Data Scientist with AI product mindset",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-budapest-3011317",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "location": "Pest county, Budapest"
     }
   ],
   "active_jobs": [
@@ -281,16 +290,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2985337",
-      "title": "CE Data Analyst",
-      "company": "TESCO-GLOBAL ZRT.",
-      "url": "https://www.profession.hu/allas/ce-data-analyst-tesco-global-zrt-budaors-2985337",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
-      "location": "Pest county, Budaörs"
-    },
-    {
       "job_id": "2997846",
       "title": "Data Analyst",
       "company": "Media Markt Magyarország Kft.",
@@ -441,6 +440,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3011322",
+      "title": "HR adatelemző(1089 Budapest, Orczy út 44-46.)",
+      "company": "BÁRDI AUTÓ ZRT.",
+      "url": "https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-3011322",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "professional experience is not required",
+      "location": "Pest county, Budapest"
+    },
+    {
       "job_id": "2999107",
       "title": "Junior Business & Reporting Analyst",
       "company": "Padthaiwokbar Kft.",
@@ -559,16 +568,6 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2993308",
-      "title": "Research & Reporting Analyst",
-      "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/research-reporting-analyst-cushman-wakefield-kft-2993308",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
     },
     {
       "job_id": "2982225",
@@ -751,10 +750,10 @@
       "location": "Pest county, Törökbálint"
     },
     {
-      "job_id": "2995002",
+      "job_id": "3011317",
       "title": "Senior Data Scientist with AI product mindset",
       "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-budapest-2995002",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-budapest-3011317",
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "senior",
@@ -841,16 +840,6 @@
       "location": "Unspecified"
     },
     {
-      "job_id": "2988474",
-      "title": "Software Engineer (ID Verification - Machine Learning team)",
-      "company": "SEON Technologies Kft.",
-      "url": "https://www.profession.hu/allas/software-engineer-id-verification-machine-learning-team-seon-technologies-kft-2988474",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "5-10 years experience",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3002620",
       "title": "Sportsbook – Senior Data Engineer",
       "company": "Betsson Group",
@@ -881,24 +870,47 @@
       "location": "Hajdú-Bihar county"
     },
     {
-      "job_id": "3000061",
-      "title": "Cost Data Analyst",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-3000061",
+      "job_id": "2985337",
+      "title": "CE Data Analyst",
+      "company": "TESCO-GLOBAL ZRT.",
+      "url": "https://www.profession.hu/allas/ce-data-analyst-tesco-global-zrt-budaors-2985337",
       "family": "analyst-bi",
       "work_mode": "Hibrid",
       "seniority": "1-3 years experience",
-      "location": "Pest county, Szentendre"
+      "location": "Pest county, Budaörs"
+    },
+    {
+      "job_id": "2993308",
+      "title": "Research & Reporting Analyst",
+      "company": "Cushman & Wakefield Kft.",
+      "url": "https://www.profession.hu/allas/research-reporting-analyst-cushman-wakefield-kft-2993308",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2995002",
+      "title": "Senior Data Scientist with AI product mindset",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-budapest-2995002",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2988474",
+      "title": "Software Engineer (ID Verification - Machine Learning team)",
+      "company": "SEON Technologies Kft.",
+      "url": "https://www.profession.hu/allas/software-engineer-id-verification-machine-learning-team-seon-technologies-kft-2988474",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "5-10 years experience",
+      "location": "Pest county"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-08-28T16:55:29.249035+00:00",
-      "status": "degraded",
-      "active_count": 67,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-08-28T17:15:41.626398+00:00",
       "status": "degraded",
@@ -1101,6 +1113,13 @@
       "active_count": 77,
       "new_count": 1,
       "expired_count": 3
+    },
+    {
+      "completed_at": "2026-09-25T04:45:53.574202+00:00",
+      "status": "success",
+      "active_count": 78,
+      "new_count": 2,
+      "expired_count": 1
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
