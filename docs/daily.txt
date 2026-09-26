@@ -1,11 +1,15 @@
-**Hungary data jobs — 2026-09-25**
-Observed: **78** · New: **2** · No longer observed: **1**
-Junior/internship: **16** · Hybrid/remote: **29**
-Role mix: data\-engineering: 33, data\-science\-ml: 23, analyst\-bi: 20, quant\-risk: 2
+**Hungary data jobs — 2026-09-26**
+Observed: **80** · New: **6** · No longer observed: **4**
+Junior/internship: **17** · Hybrid/remote: **31**
+Role mix: data\-engineering: 33, data\-science\-ml: 25, analyst\-bi: 20, quant\-risk: 2
 
 **Noteworthy new listings**
-- [HR adatelemző\(1089 Budapest, Orczy út 44\-46\.\)](https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-3011322) — BÁRDI AUTÓ ZRT\. \(Pest county, Budapest\)
-- [Senior Data Scientist with AI product mindset](https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-budapest-3011317) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [AWS Agentic AI Engineer \| Hungary](https://www.profession.hu/allas/aws-agentic-ai-engineer-hungary-deloitte-zrt-3012361) — Deloitte Zrt\. \(Pest county\)
+- [Adatelemző](https://www.profession.hu/allas/adatelemzo-sw-umwelttechnik-magyarorszag-kft-majoshaza-3011571) — SW Umwelttechnik Magyarország Kft\. \(Pest county, Majosháza\)
+- [Cost Data Analyst](https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-3000061) — Ford Közép\- és Kelet\-Európai Kft\. \(Pest county, Szentendre\)
+- [Machine Learning Engineer](https://www.profession.hu/allas/machine-learning-engineer-betsson-group-2994927) — Betsson Group \(Pest county\)
+- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-betsson-group-3012300) — Betsson Group \(Pest county\)
+- [Senior Machine Learning Engineer, Learner Modeling](https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3012310) — Instructure Hungary Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
