@@ -1,32 +1,32 @@
 {
-  "report_date": "2026-09-26",
-  "updated_at": "2026-09-26 06:36 CEST",
+  "report_date": "2026-09-27",
+  "updated_at": "2026-09-27 06:43 CEST",
   "status": "success",
-  "active_total": 80,
-  "new_total": 6,
+  "active_total": 76,
+  "new_total": 0,
   "expired_total": 4,
   "completed_queries": 11,
   "expected_queries": 11,
   "failed_searches": [],
-  "junior_total": 17,
-  "hybrid_remote_total": 31,
+  "junior_total": 16,
+  "hybrid_remote_total": 28,
   "role_families": {
     "data-engineering": 33,
-    "data-science-ml": 25,
+    "data-science-ml": 21,
     "analyst-bi": 20,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      41
+      39
     ],
     [
       "Pest county, Budapest",
       23
     ],
     [
-      "Pest county, Debrecen",
+      "Pest county, Pécs",
       3
     ],
     [
@@ -61,11 +61,11 @@
   "top_skills": [
     [
       "English",
-      69
+      65
     ],
     [
       "Python",
-      49
+      46
     ],
     [
       "SQL",
@@ -73,15 +73,15 @@
     ],
     [
       "Azure",
-      30
+      28
     ],
     [
       "AWS",
-      25
+      23
     ],
     [
       "Machine learning",
-      16
+      15
     ],
     [
       "Spark",
@@ -108,62 +108,7 @@
       3
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "3012361",
-      "title": "AWS Agentic AI Engineer | Hungary",
-      "company": "Deloitte Zrt.",
-      "url": "https://www.profession.hu/allas/aws-agentic-ai-engineer-hungary-deloitte-zrt-3012361",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3011571",
-      "title": "Adatelemző",
-      "company": "SW Umwelttechnik Magyarország Kft.",
-      "url": "https://www.profession.hu/allas/adatelemzo-sw-umwelttechnik-magyarorszag-kft-majoshaza-3011571",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county, Majosháza"
-    },
-    {
-      "job_id": "3000061",
-      "title": "Cost Data Analyst",
-      "company": "Ford Közép- és Kelet-Európai Kft.",
-      "url": "https://www.profession.hu/allas/cost-data-analyst-ford-kozep-es-kelet-europai-kft-szentendre-3000061",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Szentendre"
-    },
-    {
-      "job_id": "2994927",
-      "title": "Machine Learning Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/machine-learning-engineer-betsson-group-2994927",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3012300",
-      "title": "Senior AI Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-3012300",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3012310",
-      "title": "Senior Machine Learning Engineer, Learner Modeling",
-      "company": "Instructure Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3012310",
-      "family": "data-science-ml",
-      "work_mode": "Távmunka",
-      "location": "Pest county"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "2993074",
@@ -179,21 +124,21 @@
       "job_id": "3009468",
       "title": "AI Engineer (REF5308Q)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-debrecen-3009468",
+      "url": "https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-pecs-3009468",
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "3002672",
       "title": "AI Engineering Workflow Developer - T Cloud Public (REF5739F)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-debrecen-3002672",
+      "url": "https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-pecs-3002672",
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "2998613",
@@ -399,11 +344,11 @@
       "job_id": "3009484",
       "title": "Data Engineer (REF5482T)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-debrecen-3009484",
+      "url": "https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-3009484",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "1-3 years experience",
-      "location": "Pest county, Debrecen"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "3005711",
@@ -483,16 +428,6 @@
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3007075",
-      "title": "GBS Data Analytics Analyst",
-      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3007075",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
       "location": "Pest county"
     },
     {
@@ -926,54 +861,17 @@
       "location": "Hajdú-Bihar county"
     },
     {
-      "job_id": "2982417",
-      "title": "Lead AI Engineer",
-      "company": "Hydro Extrusion Hungary Kft.",
-      "url": "https://www.profession.hu/allas/lead-ai-engineer-hydro-extrusion-hungary-kft-szekesfehervar-2982417",
-      "family": "data-science-ml",
+      "job_id": "3007075",
+      "title": "GBS Data Analytics Analyst",
+      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3007075",
+      "family": "analyst-bi",
       "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Fejér county, Székesfehérvár"
-    },
-    {
-      "job_id": "2982225",
-      "title": "Senior AI Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-2982225",
-      "family": "data-science-ml",
-      "work_mode": "",
       "seniority": "junior",
       "location": "Pest county"
-    },
-    {
-      "job_id": "2982217",
-      "title": "Senior Machine Learning Engineer, Learner Modeling",
-      "company": "Instructure Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-2982217",
-      "family": "data-science-ml",
-      "work_mode": "Távmunka",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2982650",
-      "title": "Senior data scientist",
-      "company": "Profession Services",
-      "url": "https://www.profession.hu/allas/senior-data-scientist-profession-services-2982650",
-      "family": "data-science-ml",
-      "work_mode": "Távmunka",
-      "seniority": "senior",
-      "location": "Unspecified"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-08-28T17:36:42.844157+00:00",
-      "status": "success",
-      "active_count": 67,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-08-29T04:42:37.818558+00:00",
       "status": "success",
@@ -1175,6 +1073,13 @@
       "status": "success",
       "active_count": 80,
       "new_count": 6,
+      "expired_count": 4
+    },
+    {
+      "completed_at": "2026-09-27T04:43:02.972449+00:00",
+      "status": "success",
+      "active_count": 76,
+      "new_count": 0,
       "expired_count": 4
     }
   ],
