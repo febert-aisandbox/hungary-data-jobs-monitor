@@ -1,19 +1,19 @@
 {
-  "report_date": "2026-09-27",
-  "updated_at": "2026-09-27 06:43 CEST",
+  "report_date": "2026-09-28",
+  "updated_at": "2026-09-28 06:49 CEST",
   "status": "success",
   "active_total": 76,
-  "new_total": 0,
-  "expired_total": 4,
+  "new_total": 1,
+  "expired_total": 1,
   "completed_queries": 11,
   "expected_queries": 11,
   "failed_searches": [],
-  "junior_total": 16,
-  "hybrid_remote_total": 28,
+  "junior_total": 15,
+  "hybrid_remote_total": 27,
   "role_families": {
-    "data-engineering": 33,
+    "data-engineering": 34,
     "data-science-ml": 21,
-    "analyst-bi": 20,
+    "analyst-bi": 19,
     "quant-risk": 2
   },
   "top_locations": [
@@ -61,19 +61,19 @@
   "top_skills": [
     [
       "English",
-      65
+      64
     ],
     [
       "Python",
-      46
+      45
     ],
     [
       "SQL",
-      35
+      34
     ],
     [
       "Azure",
-      28
+      29
     ],
     [
       "AWS",
@@ -89,7 +89,7 @@
     ],
     [
       "Power BI",
-      13
+      12
     ],
     [
       "Docker",
@@ -108,7 +108,17 @@
       3
     ]
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "3012548",
+      "title": "Senior Data Engineer (f/m/d)",
+      "company": "Siemens Energy Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-f-m-d-siemens-energy-kft-3012548",
+      "family": "data-engineering",
+      "work_mode": "",
+      "location": "Pest county"
+    }
+  ],
   "active_jobs": [
     {
       "job_id": "2993074",
@@ -711,10 +721,10 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2984606",
+      "job_id": "3012548",
       "title": "Senior Data Engineer (f/m/d)",
       "company": "Siemens Energy Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-f-m-d-siemens-energy-kft-2984606",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-f-m-d-siemens-energy-kft-3012548",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
@@ -861,24 +871,17 @@
       "location": "Hajdú-Bihar county"
     },
     {
-      "job_id": "3007075",
-      "title": "GBS Data Analytics Analyst",
-      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3007075",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
+      "job_id": "2984606",
+      "title": "Senior Data Engineer (f/m/d)",
+      "company": "Siemens Energy Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-f-m-d-siemens-energy-kft-2984606",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
       "location": "Pest county"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-08-29T04:42:37.818558+00:00",
-      "status": "success",
-      "active_count": 65,
-      "new_count": 3,
-      "expired_count": 5
-    },
     {
       "completed_at": "2026-08-30T04:48:11.237197+00:00",
       "status": "success",
@@ -1081,6 +1084,13 @@
       "active_count": 76,
       "new_count": 0,
       "expired_count": 4
+    },
+    {
+      "completed_at": "2026-09-28T04:49:08.238525+00:00",
+      "status": "success",
+      "active_count": 76,
+      "new_count": 1,
+      "expired_count": 1
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
