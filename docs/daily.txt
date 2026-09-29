@@ -1,10 +1,13 @@
-**Hungary data jobs — 2026-09-28**
-Observed: **76** · New: **1** · No longer observed: **1**
-Junior/internship: **15** · Hybrid/remote: **27**
-Role mix: data\-engineering: 34, data\-science\-ml: 21, analyst\-bi: 19, quant\-risk: 2
+**Hungary data jobs — 2026-09-29**
+Observed: **79** · New: **4** · No longer observed: **1**
+Junior/internship: **15** · Hybrid/remote: **30**
+Role mix: data\-engineering: 35, data\-science\-ml: 23, analyst\-bi: 19, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Senior Data Engineer \(f/m/d\)](https://www.profession.hu/allas/senior-data-engineer-f-m-d-siemens-energy-kft-3012548) — Siemens Energy Kft\. \(Pest county\)
+- [Data engineer](https://www.profession.hu/allas/data-engineer-omnit-solutions-kft-budapest-3013403) — Omnit Solutions Kft\. \(Pest county, Budapest\)
+- [Elemző/Vezető elemző – Analytics Engineer](https://www.profession.hu/allas/elemzo-vezeto-elemzo-analytics-engineer-magyar-nemzeti-bank-budapest-3013205) — Magyar Nemzeti Bank \(Pest county, Budapest\)
+- [Machine Learning Engineer](https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-3014081) — OPSWAT Kft\. \(Pest county\)
+- [Senior data scientist](https://www.profession.hu/allas/senior-data-scientist-profession-services-3013173) — Profession Services \(Unspecified\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
