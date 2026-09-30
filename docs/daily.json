@@ -1,9 +1,9 @@
 {
   "report_date": "2026-09-30",
-  "updated_at": "2026-09-30 13:41 CEST",
+  "updated_at": "2026-09-30 14:01 CEST",
   "status": "degraded",
   "active_total": 83,
-  "new_total": 1,
+  "new_total": 0,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -110,17 +110,7 @@
       3
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "3014734",
-      "title": "Marketing adatelemző",
-      "company": "Visit Hungary Nonprofit Zrt.",
-      "url": "https://www.profession.hu/allas/marketing-adatelemzo-visit-hungary-nonprofit-zrt-budapest-3014734",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county, Budapest"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "2993074",
@@ -955,13 +945,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-09-22T04:40:28.948296+00:00",
-      "status": "success",
-      "active_count": 78,
-      "new_count": 1,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-09-23T04:46:34.754753+00:00",
       "status": "success",
       "active_count": 79,
@@ -1162,6 +1145,13 @@
       "status": "degraded",
       "active_count": 83,
       "new_count": 1,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-09-30T12:01:58.543121+00:00",
+      "status": "degraded",
+      "active_count": 83,
+      "new_count": 0,
       "expired_count": 0
     }
   ],
