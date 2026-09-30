@@ -1,13 +1,13 @@
-**Hungary data jobs — 2026-09-29**
-Observed: **79** · New: **4** · No longer observed: **1**
-Junior/internship: **15** · Hybrid/remote: **30**
-Role mix: data\-engineering: 35, data\-science\-ml: 23, analyst\-bi: 19, quant\-risk: 2
+**Hungary data jobs — 2026-09-30**
+⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
+Observed: **82** · New: **3** · No longer observed: **0**
+Junior/internship: **14** · Hybrid/remote: **33**
+Role mix: data\-engineering: 36, data\-science\-ml: 25, analyst\-bi: 19, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Data engineer](https://www.profession.hu/allas/data-engineer-omnit-solutions-kft-budapest-3013403) — Omnit Solutions Kft\. \(Pest county, Budapest\)
-- [Elemző/Vezető elemző – Analytics Engineer](https://www.profession.hu/allas/elemzo-vezeto-elemzo-analytics-engineer-magyar-nemzeti-bank-budapest-3013205) — Magyar Nemzeti Bank \(Pest county, Budapest\)
-- [Machine Learning Engineer](https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-3014081) — OPSWAT Kft\. \(Pest county\)
-- [Senior data scientist](https://www.profession.hu/allas/senior-data-scientist-profession-services-3013173) — Profession Services \(Unspecified\)
+- [AI Engineer \(AWS\) \(all genders\)](https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-3015265) — Adesso business consulting Kft\. \(Pest county, Győr\)
+- [Cloud Data Engineer](https://www.profession.hu/allas/cloud-data-engineer-yettel-hungary-ltd-torokbalint-3015277) — Yettel Hungary Ltd\. \(Pest county, Törökbálint\)
+- [Senior AI Engineer \(Databricks\) \- UK](https://www.profession.hu/allas/senior-ai-engineer-databricks-uk-datapao-kft-3015215) — DATAPAO Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
