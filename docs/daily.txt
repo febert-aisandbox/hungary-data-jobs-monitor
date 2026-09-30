@@ -1,8 +1,11 @@
 **Hungary data jobs — 2026-09-30**
-⚠️ Partial coverage: **9/11 searches** completed; no expirations were recorded.
-Observed: **82** · New: **0** · No longer observed: **0**
+⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
+Observed: **83** · New: **1** · No longer observed: **0**
 Junior/internship: **14** · Hybrid/remote: **33**
-Role mix: data\-engineering: 36, data\-science\-ml: 25, analyst\-bi: 19, quant\-risk: 2
+Role mix: data\-engineering: 36, data\-science\-ml: 25, analyst\-bi: 20, quant\-risk: 2
+
+**Noteworthy new listings**
+- [Marketing adatelemző](https://www.profession.hu/allas/marketing-adatelemzo-visit-hungary-nonprofit-zrt-budapest-3014734) — Visit Hungary Nonprofit Zrt\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
