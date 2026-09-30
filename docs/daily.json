@@ -1,15 +1,14 @@
 {
   "report_date": "2026-09-30",
-  "updated_at": "2026-09-30 08:24 CEST",
+  "updated_at": "2026-09-30 08:44 CEST",
   "status": "degraded",
   "active_total": 82,
   "new_total": 0,
   "expired_total": 0,
-  "completed_queries": 9,
+  "completed_queries": 10,
   "expected_queries": 11,
   "failed_searches": [
-    "business intelligence",
-    "data engineer"
+    "business intelligence"
   ],
   "junior_total": 14,
   "hybrid_remote_total": 33,
@@ -936,13 +935,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-09-06T04:44:49.655475+00:00",
-      "status": "success",
-      "active_count": 71,
-      "new_count": 1,
-      "expired_count": 3
-    },
-    {
       "completed_at": "2026-09-07T04:50:46.804754+00:00",
       "status": "success",
       "active_count": 70,
@@ -1140,6 +1132,13 @@
     },
     {
       "completed_at": "2026-09-30T06:24:10.405970+00:00",
+      "status": "degraded",
+      "active_count": 82,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-09-30T06:44:05.129481+00:00",
       "status": "degraded",
       "active_count": 82,
       "new_count": 0,
