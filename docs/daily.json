@@ -1,13 +1,14 @@
 {
   "report_date": "2026-09-30",
-  "updated_at": "2026-09-30 13:02 CEST",
+  "updated_at": "2026-09-30 13:21 CEST",
   "status": "degraded",
   "active_total": 82,
   "new_total": 0,
   "expired_total": 0,
-  "completed_queries": 10,
+  "completed_queries": 9,
   "expected_queries": 11,
   "failed_searches": [
+    "adatelemző",
     "business intelligence"
   ],
   "junior_total": 14,
@@ -935,13 +936,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-09-20T04:43:10.843904+00:00",
-      "status": "success",
-      "active_count": 79,
-      "new_count": 1,
-      "expired_count": 2
-    },
-    {
       "completed_at": "2026-09-21T04:49:13.863773+00:00",
       "status": "success",
       "active_count": 77,
@@ -1139,6 +1133,13 @@
     },
     {
       "completed_at": "2026-09-30T11:02:37.711406+00:00",
+      "status": "degraded",
+      "active_count": 82,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-09-30T11:21:59.865720+00:00",
       "status": "degraded",
       "active_count": 82,
       "new_count": 0,
