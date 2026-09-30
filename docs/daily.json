@@ -1,9 +1,9 @@
 {
   "report_date": "2026-09-30",
-  "updated_at": "2026-09-30 06:44 CEST",
+  "updated_at": "2026-09-30 07:04 CEST",
   "status": "degraded",
   "active_total": 82,
-  "new_total": 3,
+  "new_total": 0,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -110,35 +110,7 @@
       3
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "3015265",
-      "title": "AI Engineer (AWS) (all genders)",
-      "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-3015265",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Győr"
-    },
-    {
-      "job_id": "3015277",
-      "title": "Cloud Data Engineer",
-      "company": "Yettel Hungary Ltd.",
-      "url": "https://www.profession.hu/allas/cloud-data-engineer-yettel-hungary-ltd-torokbalint-3015277",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Törökbálint"
-    },
-    {
-      "job_id": "3015215",
-      "title": "Senior AI Engineer (Databricks) - UK",
-      "company": "DATAPAO Kft.",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-databricks-uk-datapao-kft-3015215",
-      "family": "data-science-ml",
-      "work_mode": "Távmunka",
-      "location": "Pest county"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "2993074",
@@ -963,13 +935,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-09-01T04:44:36.719268+00:00",
-      "status": "success",
-      "active_count": 67,
-      "new_count": 5,
-      "expired_count": 4
-    },
-    {
       "completed_at": "2026-09-02T04:50:32.491723+00:00",
       "status": "success",
       "active_count": 68,
@@ -1170,6 +1135,13 @@
       "status": "degraded",
       "active_count": 82,
       "new_count": 3,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-09-30T05:04:45.632259+00:00",
+      "status": "degraded",
+      "active_count": 82,
+      "new_count": 0,
       "expired_count": 0
     }
   ],
