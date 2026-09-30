@@ -1,6 +1,6 @@
 {
   "report_date": "2026-09-30",
-  "updated_at": "2026-09-30 11:43 CEST",
+  "updated_at": "2026-09-30 12:02 CEST",
   "status": "degraded",
   "active_total": 82,
   "new_total": 0,
@@ -935,13 +935,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-09-16T04:48:23.361877+00:00",
-      "status": "success",
-      "active_count": 76,
-      "new_count": 9,
-      "expired_count": 4
-    },
-    {
       "completed_at": "2026-09-17T04:40:57.472498+00:00",
       "status": "success",
       "active_count": 108,
@@ -1139,6 +1132,13 @@
     },
     {
       "completed_at": "2026-09-30T09:43:09.517797+00:00",
+      "status": "degraded",
+      "active_count": 82,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-09-30T10:02:55.969053+00:00",
       "status": "degraded",
       "active_count": 82,
       "new_count": 0,
