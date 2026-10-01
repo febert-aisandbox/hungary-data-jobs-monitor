@@ -1,6 +1,6 @@
 {
   "report_date": "2026-10-01",
-  "updated_at": "2026-10-01 13:05 CEST",
+  "updated_at": "2026-10-01 13:25 CEST",
   "status": "degraded",
   "active_total": 87,
   "new_total": 0,
@@ -463,16 +463,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2989048",
-      "title": "Junior Data & BI Analyst - Financial risk management",
-      "company": "OTP Bank Nyrt.",
-      "url": "https://www.profession.hu/allas/junior-data-bi-analyst-financial-risk-management-otp-bank-nyrt-budapest-2989048",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "3003130",
       "title": "Junior adatelemző",
       "company": "M. L. ENERGY Kft.",
@@ -813,6 +803,16 @@
       "location": "Pest county, Veresegyház"
     },
     {
+      "job_id": "2989048",
+      "title": "Junior Data & BI Analyst - Financial risk management",
+      "company": "OTP Bank Nyrt.",
+      "url": "https://www.profession.hu/allas/junior-data-bi-analyst-financial-risk-management-otp-bank-nyrt-budapest-2989048",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
+      "location": "Pest county, Budapest"
+    },
+    {
       "job_id": "2986978",
       "title": "Microsoft Fabric Data Engineer",
       "company": "Accenture Korlátolt Felelősségű Társaság",
@@ -984,13 +984,6 @@
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-09-30T18:57:58.631311+00:00",
-      "status": "degraded",
-      "active_count": 83,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-09-30T19:17:44.664046+00:00",
       "status": "degraded",
@@ -1189,6 +1182,13 @@
     },
     {
       "completed_at": "2026-10-01T11:05:16.119998+00:00",
+      "status": "degraded",
+      "active_count": 87,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-01T11:25:15.039207+00:00",
       "status": "degraded",
       "active_count": 87,
       "new_count": 0,
