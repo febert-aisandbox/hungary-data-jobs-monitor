@@ -1,14 +1,8 @@
 **Hungary data jobs — 2026-10-01**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **87** · New: **4** · No longer observed: **0**
+Observed: **87** · New: **0** · No longer observed: **0**
 Junior/internship: **14** · Hybrid/remote: **35**
 Role mix: data\-engineering: 39, data\-science\-ml: 26, analyst\-bi: 20, quant\-risk: 2
-
-**Noteworthy new listings**
-- [AI Engineer \(Europe\) \- contractor](https://www.profession.hu/allas/ai-engineer-europe-contractor-hiflylabs-zrt-3016164) — Hiflylabs Zrt\. \(Pest county\)
-- [Data Architect/Data Engineer/Native Data Quality \(Finance SME\)](https://www.profession.hu/allas/data-architect-data-engineer-native-data-quality-finance-sme-druit-szolgaltato-zrt-3016117) — DruIT Szolgáltató Zrt\. \(Pest county\)
-- [German Speaking Senior Data Engineer \(REF5815N\)](https://www.profession.hu/allas/german-speaking-senior-data-engineer-ref-n-deutsche-telekom-tsi-hungary-kft-pecs-3016214) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
-- [Microsoft Fabric Data Engineer](https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3016145) — Accenture Korlátolt Felelősségű Társaság \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
