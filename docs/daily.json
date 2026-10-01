@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-09-30",
-  "updated_at": "2026-09-30 23:56 CEST",
+  "report_date": "2026-10-01",
+  "updated_at": "2026-10-01 06:46 CEST",
   "status": "degraded",
-  "active_total": 83,
-  "new_total": 0,
+  "active_total": 87,
+  "new_total": 4,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -11,17 +11,17 @@
     "business intelligence"
   ],
   "junior_total": 14,
-  "hybrid_remote_total": 33,
+  "hybrid_remote_total": 35,
   "role_families": {
-    "data-engineering": 36,
-    "data-science-ml": 25,
+    "data-engineering": 39,
+    "data-science-ml": 26,
     "analyst-bi": 20,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      40
+      43
     ],
     [
       "Pest county, Budapest",
@@ -29,7 +29,7 @@
     ],
     [
       "Pest county, Pécs",
-      3
+      5
     ],
     [
       "Csongrád-Csanád county, Szeged",
@@ -38,10 +38,6 @@
     [
       "Pest county, Törökbálint",
       2
-    ],
-    [
-      "Pest county, Győr",
-      1
     ],
     [
       "Pest county, Majosháza",
@@ -58,59 +54,100 @@
     [
       "Hajdú-Bihar county, Debrecen",
       1
+    ],
+    [
+      "Unspecified",
+      1
     ]
   ],
   "top_skills": [
     [
       "English",
-      72
+      76
     ],
     [
       "Python",
-      50
+      53
     ],
     [
       "SQL",
-      39
+      43
     ],
     [
       "Azure",
-      29
+      32
     ],
     [
       "AWS",
-      27
+      29
+    ],
+    [
+      "Spark",
+      19
     ],
     [
       "Machine learning",
       17
     ],
     [
-      "Spark",
-      17
-    ],
-    [
       "Power BI",
-      14
+      16
     ],
     [
       "Docker",
       8
     ],
     [
-      "Tableau",
+      "Excel",
       5
     ],
     [
-      "Excel",
-      4
+      "Tableau",
+      5
     ],
     [
       "GCP",
       3
     ]
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "3016164",
+      "title": "AI Engineer (Europe) - contractor",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/ai-engineer-europe-contractor-hiflylabs-zrt-3016164",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3016117",
+      "title": "Data Architect/Data Engineer/Native Data Quality (Finance SME)",
+      "company": "DruIT Szolgáltató Zrt.",
+      "url": "https://www.profession.hu/allas/data-architect-data-engineer-native-data-quality-finance-sme-druit-szolgaltato-zrt-3016117",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3016214",
+      "title": "German Speaking Senior Data Engineer (REF5815N)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/german-speaking-senior-data-engineer-ref-n-deutsche-telekom-tsi-hungary-kft-pecs-3016214",
+      "family": "data-engineering",
+      "work_mode": "",
+      "location": "Pest county, Pécs"
+    },
+    {
+      "job_id": "3016145",
+      "title": "Microsoft Fabric Data Engineer",
+      "company": "Accenture Korlátolt Felelősségű Társaság",
+      "url": "https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3016145",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "location": "Pest county"
+    }
+  ],
   "active_jobs": [
     {
       "job_id": "2993074",
@@ -126,11 +163,21 @@
       "job_id": "3015265",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-3015265",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-pecs-3015265",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "professional experience is not required",
-      "location": "Pest county, Győr"
+      "location": "Pest county, Pécs"
+    },
+    {
+      "job_id": "3016164",
+      "title": "AI Engineer (Europe) - contractor",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/ai-engineer-europe-contractor-hiflylabs-zrt-3016164",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "5-10 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "3009468",
@@ -313,6 +360,16 @@
       "location": "Pest county, Budapest"
     },
     {
+      "job_id": "3016117",
+      "title": "Data Architect/Data Engineer/Native Data Quality (Finance SME)",
+      "company": "DruIT Szolgáltató Zrt.",
+      "url": "https://www.profession.hu/allas/data-architect-data-engineer-native-data-quality-finance-sme-druit-szolgaltato-zrt-3016117",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "professional experience is not required",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3001482",
       "title": "Data Engineer",
       "company": "MSCI Kft.",
@@ -413,6 +470,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3016214",
+      "title": "German Speaking Senior Data Engineer (REF5815N)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/german-speaking-senior-data-engineer-ref-n-deutsche-telekom-tsi-hungary-kft-pecs-3016214",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county, Pécs"
+    },
+    {
       "job_id": "3011322",
       "title": "HR adatelemző(1089 Budapest, Orczy út 44-46.)",
       "company": "BÁRDI AUTÓ ZRT.",
@@ -473,6 +540,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "2994927",
+      "title": "Machine Learning Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/machine-learning-engineer-betsson-group-2994927",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3014081",
       "title": "Machine Learning Engineer",
       "company": "OPSWAT Kft.",
@@ -513,10 +590,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2986978",
+      "job_id": "3016145",
       "title": "Microsoft Fabric Data Engineer",
       "company": "Accenture Korlátolt Felelősségű Társaság",
-      "url": "https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-2986978",
+      "url": "https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3016145",
       "family": "data-engineering",
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
@@ -549,16 +626,6 @@
       "url": "https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-2998603",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3012300",
-      "title": "Senior AI Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-3012300",
-      "family": "data-science-ml",
-      "work_mode": "",
       "seniority": "senior",
       "location": "Pest county"
     },
@@ -773,16 +840,6 @@
       "location": "Unspecified"
     },
     {
-      "job_id": "3002620",
-      "title": "Sportsbook – Senior Data Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/sportsbook-senior-data-engineer-betsson-group-3002620",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3006136",
       "title": "Termelési Jelentéskészítő és Adatelemző gyakornok (WHC023968) - Diákmunka",
       "company": "WHC Diák Iskolaszövetkezet",
@@ -791,6 +848,36 @@
       "work_mode": "",
       "seniority": "junior",
       "location": "Pest county, Veresegyház"
+    },
+    {
+      "job_id": "2986978",
+      "title": "Microsoft Fabric Data Engineer",
+      "company": "Accenture Korlátolt Felelősségű Társaság",
+      "url": "https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-2986978",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "5-10 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3012300",
+      "title": "Senior AI Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-3012300",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3002620",
+      "title": "Sportsbook – Senior Data Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/sportsbook-senior-data-engineer-betsson-group-3002620",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "2990000",
@@ -923,16 +1010,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2994927",
-      "title": "Machine Learning Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/machine-learning-engineer-betsson-group-2994927",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2993343",
       "title": "Senior Data Engineer",
       "company": "ROSSMANN Magyarország Kft",
@@ -944,13 +1021,6 @@
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-09-30T12:21:56.838489+00:00",
-      "status": "degraded",
-      "active_count": 83,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-09-30T12:41:46.131666+00:00",
       "status": "degraded",
@@ -1152,6 +1222,13 @@
       "status": "degraded",
       "active_count": 83,
       "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-01T04:46:03.368801+00:00",
+      "status": "degraded",
+      "active_count": 87,
+      "new_count": 4,
       "expired_count": 0
     }
   ],
