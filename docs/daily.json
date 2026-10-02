@@ -1,6 +1,6 @@
 {
   "report_date": "2026-10-02",
-  "updated_at": "2026-10-02 13:53 CEST",
+  "updated_at": "2026-10-02 14:13 CEST",
   "status": "degraded",
   "active_total": 90,
   "new_total": 0,
@@ -8,7 +8,7 @@
   "completed_queries": 9,
   "expected_queries": 11,
   "failed_searches": [
-    "adatelemző",
+    "data analyst",
     "business intelligence"
   ],
   "junior_total": 16,
@@ -1016,13 +1016,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-01T19:40:32.483633+00:00",
-      "status": "degraded",
-      "active_count": 87,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-01T20:00:17.906909+00:00",
       "status": "degraded",
       "active_count": 87,
@@ -1220,6 +1213,13 @@
     },
     {
       "completed_at": "2026-10-02T11:53:25.224026+00:00",
+      "status": "degraded",
+      "active_count": 90,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-02T12:13:21.999116+00:00",
       "status": "degraded",
       "active_count": 90,
       "new_count": 0,
