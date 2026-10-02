@@ -1,8 +1,13 @@
-**Hungary data jobs — 2026-10-01**
+**Hungary data jobs — 2026-10-02**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **87** · New: **0** · No longer observed: **0**
-Junior/internship: **14** · Hybrid/remote: **35**
-Role mix: data\-engineering: 39, data\-science\-ml: 26, analyst\-bi: 20, quant\-risk: 2
+Observed: **90** · New: **3** · No longer observed: **0**
+Junior/internship: **16** · Hybrid/remote: **35**
+Role mix: data\-engineering: 41, data\-science\-ml: 26, analyst\-bi: 21, quant\-risk: 2
+
+**Noteworthy new listings**
+- [BI Analyst](https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-3017071) — Cushman & Wakefield Kft\. \(Pest county\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-opswat-kft-3017406) — OPSWAT Kft\. \(Pest county\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-peridot-capital-solutions-hungary-services-kft-3017063) — Peridot Capital Solutions Hungary Services Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
