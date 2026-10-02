@@ -1,9 +1,9 @@
 {
   "report_date": "2026-10-02",
-  "updated_at": "2026-10-02 14:33 CEST",
+  "updated_at": "2026-10-02 14:53 CEST",
   "status": "degraded",
-  "active_total": 90,
-  "new_total": 0,
+  "active_total": 91,
+  "new_total": 1,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -15,7 +15,7 @@
   "role_families": {
     "data-engineering": 41,
     "data-science-ml": 26,
-    "analyst-bi": 21,
+    "analyst-bi": 22,
     "quant-risk": 2
   },
   "top_locations": [
@@ -25,7 +25,7 @@
     ],
     [
       "Pest county, Budapest",
-      26
+      27
     ],
     [
       "Pest county, Pécs",
@@ -63,7 +63,7 @@
   "top_skills": [
     [
       "English",
-      80
+      81
     ],
     [
       "Python",
@@ -110,7 +110,17 @@
       3
     ]
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "3017855",
+      "title": "Data Analytics Developer",
+      "company": "Sanofi",
+      "url": "https://www.profession.hu/allas/data-analytics-developer-sanofi-budapest-3017855",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Pest county, Budapest"
+    }
+  ],
   "active_jobs": [
     {
       "job_id": "2993074",
@@ -307,6 +317,16 @@
       "title": "Data Analyst",
       "company": "Media Markt Magyarország Kft.",
       "url": "https://www.profession.hu/allas/data-analyst-media-markt-magyarorszag-kft-budapest-2997846",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3017855",
+      "title": "Data Analytics Developer",
+      "company": "Sanofi",
+      "url": "https://www.profession.hu/allas/data-analytics-developer-sanofi-budapest-3017855",
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "3-5 years experience",
@@ -1015,13 +1035,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-01T20:20:05.062547+00:00",
-      "status": "degraded",
-      "active_count": 87,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-01T20:39:50.842511+00:00",
       "status": "degraded",
       "active_count": 87,
@@ -1222,6 +1235,13 @@
       "status": "degraded",
       "active_count": 90,
       "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-02T12:53:59.252993+00:00",
+      "status": "degraded",
+      "active_count": 91,
+      "new_count": 1,
       "expired_count": 0
     }
   ],

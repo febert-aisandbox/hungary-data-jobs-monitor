@@ -1,8 +1,11 @@
 **Hungary data jobs — 2026-10-02**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **90** · New: **0** · No longer observed: **0**
+Observed: **91** · New: **1** · No longer observed: **0**
 Junior/internship: **16** · Hybrid/remote: **35**
-Role mix: data\-engineering: 41, data\-science\-ml: 26, analyst\-bi: 21, quant\-risk: 2
+Role mix: data\-engineering: 41, data\-science\-ml: 26, analyst\-bi: 22, quant\-risk: 2
+
+**Noteworthy new listings**
+- [Data Analytics Developer](https://www.profession.hu/allas/data-analytics-developer-sanofi-budapest-3017855) — Sanofi \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
