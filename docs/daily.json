@@ -1,9 +1,9 @@
 {
   "report_date": "2026-10-02",
-  "updated_at": "2026-10-02 14:53 CEST",
+  "updated_at": "2026-10-02 15:14 CEST",
   "status": "degraded",
   "active_total": 91,
-  "new_total": 1,
+  "new_total": 0,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -110,17 +110,7 @@
       3
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "3017855",
-      "title": "Data Analytics Developer",
-      "company": "Sanofi",
-      "url": "https://www.profession.hu/allas/data-analytics-developer-sanofi-budapest-3017855",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county, Budapest"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "2993074",
@@ -1035,13 +1025,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-01T20:39:50.842511+00:00",
-      "status": "degraded",
-      "active_count": 87,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-01T20:59:33.737518+00:00",
       "status": "degraded",
       "active_count": 87,
@@ -1242,6 +1225,13 @@
       "status": "degraded",
       "active_count": 91,
       "new_count": 1,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-02T13:14:18.247807+00:00",
+      "status": "degraded",
+      "active_count": 91,
+      "new_count": 0,
       "expired_count": 0
     }
   ],
