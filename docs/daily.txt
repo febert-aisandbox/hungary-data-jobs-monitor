@@ -1,5 +1,5 @@
 **Hungary data jobs — 2026-10-02**
-⚠️ Partial coverage: **9/11 searches** completed; no expirations were recorded.
+⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
 Observed: **90** · New: **0** · No longer observed: **0**
 Junior/internship: **16** · Hybrid/remote: **35**
 Role mix: data\-engineering: 41, data\-science\-ml: 26, analyst\-bi: 21, quant\-risk: 2
