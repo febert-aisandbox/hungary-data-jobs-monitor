@@ -1,6 +1,6 @@
 {
   "report_date": "2026-10-03",
-  "updated_at": "2026-10-03 19:41 CEST",
+  "updated_at": "2026-10-03 20:01 CEST",
   "status": "degraded",
   "active_total": 91,
   "new_total": 0,
@@ -340,16 +340,6 @@
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3005713",
-      "title": "Data Engineer",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-3005713",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
       "location": "Pest county"
     },
     {
@@ -833,6 +823,16 @@
       "location": "Pest county, Veresegyház"
     },
     {
+      "job_id": "3005713",
+      "title": "Data Engineer",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-lufthansa-systems-hungaria-kft-3005713",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3006744",
       "title": "Financial Data Engineer",
       "company": "MSCI Kft.",
@@ -1024,13 +1024,6 @@
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-10-03T08:11:55.394875+00:00",
-      "status": "degraded",
-      "active_count": 91,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-10-03T08:31:35.025167+00:00",
       "status": "degraded",
@@ -1229,6 +1222,13 @@
     },
     {
       "completed_at": "2026-10-03T17:41:33.269176+00:00",
+      "status": "degraded",
+      "active_count": 91,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-03T18:01:15.545401+00:00",
       "status": "degraded",
       "active_count": 91,
       "new_count": 0,
