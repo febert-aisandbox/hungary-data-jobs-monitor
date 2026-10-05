@@ -1,20 +1,15 @@
 {
   "report_date": "2026-10-05",
-  "updated_at": "2026-10-05 22:39 CEST",
+  "updated_at": "2026-10-05 23:04 CEST",
   "status": "degraded",
   "active_total": 93,
   "new_total": 0,
   "expired_total": 0,
-  "completed_queries": 4,
+  "completed_queries": 9,
   "expected_queries": 11,
   "failed_searches": [
-    "data analyst",
-    "adatelemző",
     "business intelligence",
-    "data scientist",
-    "ML engineer",
-    "analytics engineer",
-    "data engineer"
+    "data scientist"
   ],
   "junior_total": 16,
   "hybrid_remote_total": 36,
@@ -46,15 +41,15 @@
       2
     ],
     [
-      "Pest county, Alsónémedi",
-      1
-    ],
-    [
       "Pest county, Majosháza",
       1
     ],
     [
       "Szabolcs-Szatmár-Bereg county, Nyíregyháza",
+      1
+    ],
+    [
+      "Pest county, Alsónémedi",
       1
     ],
     [
@@ -88,11 +83,11 @@
       29
     ],
     [
-      "Power BI",
+      "Spark",
       18
     ],
     [
-      "Spark",
+      "Power BI",
       18
     ],
     [
@@ -112,142 +107,12 @@
       5
     ],
     [
-      "Statistics",
+      "GCP",
       3
     ]
   ],
   "new_jobs": [],
   "active_jobs": [
-    {
-      "job_id": "3012361",
-      "title": "AWS Agentic AI Engineer | Hungary",
-      "company": "Deloitte Zrt.",
-      "url": "https://www.profession.hu/allas/aws-agentic-ai-engineer-hungary-deloitte-zrt-3012361",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "professional experience is not required",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3017071",
-      "title": "BI Analyst",
-      "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-3017071",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3009622",
-      "title": "BI data analyst",
-      "company": "GLS General Logistics Systems Hungary Kft.",
-      "url": "https://www.profession.hu/allas/bi-data-analyst-gls-general-logistics-systems-hungary-kft-alsonemedi-3009622",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Alsónémedi"
-    },
-    {
-      "job_id": "2997846",
-      "title": "Data Analyst",
-      "company": "Media Markt Magyarország Kft.",
-      "url": "https://www.profession.hu/allas/data-analyst-media-markt-magyarorszag-kft-budapest-2997846",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "2993075",
-      "title": "Lead ML Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2993075",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2994927",
-      "title": "Machine Learning Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/machine-learning-engineer-betsson-group-2994927",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3014081",
-      "title": "Machine Learning Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-3014081",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "1-3 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3002651",
-      "title": "Senior Data Scientist",
-      "company": "Yettel Hungary Ltd.",
-      "url": "https://www.profession.hu/allas/senior-data-scientist-yettel-hungary-ltd-torokbalint-3002651",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Törökbálint"
-    },
-    {
-      "job_id": "2993109",
-      "title": "Senior Machine Learning Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-opswat-kft-2993109",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2996228",
-      "title": "Senior Machine Learning Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2996228",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2999971",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2999971",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3012310",
-      "title": "Senior Machine Learning Engineer, Learner Modeling",
-      "company": "Instructure Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3012310",
-      "family": "data-science-ml",
-      "work_mode": "Távmunka",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3018778",
-      "title": "Senior Quantitative Data Analyst",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/senior-quantitative-data-analyst-betsson-group-3018778",
-      "family": "quant-risk",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
     {
       "job_id": "2993074",
       "title": "AI Engineer",
@@ -319,6 +184,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3012361",
+      "title": "AWS Agentic AI Engineer | Hungary",
+      "company": "Deloitte Zrt.",
+      "url": "https://www.profession.hu/allas/aws-agentic-ai-engineer-hungary-deloitte-zrt-3012361",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "professional experience is not required",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3005253",
       "title": "Adatbázis- és adatelemző munkatárs",
       "company": "Országos Kórházi Főigazgatóság",
@@ -379,6 +254,26 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3017071",
+      "title": "BI Analyst",
+      "company": "Cushman & Wakefield Kft.",
+      "url": "https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-3017071",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3009622",
+      "title": "BI data analyst",
+      "company": "GLS General Logistics Systems Hungary Kft.",
+      "url": "https://www.profession.hu/allas/bi-data-analyst-gls-general-logistics-systems-hungary-kft-alsonemedi-3009622",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Alsónémedi"
+    },
+    {
       "job_id": "3006763",
       "title": "Big Data Engineer",
       "company": "Pont Systems Zrt.",
@@ -397,6 +292,16 @@
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Pest county, Törökbálint"
+    },
+    {
+      "job_id": "2997846",
+      "title": "Data Analyst",
+      "company": "Media Markt Magyarország Kft.",
+      "url": "https://www.profession.hu/allas/data-analyst-media-markt-magyarorszag-kft-budapest-2997846",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3017855",
@@ -479,6 +384,16 @@
       "location": "Pest county, Budapest"
     },
     {
+      "job_id": "2999687",
+      "title": "Director, Quantitative Engineer",
+      "company": "BlackRock Hungary Kft.",
+      "url": "https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-2999687",
+      "family": "quant-risk",
+      "work_mode": "Hibrid",
+      "seniority": ">10 years experience",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3002280",
       "title": "Diákmunka - Data Analyst – Assembly Intern",
       "company": "MŰISZ Iskolaszövetkezet",
@@ -487,6 +402,16 @@
       "work_mode": "",
       "seniority": "junior",
       "location": "Hajdú-Bihar county, Debrecen"
+    },
+    {
+      "job_id": "3013205",
+      "title": "Elemző/Vezető elemző – Analytics Engineer",
+      "company": "Magyar Nemzeti Bank",
+      "url": "https://www.profession.hu/allas/elemzo-vezeto-elemzo-analytics-engineer-magyar-nemzeti-bank-budapest-3013205",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3018716",
@@ -547,6 +472,36 @@
       "work_mode": "",
       "seniority": "junior",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "2993075",
+      "title": "Lead ML Engineer",
+      "company": "greeHill Europe Kft.",
+      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2993075",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2994927",
+      "title": "Machine Learning Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/machine-learning-engineer-betsson-group-2994927",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3014081",
+      "title": "Machine Learning Engineer",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-3014081",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "3014734",
@@ -739,6 +694,16 @@
       "location": "Pest county, Budapest"
     },
     {
+      "job_id": "3002651",
+      "title": "Senior Data Scientist",
+      "company": "Yettel Hungary Ltd.",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-yettel-hungary-ltd-torokbalint-3002651",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Törökbálint"
+    },
+    {
       "job_id": "3011317",
       "title": "Senior Data Scientist with AI product mindset",
       "company": "Hiflylabs Zrt.",
@@ -759,6 +724,46 @@
       "location": "Pest county, Budapest"
     },
     {
+      "job_id": "2993109",
+      "title": "Senior Machine Learning Engineer",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-opswat-kft-2993109",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2996228",
+      "title": "Senior Machine Learning Engineer",
+      "company": "greeHill Europe Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2996228",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2999971",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Hawk-Eye Innovations Ltd.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2999971",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3012310",
+      "title": "Senior Machine Learning Engineer, Learner Modeling",
+      "company": "Instructure Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3012310",
+      "family": "data-science-ml",
+      "work_mode": "Távmunka",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "2998834",
       "title": "Senior Marketing Data Analyst (german speaking)",
       "company": "VOIS",
@@ -767,6 +772,16 @@
       "work_mode": "Hibrid",
       "seniority": "senior",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3018778",
+      "title": "Senior Quantitative Data Analyst",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/senior-quantitative-data-analyst-betsson-group-3018778",
+      "family": "quant-risk",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "3013173",
@@ -797,26 +812,6 @@
       "work_mode": "",
       "seniority": "junior",
       "location": "Pest county, Veresegyház"
-    },
-    {
-      "job_id": "2999687",
-      "title": "Director, Quantitative Engineer",
-      "company": "BlackRock Hungary Kft.",
-      "url": "https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-2999687",
-      "family": "quant-risk",
-      "work_mode": "Hibrid",
-      "seniority": ">10 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3013205",
-      "title": "Elemző/Vezető elemző – Analytics Engineer",
-      "company": "Magyar Nemzeti Bank",
-      "url": "https://www.profession.hu/allas/elemzo-vezeto-elemzo-analytics-engineer-magyar-nemzeti-bank-budapest-3013205",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Budapest"
     },
     {
       "job_id": "2999833",
@@ -1051,13 +1046,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-05T11:07:10.074383+00:00",
-      "status": "degraded",
-      "active_count": 93,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-05T11:26:41.161765+00:00",
       "status": "degraded",
       "active_count": 93,
@@ -1255,6 +1243,13 @@
     },
     {
       "completed_at": "2026-10-05T20:39:16.509878+00:00",
+      "status": "degraded",
+      "active_count": 93,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-05T21:04:14.983188+00:00",
       "status": "degraded",
       "active_count": 93,
       "new_count": 0,
