@@ -1,13 +1,14 @@
 {
   "report_date": "2026-10-05",
-  "updated_at": "2026-10-05 18:39 CEST",
+  "updated_at": "2026-10-05 18:58 CEST",
   "status": "degraded",
   "active_total": 93,
   "new_total": 0,
   "expired_total": 0,
-  "completed_queries": 10,
+  "completed_queries": 9,
   "expected_queries": 11,
   "failed_searches": [
+    "adatelemző",
     "business intelligence"
   ],
   "junior_total": 16,
@@ -32,11 +33,11 @@
       6
     ],
     [
-      "Csongrád-Csanád county, Szeged",
+      "Pest county, Törökbálint",
       2
     ],
     [
-      "Pest county, Törökbálint",
+      "Csongrád-Csanád county, Szeged",
       2
     ],
     [
@@ -181,16 +182,6 @@
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Pest county"
-    },
-    {
-      "job_id": "2999833",
-      "title": "AI/ML Engineer - Szeged",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2999833",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Csongrád-Csanád county, Szeged"
     },
     {
       "job_id": "3012361",
@@ -823,6 +814,16 @@
       "location": "Pest county, Veresegyház"
     },
     {
+      "job_id": "2999833",
+      "title": "AI/ML Engineer - Szeged",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-2999833",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Csongrád-Csanád county, Szeged"
+    },
+    {
       "job_id": "2990978",
       "title": "Junior logisztikai adatelemző(Budapest)",
       "company": "BÁRDI AUTÓ ZRT.",
@@ -1045,13 +1046,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-05T07:12:49.760244+00:00",
-      "status": "degraded",
-      "active_count": 93,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-05T07:32:32.039494+00:00",
       "status": "degraded",
       "active_count": 93,
@@ -1249,6 +1243,13 @@
     },
     {
       "completed_at": "2026-10-05T16:39:14.791711+00:00",
+      "status": "degraded",
+      "active_count": 93,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-05T16:58:04.490815+00:00",
       "status": "degraded",
       "active_count": 93,
       "new_count": 0,
