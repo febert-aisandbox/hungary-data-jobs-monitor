@@ -1,15 +1,14 @@
 {
   "report_date": "2026-10-05",
-  "updated_at": "2026-10-05 23:04 CEST",
+  "updated_at": "2026-10-05 23:29 CEST",
   "status": "degraded",
   "active_total": 93,
   "new_total": 0,
   "expired_total": 0,
-  "completed_queries": 9,
+  "completed_queries": 10,
   "expected_queries": 11,
   "failed_searches": [
-    "business intelligence",
-    "data scientist"
+    "business intelligence"
   ],
   "junior_total": 16,
   "hybrid_remote_total": 36,
@@ -1046,13 +1045,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-05T11:26:41.161765+00:00",
-      "status": "degraded",
-      "active_count": 93,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-05T11:46:11.715060+00:00",
       "status": "degraded",
       "active_count": 93,
@@ -1250,6 +1242,13 @@
     },
     {
       "completed_at": "2026-10-05T21:04:14.983188+00:00",
+      "status": "degraded",
+      "active_count": 93,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-05T21:29:35.969474+00:00",
       "status": "degraded",
       "active_count": 93,
       "new_count": 0,
