@@ -1,14 +1,16 @@
 {
   "report_date": "2026-10-05",
-  "updated_at": "2026-10-05 21:54 CEST",
+  "updated_at": "2026-10-05 22:15 CEST",
   "status": "degraded",
   "active_total": 93,
   "new_total": 0,
   "expired_total": 0,
-  "completed_queries": 10,
+  "completed_queries": 8,
   "expected_queries": 11,
   "failed_searches": [
-    "business intelligence"
+    "business intelligence",
+    "analytics engineer",
+    "data engineer"
   ],
   "junior_total": 16,
   "hybrid_remote_total": 36,
@@ -383,16 +385,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2999687",
-      "title": "Director, Quantitative Engineer",
-      "company": "BlackRock Hungary Kft.",
-      "url": "https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-2999687",
-      "family": "quant-risk",
-      "work_mode": "Hibrid",
-      "seniority": ">10 years experience",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3002280",
       "title": "Diákmunka - Data Analyst – Assembly Intern",
       "company": "MŰISZ Iskolaszövetkezet",
@@ -401,16 +393,6 @@
       "work_mode": "",
       "seniority": "junior",
       "location": "Hajdú-Bihar county, Debrecen"
-    },
-    {
-      "job_id": "3013205",
-      "title": "Elemző/Vezető elemző – Analytics Engineer",
-      "company": "Magyar Nemzeti Bank",
-      "url": "https://www.profession.hu/allas/elemzo-vezeto-elemzo-analytics-engineer-magyar-nemzeti-bank-budapest-3013205",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3018716",
@@ -813,6 +795,26 @@
       "location": "Pest county, Veresegyház"
     },
     {
+      "job_id": "2999687",
+      "title": "Director, Quantitative Engineer",
+      "company": "BlackRock Hungary Kft.",
+      "url": "https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-2999687",
+      "family": "quant-risk",
+      "work_mode": "Hibrid",
+      "seniority": ">10 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3013205",
+      "title": "Elemző/Vezető elemző – Analytics Engineer",
+      "company": "Magyar Nemzeti Bank",
+      "url": "https://www.profession.hu/allas/elemzo-vezeto-elemzo-analytics-engineer-magyar-nemzeti-bank-budapest-3013205",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Budapest"
+    },
+    {
       "job_id": "2999833",
       "title": "AI/ML Engineer - Szeged",
       "company": "Lufthansa Systems Hungária Kft.",
@@ -1045,13 +1047,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-05T10:27:43.008345+00:00",
-      "status": "degraded",
-      "active_count": 93,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-05T10:47:14.056600+00:00",
       "status": "degraded",
       "active_count": 93,
@@ -1249,6 +1244,13 @@
     },
     {
       "completed_at": "2026-10-05T19:54:41.705048+00:00",
+      "status": "degraded",
+      "active_count": 93,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-05T20:15:01.669045+00:00",
       "status": "degraded",
       "active_count": 93,
       "new_count": 0,
