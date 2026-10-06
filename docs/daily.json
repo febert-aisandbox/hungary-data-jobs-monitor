@@ -1,27 +1,28 @@
 {
   "report_date": "2026-10-06",
-  "updated_at": "2026-10-06 17:03 CEST",
+  "updated_at": "2026-10-06 17:21 CEST",
   "status": "degraded",
-  "active_total": 97,
-  "new_total": 0,
+  "active_total": 98,
+  "new_total": 1,
   "expired_total": 0,
-  "completed_queries": 10,
+  "completed_queries": 9,
   "expected_queries": 11,
   "failed_searches": [
-    "business intelligence"
+    "business intelligence",
+    "data scientist"
   ],
-  "junior_total": 19,
-  "hybrid_remote_total": 36,
+  "junior_total": 20,
+  "hybrid_remote_total": 37,
   "role_families": {
     "data-engineering": 42,
     "data-science-ml": 29,
-    "analyst-bi": 23,
+    "analyst-bi": 24,
     "quant-risk": 3
   },
   "top_locations": [
     [
       "Pest county",
-      51
+      52
     ],
     [
       "Pest county, Budapest",
@@ -63,7 +64,7 @@
   "top_skills": [
     [
       "English",
-      87
+      88
     ],
     [
       "Python",
@@ -91,7 +92,7 @@
     ],
     [
       "Machine learning",
-      17
+      18
     ],
     [
       "Docker",
@@ -110,7 +111,17 @@
       3
     ]
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "3020866",
+      "title": "Junior Data Analyst",
+      "company": "HumanField Kft",
+      "url": "https://www.profession.hu/allas/junior-data-analyst-humanfield-kft-3020866",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "location": "Pest county"
+    }
+  ],
   "active_jobs": [
     {
       "job_id": "3015265",
@@ -441,6 +452,16 @@
       "work_mode": "",
       "seniority": "junior",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3020866",
+      "title": "Junior Data Analyst",
+      "company": "HumanField Kft",
+      "url": "https://www.profession.hu/allas/junior-data-analyst-humanfield-kft-3020866",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
+      "location": "Pest county"
     },
     {
       "job_id": "3003130",
@@ -1085,13 +1106,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-06T05:39:34.330943+00:00",
-      "status": "degraded",
-      "active_count": 97,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-06T05:59:05.425272+00:00",
       "status": "degraded",
       "active_count": 97,
@@ -1292,6 +1306,13 @@
       "status": "degraded",
       "active_count": 97,
       "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-06T15:21:59.401468+00:00",
+      "status": "degraded",
+      "active_count": 98,
+      "new_count": 1,
       "expired_count": 0
     }
   ],
