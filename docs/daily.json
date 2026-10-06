@@ -1,9 +1,9 @@
 {
   "report_date": "2026-10-06",
-  "updated_at": "2026-10-06 06:40 CEST",
+  "updated_at": "2026-10-06 07:00 CEST",
   "status": "degraded",
   "active_total": 97,
-  "new_total": 4,
+  "new_total": 0,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -110,44 +110,7 @@
       3
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "3020173",
-      "title": "AI Engineering Intern",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/ai-engineering-intern-betsson-group-3020173",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3020205",
-      "title": "Analytics Engineer - 5476",
-      "company": "UNITED CONSULT Zrt.",
-      "url": "https://www.profession.hu/allas/analytics-engineer-united-consult-zrt-3020205",
-      "family": "data-engineering",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3020214",
-      "title": "Operations & Data Analyst Intern",
-      "company": "Siemens Healthcare Kft.",
-      "url": "https://www.profession.hu/allas/operations-data-analyst-intern-siemens-healthcare-kft-3020214",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3020188",
-      "title": "Senior AI Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-3020188",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "2993074",
@@ -1122,13 +1085,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-05T12:25:17.654118+00:00",
-      "status": "degraded",
-      "active_count": 93,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-05T12:45:03.847345+00:00",
       "status": "degraded",
       "active_count": 93,
@@ -1329,6 +1285,13 @@
       "status": "degraded",
       "active_count": 97,
       "new_count": 4,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-06T05:00:23.481351+00:00",
+      "status": "degraded",
+      "active_count": 97,
+      "new_count": 0,
       "expired_count": 0
     }
   ],

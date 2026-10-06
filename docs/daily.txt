@@ -1,14 +1,8 @@
 **Hungary data jobs — 2026-10-06**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **97** · New: **4** · No longer observed: **0**
+Observed: **97** · New: **0** · No longer observed: **0**
 Junior/internship: **19** · Hybrid/remote: **36**
 Role mix: data\-engineering: 42, data\-science\-ml: 29, analyst\-bi: 23, quant\-risk: 3
-
-**Noteworthy new listings**
-- [AI Engineering Intern](https://www.profession.hu/allas/ai-engineering-intern-betsson-group-3020173) — Betsson Group \(Pest county\)
-- [Analytics Engineer \- 5476](https://www.profession.hu/allas/analytics-engineer-united-consult-zrt-3020205) — UNITED CONSULT Zrt\. \(Pest county\)
-- [Operations & Data Analyst Intern](https://www.profession.hu/allas/operations-data-analyst-intern-siemens-healthcare-kft-3020214) — Siemens Healthcare Kft\. \(Pest county\)
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-betsson-group-3020188) — Betsson Group \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
