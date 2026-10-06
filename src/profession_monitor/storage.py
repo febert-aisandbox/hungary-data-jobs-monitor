@@ -15,6 +15,7 @@ CREATE TABLE IF NOT EXISTS observations(run_id INTEGER NOT NULL, job_id TEXT NOT
 CREATE TABLE IF NOT EXISTS job_queries(run_id INTEGER NOT NULL, job_id TEXT NOT NULL, query TEXT NOT NULL, PRIMARY KEY(run_id, job_id, query));
 CREATE TABLE IF NOT EXISTS run_events(run_id INTEGER NOT NULL, job_id TEXT NOT NULL, event TEXT NOT NULL, PRIMARY KEY(run_id, job_id, event));
 CREATE TABLE IF NOT EXISTS reports(run_id INTEGER PRIMARY KEY, payload TEXT NOT NULL, published INTEGER NOT NULL DEFAULT 0);
+CREATE TABLE IF NOT EXISTS publication_days(local_date TEXT PRIMARY KEY, run_id INTEGER NOT NULL, claimed_at TEXT NOT NULL);
 """
 
 class Store:
@@ -58,6 +59,18 @@ class Store:
         if run is None: return None
         row=self.db.execute("SELECT payload FROM reports WHERE run_id=?",(run.run_id,)).fetchone()
         return json.loads(row[0]) if row else None
+
+    def publication_claimed_on(self, local_date: str) -> bool:
+        if self.db.execute("SELECT 1 FROM publication_days WHERE local_date=?",(local_date,)).fetchone():
+            return True
+        rows=self.db.execute("SELECT runs.completed_at FROM runs JOIN reports ON reports.run_id=runs.id WHERE reports.published=1").fetchall()
+        return any(datetime.fromisoformat(row[0]).astimezone(ZoneInfo("Europe/Budapest")).date().isoformat()==local_date for row in rows)
+
+    def claim_publication_day(self, local_date: str, run_id: int) -> bool:
+        claimed_at=datetime.now(timezone.utc).isoformat()
+        cursor=self.db.execute("INSERT OR IGNORE INTO publication_days(local_date,run_id,claimed_at) VALUES(?,?,?)",(local_date,run_id,claimed_at))
+        self.db.commit()
+        return cursor.rowcount == 1
 
     def mark_published(self, run_id: int):
         self.db.execute("UPDATE reports SET published=1 WHERE run_id=?",(run_id,)); self.db.commit()

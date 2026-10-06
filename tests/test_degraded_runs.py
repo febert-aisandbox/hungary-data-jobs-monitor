@@ -1,4 +1,5 @@
 import json
+import os
 import tempfile
 import unittest
 from datetime import datetime
@@ -119,6 +120,74 @@ class DegradedRunTests(unittest.TestCase):
             self.assertEqual(second, 0)
             self.assertEqual(collect.call_count, 2)
             self.assertEqual(snapshot["status"], "success")
+
+    def test_cli_publishes_at_most_once_per_budapest_date(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            config = root / "searches.json"
+            config.write_text(json.dumps({"queries": ["good", "broken"], "max_pages_per_query": 1, "delay_seconds": 0}))
+            args = ["--config", str(config), "--db", str(root / "market.db"), "--output", str(root / "docs"), "--skip-robots-check", "--publish"]
+            responses = [
+                ({"good": [job("1")]}, ["broken: HTTPError: HTTP Error 404: Not Found"]),
+                ({"good": [job("1")], "broken": [job("2")]}, []),
+            ]
+            with patch.dict(os.environ, {"GITHUB_TOKEN": "test-token"}), \
+                 patch("profession_monitor.cli.datetime") as clock, \
+                 patch("profession_monitor.cli.collect_queries", side_effect=responses) as collect, \
+                 patch("profession_monitor.cli._publish_artifacts", return_value={"commit": "test-commit"}) as publish:
+                clock.now.return_value = datetime(2026, 8, 28, 7, 0, tzinfo=ZoneInfo("Europe/Budapest"))
+                first = main(args)
+                second = main(args)
+                clock.now.return_value = datetime(2026, 8, 29, 7, 0, tzinfo=ZoneInfo("Europe/Budapest"))
+                next_day = main(args)
+
+            self.assertEqual(first, 5)
+            self.assertEqual(second, 0)
+            self.assertEqual(next_day, 0)
+            self.assertEqual(collect.call_count, 2)
+            self.assertEqual(publish.call_count, 2)
+
+    def test_existing_published_report_counts_toward_daily_limit_after_upgrade(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            db = root / "market.db"
+            store = Store(str(db))
+            run = store.record_degraded_run({"good": [job()]}, 2, failed_searches=["broken"], observed_at="2026-08-28T04:30:00+00:00")
+            store.save_report(run.run_id, build_snapshot(store, run, failed_searches=["broken"], expected_queries=2))
+            store.mark_published(run.run_id)
+            store.close()
+            config = root / "searches.json"
+            config.write_text(json.dumps({"queries": ["good", "broken"], "max_pages_per_query": 1, "delay_seconds": 0}))
+            args = ["--config", str(config), "--db", str(db), "--output", str(root / "docs"), "--skip-robots-check", "--publish"]
+            with patch("profession_monitor.cli.datetime") as clock, \
+                 patch("profession_monitor.cli.collect_queries") as collect, \
+                 patch("profession_monitor.cli._publish_artifacts") as publish:
+                clock.now.return_value = datetime(2026, 8, 28, 7, 0, tzinfo=ZoneInfo("Europe/Budapest"))
+                result = main(args)
+
+            self.assertEqual(result, 0)
+            collect.assert_not_called()
+            publish.assert_not_called()
+
+    def test_publish_budget_is_consumed_before_uncertain_remote_write(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            config = root / "searches.json"
+            config.write_text(json.dumps({"queries": ["good", "broken"], "max_pages_per_query": 1, "delay_seconds": 0}))
+            args = ["--config", str(config), "--db", str(root / "market.db"), "--output", str(root / "docs"), "--skip-robots-check", "--publish"]
+            response = ({"good": [job()]}, ["broken: HTTPError: HTTP Error 404: Not Found"])
+            with patch.dict(os.environ, {"GITHUB_TOKEN": "test-token"}), \
+                 patch("profession_monitor.cli.datetime") as clock, \
+                 patch("profession_monitor.cli.collect_queries", return_value=response) as collect, \
+                 patch("profession_monitor.cli._publish_artifacts", side_effect=RuntimeError("connection lost after request")) as publish:
+                clock.now.return_value = datetime(2026, 8, 28, 7, 0, tzinfo=ZoneInfo("Europe/Budapest"))
+                with self.assertRaisesRegex(RuntimeError, "connection lost"):
+                    main(args)
+                retry = main(args)
+
+            self.assertEqual(retry, 0)
+            self.assertEqual(collect.call_count, 1)
+            self.assertEqual(publish.call_count, 1)
 
 
 if __name__ == "__main__":

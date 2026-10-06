@@ -34,6 +34,13 @@ def _render_artifacts(snapshot):
 def _publish_artifacts(files: dict[str,str], token: str):
     return publish_files(token,{f"docs/{name}":content for name,content in files.items()})
 
+def _publish_once(store: Store, local_date: str, run_id: int, files: dict[str,str], token: str):
+    if not store.claim_publication_day(local_date,run_id):
+        return None
+    commit=_publish_artifacts(files,token)["commit"]
+    store.mark_published(run_id)
+    return commit
+
 def main(argv=None):
     p=argparse.ArgumentParser()
     p.add_argument("--config",default="config/searches.json")
@@ -61,6 +68,9 @@ def main(argv=None):
         store=Store(str(db_path))
         try:
             today=datetime.now(ZoneInfo("Europe/Budapest")).date().isoformat()
+            if args.publish and store.publication_claimed_on(today):
+                print(json.dumps({"status":"already-published","report_date":today}))
+                return 0
             existing_run=store.latest_reportable_on(today)
             retry_unpublished_degraded=bool(existing_run and existing_run.status == "degraded" and args.publish and not store.report_is_published(existing_run.run_id))
             if existing_run and (existing_run.status == "success" or retry_unpublished_degraded):
@@ -73,8 +83,7 @@ def main(argv=None):
                 commit=None
                 if args.publish:
                     if not token: raise RuntimeError("GITHUB_LLM_MANAGER is not configured")
-                    commit=_publish_artifacts(files,token)["commit"]
-                    store.mark_published(existing_run.run_id)
+                    commit=_publish_once(store,today,existing_run.run_id,files,token)
                 print(json.dumps({"status":"republished" if args.publish else "already-complete","commit":commit,"report_date":today}))
                 return 0 if existing_run.status == "success" else 5
             if not args.skip_robots_check and not robots_allows_search(http_fetch):
@@ -94,8 +103,7 @@ def main(argv=None):
                 commit=None
                 if args.publish:
                     if not token: raise RuntimeError("GITHUB_LLM_MANAGER is not configured")
-                    commit=_publish_artifacts(files,token)["commit"]
-                    store.mark_published(run.run_id)
+                    commit=_publish_once(store,today,run.run_id,files,token)
                 print(json.dumps({"status":"degraded","errors":errors,"completed_queries":len(by_query),"active":run.active_total,"new":len(run.new_ids),"expired":0,"commit":commit},ensure_ascii=False))
                 return 5
             run=store.record_successful_run(by_query,len(queries))
@@ -108,8 +116,7 @@ def main(argv=None):
             commit=None
             if args.publish:
                 if not token: raise RuntimeError("GITHUB_LLM_MANAGER is not configured")
-                commit=_publish_artifacts(files,token)["commit"]
-                store.mark_published(run.run_id)
+                commit=_publish_once(store,today,run.run_id,files,token)
             print(json.dumps({"status":"success","active":run.active_total,"new":len(run.new_ids),"expired":len(run.expired_ids),"updated_at":run.completed_at,"commit":commit}))
             return 0
         finally: store.close()

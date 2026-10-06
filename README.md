@@ -17,7 +17,7 @@ Production collection uses `config/searches.json`, 2.5 seconds plus jitter betwe
 
 ## Docker deployment
 
-The production collector runs entirely inside a non-root, read-only Docker container. Its scheduler polls every 15 minutes, executes once after 06:30 Europe/Budapest, and retries until publication succeeds. SQLite, the success stamp, generated artifacts, and logs live in the `profession-monitor-data` named volume. The publishing token remains in a mode-600 host file mounted read-only; building with the host UID/GID lets the unprivileged container process read that single file without exposing it through `docker inspect`. No host Python packages or cron entries are required.
+The production collector runs entirely inside a non-root, read-only Docker container. Its scheduler polls every 15 minutes and begins after 06:30 Europe/Budapest. It may retry collection until a report can be published, but a durable SQLite publication budget permits at most one GitHub Pages update per Budapest calendar date. The budget is claimed before the GitHub API call, so an ambiguous publishing failure is not retried that day; already-published legacy reports also count toward the limit. SQLite, the success stamp, generated artifacts, and logs live in the `profession-monitor-data` named volume. The publishing token remains in a mode-600 host file mounted read-only; building with the host UID/GID lets the unprivileged container process read that single file without exposing it through `docker inspect`. No host Python packages or cron entries are required.
 
 ```bash
 docker build \
