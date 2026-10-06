@@ -1,15 +1,14 @@
 {
   "report_date": "2026-10-06",
-  "updated_at": "2026-10-06 12:14 CEST",
+  "updated_at": "2026-10-06 12:33 CEST",
   "status": "degraded",
   "active_total": 97,
   "new_total": 0,
   "expired_total": 0,
-  "completed_queries": 9,
+  "completed_queries": 10,
   "expected_queries": 11,
   "failed_searches": [
-    "business intelligence",
-    "data scientist"
+    "business intelligence"
   ],
   "junior_total": 19,
   "hybrid_remote_total": 36,
@@ -152,16 +151,6 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Pest county, Pécs"
-    },
-    {
-      "job_id": "3020173",
-      "title": "AI Engineering Intern",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/ai-engineering-intern-betsson-group-3020173",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
     },
     {
       "job_id": "3002672",
@@ -534,16 +523,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3020214",
-      "title": "Operations & Data Analyst Intern",
-      "company": "Siemens Healthcare Kft.",
-      "url": "https://www.profession.hu/allas/operations-data-analyst-intern-siemens-healthcare-kft-3020214",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "2996250",
       "title": "Senior AI Engineer",
       "company": "High Tech Engineering Center Kft.",
@@ -571,16 +550,6 @@
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3020188",
-      "title": "Senior AI Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-3020188",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "junior",
       "location": "Pest county"
     },
     {
@@ -784,16 +753,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3018778",
-      "title": "Senior Quantitative Data Analyst",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/senior-quantitative-data-analyst-betsson-group-3018778",
-      "family": "quant-risk",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3013173",
       "title": "Senior data scientist",
       "company": "Profession Services",
@@ -822,6 +781,46 @@
       "work_mode": "",
       "seniority": "junior",
       "location": "Pest county, Veresegyház"
+    },
+    {
+      "job_id": "3020173",
+      "title": "AI Engineering Intern",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/ai-engineering-intern-betsson-group-3020173",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3020214",
+      "title": "Operations & Data Analyst Intern",
+      "company": "Siemens Healthcare Kft.",
+      "url": "https://www.profession.hu/allas/operations-data-analyst-intern-siemens-healthcare-kft-3020214",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3020188",
+      "title": "Senior AI Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-3020188",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3018778",
+      "title": "Senior Quantitative Data Analyst",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/senior-quantitative-data-analyst-betsson-group-3018778",
+      "family": "quant-risk",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "3005282",
@@ -1086,13 +1085,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-05T17:55:42.847418+00:00",
-      "status": "degraded",
-      "active_count": 93,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-05T18:15:50.804944+00:00",
       "status": "degraded",
       "active_count": 93,
@@ -1290,6 +1282,13 @@
     },
     {
       "completed_at": "2026-10-06T10:14:23.116032+00:00",
+      "status": "degraded",
+      "active_count": 97,
+      "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-06T10:33:50.946749+00:00",
       "status": "degraded",
       "active_count": 97,
       "new_count": 0,
