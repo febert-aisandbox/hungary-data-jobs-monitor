@@ -1,11 +1,8 @@
 **Hungary data jobs — 2026-10-06**
-⚠️ Partial coverage: **9/11 searches** completed; no expirations were recorded.
-Observed: **98** · New: **1** · No longer observed: **0**
+⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
+Observed: **98** · New: **0** · No longer observed: **0**
 Junior/internship: **20** · Hybrid/remote: **37**
 Role mix: data\-engineering: 42, data\-science\-ml: 29, analyst\-bi: 24, quant\-risk: 3
-
-**Noteworthy new listings**
-- [Junior Data Analyst](https://www.profession.hu/allas/junior-data-analyst-humanfield-kft-3020866) — HumanField Kft \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._

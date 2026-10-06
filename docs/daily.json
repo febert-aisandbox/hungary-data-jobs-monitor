@@ -1,15 +1,14 @@
 {
   "report_date": "2026-10-06",
-  "updated_at": "2026-10-06 17:21 CEST",
+  "updated_at": "2026-10-06 17:41 CEST",
   "status": "degraded",
   "active_total": 98,
-  "new_total": 1,
+  "new_total": 0,
   "expired_total": 0,
-  "completed_queries": 9,
+  "completed_queries": 10,
   "expected_queries": 11,
   "failed_searches": [
-    "business intelligence",
-    "data scientist"
+    "business intelligence"
   ],
   "junior_total": 20,
   "hybrid_remote_total": 37,
@@ -111,17 +110,7 @@
       3
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "3020866",
-      "title": "Junior Data Analyst",
-      "company": "HumanField Kft",
-      "url": "https://www.profession.hu/allas/junior-data-analyst-humanfield-kft-3020866",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "3015265",
@@ -1106,13 +1095,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-06T05:59:05.425272+00:00",
-      "status": "degraded",
-      "active_count": 97,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-06T06:18:44.205246+00:00",
       "status": "degraded",
       "active_count": 97,
@@ -1313,6 +1295,13 @@
       "status": "degraded",
       "active_count": 98,
       "new_count": 1,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-06T15:41:15.217098+00:00",
+      "status": "degraded",
+      "active_count": 98,
+      "new_count": 0,
       "expired_count": 0
     }
   ],
