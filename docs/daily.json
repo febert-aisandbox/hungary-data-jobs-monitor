@@ -1,28 +1,27 @@
 {
-  "report_date": "2026-10-05",
-  "updated_at": "2026-10-05 23:51 CEST",
+  "report_date": "2026-10-06",
+  "updated_at": "2026-10-06 06:40 CEST",
   "status": "degraded",
-  "active_total": 93,
-  "new_total": 0,
+  "active_total": 97,
+  "new_total": 4,
   "expired_total": 0,
-  "completed_queries": 9,
+  "completed_queries": 10,
   "expected_queries": 11,
   "failed_searches": [
-    "data analyst",
     "business intelligence"
   ],
-  "junior_total": 16,
+  "junior_total": 19,
   "hybrid_remote_total": 36,
   "role_families": {
-    "data-engineering": 41,
-    "data-science-ml": 27,
-    "analyst-bi": 22,
+    "data-engineering": 42,
+    "data-science-ml": 29,
+    "analyst-bi": 23,
     "quant-risk": 3
   },
   "top_locations": [
     [
       "Pest county",
-      47
+      51
     ],
     [
       "Pest county, Budapest",
@@ -64,30 +63,30 @@
   "top_skills": [
     [
       "English",
-      83
+      87
     ],
     [
       "Python",
-      56
+      58
     ],
     [
       "SQL",
-      46
+      47
     ],
     [
       "Azure",
-      34
+      35
     ],
     [
       "AWS",
-      29
-    ],
-    [
-      "Spark",
-      18
+      30
     ],
     [
       "Power BI",
+      20
+    ],
+    [
+      "Spark",
       18
     ],
     [
@@ -111,7 +110,44 @@
       3
     ]
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "3020173",
+      "title": "AI Engineering Intern",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/ai-engineering-intern-betsson-group-3020173",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3020205",
+      "title": "Analytics Engineer - 5476",
+      "company": "UNITED CONSULT Zrt.",
+      "url": "https://www.profession.hu/allas/analytics-engineer-united-consult-zrt-3020205",
+      "family": "data-engineering",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3020214",
+      "title": "Operations & Data Analyst Intern",
+      "company": "Siemens Healthcare Kft.",
+      "url": "https://www.profession.hu/allas/operations-data-analyst-intern-siemens-healthcare-kft-3020214",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3020188",
+      "title": "Senior AI Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-3020188",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "location": "Pest county"
+    }
+  ],
   "active_jobs": [
     {
       "job_id": "2993074",
@@ -152,6 +188,16 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Pest county, Pécs"
+    },
+    {
+      "job_id": "3020173",
+      "title": "AI Engineering Intern",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/ai-engineering-intern-betsson-group-3020173",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
     },
     {
       "job_id": "3002672",
@@ -244,10 +290,10 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2991941",
+      "job_id": "3020205",
       "title": "Analytics Engineer - 5476",
       "company": "UNITED CONSULT Zrt.",
-      "url": "https://www.profession.hu/allas/analytics-engineer-united-consult-zrt-2991941",
+      "url": "https://www.profession.hu/allas/analytics-engineer-united-consult-zrt-3020205",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "3-5 years experience",
@@ -534,11 +580,11 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2991926",
-      "title": "Senior AI Engineer",
-      "company": "Betsson Group",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-2991926",
-      "family": "data-science-ml",
+      "job_id": "3020214",
+      "title": "Operations & Data Analyst Intern",
+      "company": "Siemens Healthcare Kft.",
+      "url": "https://www.profession.hu/allas/operations-data-analyst-intern-siemens-healthcare-kft-3020214",
+      "family": "analyst-bi",
       "work_mode": "",
       "seniority": "junior",
       "location": "Pest county"
@@ -571,6 +617,16 @@
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3020188",
+      "title": "Senior AI Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-3020188",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
       "location": "Pest county"
     },
     {
@@ -814,6 +870,26 @@
       "location": "Pest county, Veresegyház"
     },
     {
+      "job_id": "2991941",
+      "title": "Analytics Engineer - 5476",
+      "company": "UNITED CONSULT Zrt.",
+      "url": "https://www.profession.hu/allas/analytics-engineer-united-consult-zrt-2991941",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2991926",
+      "title": "Senior AI Engineer",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-betsson-group-2991926",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "2999833",
       "title": "AI/ML Engineer - Szeged",
       "company": "Lufthansa Systems Hungária Kft.",
@@ -1046,13 +1122,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-05T12:05:41.471475+00:00",
-      "status": "degraded",
-      "active_count": 93,
-      "new_count": 0,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-05T12:25:17.654118+00:00",
       "status": "degraded",
       "active_count": 93,
@@ -1253,6 +1322,13 @@
       "status": "degraded",
       "active_count": 93,
       "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-06T04:40:42.118764+00:00",
+      "status": "degraded",
+      "active_count": 97,
+      "new_count": 4,
       "expired_count": 0
     }
   ],
