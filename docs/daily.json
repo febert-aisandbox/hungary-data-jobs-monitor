@@ -1,27 +1,27 @@
 {
-  "report_date": "2026-10-06",
-  "updated_at": "2026-10-06 21:12 CEST",
+  "report_date": "2026-10-07",
+  "updated_at": "2026-10-07 06:43 CEST",
   "status": "degraded",
-  "active_total": 98,
-  "new_total": 0,
+  "active_total": 103,
+  "new_total": 5,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
   "failed_searches": [
-    "business intelligence"
+    "data engineer"
   ],
   "junior_total": 20,
-  "hybrid_remote_total": 37,
+  "hybrid_remote_total": 40,
   "role_families": {
-    "data-engineering": 42,
-    "data-science-ml": 29,
-    "analyst-bi": 24,
+    "data-engineering": 43,
+    "data-science-ml": 32,
+    "analyst-bi": 25,
     "quant-risk": 3
   },
   "top_locations": [
     [
       "Pest county",
-      52
+      57
     ],
     [
       "Pest county, Budapest",
@@ -63,11 +63,11 @@
   "top_skills": [
     [
       "English",
-      88
+      92
     ],
     [
       "Python",
-      58
+      60
     ],
     [
       "SQL",
@@ -75,11 +75,15 @@
     ],
     [
       "Azure",
-      35
+      36
     ],
     [
       "AWS",
-      30
+      32
+    ],
+    [
+      "Machine learning",
+      21
     ],
     [
       "Power BI",
@@ -87,15 +91,11 @@
     ],
     [
       "Spark",
-      18
-    ],
-    [
-      "Machine learning",
-      18
+      19
     ],
     [
       "Docker",
-      8
+      9
     ],
     [
       "Tableau",
@@ -110,7 +110,53 @@
       3
     ]
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "3021138",
+      "title": "Adatelemző",
+      "company": "Trenecon Kft.",
+      "url": "https://www.profession.hu/allas/adatelemzo-trenecon-kft-3021138",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3021168",
+      "title": "Data Engineer – Real-time",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/data-engineer-real-time-betsson-group-3021168",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3021200",
+      "title": "Lead ML Engineer",
+      "company": "greeHill Europe Kft.",
+      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-3021200",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3021220",
+      "title": "Machine Learning Team Leader",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-team-leader-opswat-kft-3021220",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3006725",
+      "title": "Machine Learning Tech Lead",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-3006725",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "location": "Pest county"
+    }
+  ],
   "active_jobs": [
     {
       "job_id": "3015265",
@@ -203,6 +249,16 @@
       "location": "Pest county, Majosháza"
     },
     {
+      "job_id": "3021138",
+      "title": "Adatelemző",
+      "company": "Trenecon Kft.",
+      "url": "https://www.profession.hu/allas/adatelemzo-trenecon-kft-3021138",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "5-10 years experience",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3002579",
       "title": "Adatelemző gyakornok - diákmunka",
       "company": "Mind-Diák Szövetkezet",
@@ -261,6 +317,16 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Pest county"
+    },
+    {
+      "job_id": "2990000",
+      "title": "Business Intelligence & Process Improvement Specialist",
+      "company": "MOL Nyrt.",
+      "url": "https://www.profession.hu/allas/business-intelligence-process-improvement-specialist-mol-nyrt-budapest-2990000",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3015277",
@@ -331,6 +397,16 @@
       "work_mode": "",
       "seniority": "1-3 years experience",
       "location": "Pest county, Pécs"
+    },
+    {
+      "job_id": "3021168",
+      "title": "Data Engineer – Real-time",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/data-engineer-real-time-betsson-group-3021168",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "3001468",
@@ -463,10 +539,10 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2993075",
+      "job_id": "3021200",
       "title": "Lead ML Engineer",
       "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2993075",
+      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-3021200",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "senior",
@@ -490,6 +566,26 @@
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "1-3 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3021220",
+      "title": "Machine Learning Team Leader",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-team-leader-opswat-kft-3021220",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3006725",
+      "title": "Machine Learning Tech Lead",
+      "company": "Betsson Group",
+      "url": "https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-3006725",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
       "location": "Pest county"
     },
     {
@@ -683,36 +779,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "2993109",
-      "title": "Senior Machine Learning Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-opswat-kft-2993109",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2996228",
-      "title": "Senior Machine Learning Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2996228",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "2999971",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Hawk-Eye Innovations Ltd.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2999971",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3012310",
       "title": "Senior Machine Learning Engineer, Learner Modeling",
       "company": "Instructure Hungary Kft.",
@@ -751,6 +817,46 @@
       "work_mode": "",
       "seniority": "junior",
       "location": "Pest county, Veresegyház"
+    },
+    {
+      "job_id": "2993075",
+      "title": "Lead ML Engineer",
+      "company": "greeHill Europe Kft.",
+      "url": "https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-2993075",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2993109",
+      "title": "Senior Machine Learning Engineer",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-opswat-kft-2993109",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2996228",
+      "title": "Senior Machine Learning Engineer",
+      "company": "greeHill Europe Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-2996228",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "2999971",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Hawk-Eye Innovations Ltd.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-hawk-eye-innovations-ltd-2999971",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "2993074",
@@ -993,16 +1099,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "2990000",
-      "title": "Business Intelligence & Process Improvement Specialist",
-      "company": "MOL Nyrt.",
-      "url": "https://www.profession.hu/allas/business-intelligence-process-improvement-specialist-mol-nyrt-budapest-2990000",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "2993337",
       "title": "Data Analytics & Decision Expert",
       "company": "OTP Bank Nyrt.",
@@ -1094,13 +1190,6 @@
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-10-06T09:55:29.497329+00:00",
-      "status": "degraded",
-      "active_count": 97,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-10-06T10:14:23.116032+00:00",
       "status": "degraded",
@@ -1302,6 +1391,13 @@
       "status": "degraded",
       "active_count": 98,
       "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-10-07T04:43:20.742209+00:00",
+      "status": "degraded",
+      "active_count": 103,
+      "new_count": 5,
       "expired_count": 0
     }
   ],

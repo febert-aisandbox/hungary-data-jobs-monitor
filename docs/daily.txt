@@ -1,8 +1,15 @@
-**Hungary data jobs — 2026-10-06**
+**Hungary data jobs — 2026-10-07**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **98** · New: **0** · No longer observed: **0**
-Junior/internship: **20** · Hybrid/remote: **37**
-Role mix: data\-engineering: 42, data\-science\-ml: 29, analyst\-bi: 24, quant\-risk: 3
+Observed: **103** · New: **5** · No longer observed: **0**
+Junior/internship: **20** · Hybrid/remote: **40**
+Role mix: data\-engineering: 43, data\-science\-ml: 32, analyst\-bi: 25, quant\-risk: 3
+
+**Noteworthy new listings**
+- [Adatelemző](https://www.profession.hu/allas/adatelemzo-trenecon-kft-3021138) — Trenecon Kft\. \(Pest county\)
+- [Data Engineer – Real\-time](https://www.profession.hu/allas/data-engineer-real-time-betsson-group-3021168) — Betsson Group \(Pest county\)
+- [Lead ML Engineer](https://www.profession.hu/allas/lead-ml-engineer-greehill-europe-kft-3021200) — greeHill Europe Kft\. \(Pest county\)
+- [Machine Learning Team Leader](https://www.profession.hu/allas/machine-learning-team-leader-opswat-kft-3021220) — OPSWAT Kft\. \(Pest county\)
+- [Machine Learning Tech Lead](https://www.profession.hu/allas/machine-learning-tech-lead-betsson-group-3006725) — Betsson Group \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
