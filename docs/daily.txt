@@ -1,12 +1,17 @@
-**Hungary data jobs — 2026-10-09**
-Observed: **69** · New: **3** · No longer observed: **34**
-Junior/internship: **11** · Hybrid/remote: **30**
-Role mix: data\-engineering: 28, data\-science\-ml: 24, analyst\-bi: 16, quant\-risk: 1
+**Hungary data jobs — 2026-10-10**
+Observed: **76** · New: **9** · No longer observed: **2**
+Junior/internship: **13** · Hybrid/remote: **33**
+Role mix: data\-engineering: 31, data\-science\-ml: 25, analyst\-bi: 19, quant\-risk: 1
 
 **Noteworthy new listings**
-- [AI Engineer \(Europe\) \- contractor](https://www.profession.hu/allas/ai-engineer-europe-contractor-hiflylabs-zrt-3022999) — Hiflylabs Zrt\. \(Pest county\)
-- [People Analytics Specialist/HR Data Analyst](https://www.profession.hu/allas/people-analytics-specialist-hr-data-analyst-wilo-magyarorszag-kft-torokbalint-3022805) — WILO Magyarország Kft \(Pest county, Törökbálint\)
-- [Senior Data Scientist with AI product mindset](https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-budapest-3023004) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [Accounts Payable Senior Vendor Master Data Analyst](https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-3024230) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
+- [Data Scientist \(Medior\)](https://www.profession.hu/allas/data-scientist-medior-trendency-online-zrt-budapest-3023286) — TRENDENCY ONLINE Zrt\. \(Pest county, Budapest\)
+- [Junior Data Analyst](https://www.profession.hu/allas/junior-data-analyst-humanfield-kft-3023322) — HumanField Kft \(Pest county\)
+- [Market and Business Intelligence Manager](https://www.profession.hu/allas/market-and-business-intelligence-manager-kall-ingredients-kft-visonta-3023319) — KALL Ingredients Kft\. \(Heves county, Visonta\)
+- [Medior Data Engineer](https://www.profession.hu/allas/medior-data-engineer-nix-tech-kft-3024210) — NIX Tech Kft\. \(Pest county\)
+- [Senior AI Engineer with Databricks experience\_Europe\_Contractor](https://www.profession.hu/allas/senior-ai-engineer-with-databricks-experience-europe-contractor-hiflylabs-zrt-3024233) — Hiflylabs Zrt\. \(Pest county\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-budapest-3024214) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-nix-tech-kft-3024231) — NIX Tech Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
