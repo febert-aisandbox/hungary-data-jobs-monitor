@@ -1,17 +1,13 @@
-**Hungary data jobs — 2026-10-10**
-Observed: **76** · New: **9** · No longer observed: **2**
-Junior/internship: **13** · Hybrid/remote: **33**
-Role mix: data\-engineering: 31, data\-science\-ml: 25, analyst\-bi: 19, quant\-risk: 1
+**Hungary data jobs — 2026-10-11**
+Observed: **70** · New: **4** · No longer observed: **10**
+Junior/internship: **14** · Hybrid/remote: **28**
+Role mix: data\-engineering: 28, data\-science\-ml: 22, analyst\-bi: 19, quant\-risk: 1
 
 **Noteworthy new listings**
-- [Accounts Payable Senior Vendor Master Data Analyst](https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-3024230) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
-- [Data Scientist \(Medior\)](https://www.profession.hu/allas/data-scientist-medior-trendency-online-zrt-budapest-3023286) — TRENDENCY ONLINE Zrt\. \(Pest county, Budapest\)
-- [Junior Data Analyst](https://www.profession.hu/allas/junior-data-analyst-humanfield-kft-3023322) — HumanField Kft \(Pest county\)
-- [Market and Business Intelligence Manager](https://www.profession.hu/allas/market-and-business-intelligence-manager-kall-ingredients-kft-visonta-3023319) — KALL Ingredients Kft\. \(Heves county, Visonta\)
-- [Medior Data Engineer](https://www.profession.hu/allas/medior-data-engineer-nix-tech-kft-3024210) — NIX Tech Kft\. \(Pest county\)
-- [Senior AI Engineer with Databricks experience\_Europe\_Contractor](https://www.profession.hu/allas/senior-ai-engineer-with-databricks-experience-europe-contractor-hiflylabs-zrt-3024233) — Hiflylabs Zrt\. \(Pest county\)
-- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-budapest-3024214) — Hiflylabs Zrt\. \(Pest county, Budapest\)
-- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-nix-tech-kft-3024231) — NIX Tech Kft\. \(Pest county\)
+- [Quality Data Analyst Gyakornok \(REF5858X\)](https://www.profession.hu/allas/quality-data-analyst-gyakornok-ref-x-deutsche-telekom-tsi-hungary-kft-debrecen-3024393) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
+- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-high-tech-engineering-center-kft-budapest-3024335) — High Tech Engineering Center Kft\. \(Pest county, Budapest\)
+- [Senior Data Engineer \(Databricks\)](https://www.profession.hu/allas/senior-data-engineer-databricks-datapao-kft-3024345) — DATAPAO Kft\. \(Pest county\)
+- [Senior Data Engineer / Databricks](https://www.profession.hu/allas/senior-data-engineer-databricks-high-tech-engineering-center-kft-budapest-3024312) — High Tech Engineering Center Kft\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
