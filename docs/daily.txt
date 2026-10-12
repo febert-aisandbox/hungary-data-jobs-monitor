@@ -1,13 +1,12 @@
-**Hungary data jobs — 2026-10-11**
-Observed: **70** · New: **4** · No longer observed: **10**
-Junior/internship: **14** · Hybrid/remote: **28**
-Role mix: data\-engineering: 28, data\-science\-ml: 22, analyst\-bi: 19, quant\-risk: 1
+**Hungary data jobs — 2026-10-12**
+Observed: **70** · New: **3** · No longer observed: **3**
+Junior/internship: **15** · Hybrid/remote: **28**
+Role mix: data\-engineering: 29, data\-science\-ml: 21, analyst\-bi: 19, quant\-risk: 1
 
 **Noteworthy new listings**
-- [Quality Data Analyst Gyakornok \(REF5858X\)](https://www.profession.hu/allas/quality-data-analyst-gyakornok-ref-x-deutsche-telekom-tsi-hungary-kft-debrecen-3024393) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-high-tech-engineering-center-kft-budapest-3024335) — High Tech Engineering Center Kft\. \(Pest county, Budapest\)
-- [Senior Data Engineer \(Databricks\)](https://www.profession.hu/allas/senior-data-engineer-databricks-datapao-kft-3024345) — DATAPAO Kft\. \(Pest county\)
-- [Senior Data Engineer / Databricks](https://www.profession.hu/allas/senior-data-engineer-databricks-high-tech-engineering-center-kft-budapest-3024312) — High Tech Engineering Center Kft\. \(Pest county, Budapest\)
+- [Junior Data Engineer](https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-3024449) — NIX Tech Kft\. \(Pest county\)
+- [Senior Data Engineer \(Databricks\) \- UK](https://www.profession.hu/allas/senior-data-engineer-databricks-uk-datapao-kft-3024443) — DATAPAO Kft\. \(Pest county\)
+- [Senior Databricks Data Engineer](https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-budapest-3024478) — Hiflylabs Zrt\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
