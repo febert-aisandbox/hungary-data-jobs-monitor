@@ -1,12 +1,13 @@
-**Hungary data jobs — 2026-10-12**
-Observed: **70** · New: **3** · No longer observed: **3**
-Junior/internship: **15** · Hybrid/remote: **28**
-Role mix: data\-engineering: 29, data\-science\-ml: 21, analyst\-bi: 19, quant\-risk: 1
+**Hungary data jobs — 2026-10-13**
+Observed: **69** · New: **4** · No longer observed: **5**
+Junior/internship: **13** · Hybrid/remote: **29**
+Role mix: data\-engineering: 28, data\-science\-ml: 22, analyst\-bi: 18, quant\-risk: 1
 
 **Noteworthy new listings**
-- [Junior Data Engineer](https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-3024449) — NIX Tech Kft\. \(Pest county\)
-- [Senior Data Engineer \(Databricks\) \- UK](https://www.profession.hu/allas/senior-data-engineer-databricks-uk-datapao-kft-3024443) — DATAPAO Kft\. \(Pest county\)
-- [Senior Databricks Data Engineer](https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-budapest-3024478) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-3025911) — SnapSoft Informatikai és Szolgáltató Kft\. \(Pest county\)
+- [Business Intelligence \(BI\) Analyst](https://www.profession.hu/allas/business-intelligence-bi-analyst-cushman-wakefield-kft-3025881) — Cushman & Wakefield Kft\. \(Pest county\)
+- [Data engineer](https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3006865) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
+- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-3025897) — Diligent Governance Hungary Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
