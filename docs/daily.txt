@@ -1,13 +1,15 @@
-**Hungary data jobs — 2026-10-13**
-Observed: **69** · New: **4** · No longer observed: **5**
-Junior/internship: **13** · Hybrid/remote: **29**
-Role mix: data\-engineering: 28, data\-science\-ml: 22, analyst\-bi: 18, quant\-risk: 1
+**Hungary data jobs — 2026-10-14**
+Observed: **70** · New: **6** · No longer observed: **5**
+Junior/internship: **12** · Hybrid/remote: **32**
+Role mix: data\-engineering: 28, data\-science\-ml: 24, analyst\-bi: 16, quant\-risk: 2
 
 **Noteworthy new listings**
-- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-3025911) — SnapSoft Informatikai és Szolgáltató Kft\. \(Pest county\)
-- [Business Intelligence \(BI\) Analyst](https://www.profession.hu/allas/business-intelligence-bi-analyst-cushman-wakefield-kft-3025881) — Cushman & Wakefield Kft\. \(Pest county\)
-- [Data engineer](https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3006865) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-3025897) — Diligent Governance Hungary Kft\. \(Pest county\)
+- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-3027108) — Lufthansa Systems Hungária Kft\. \(Pest county\)
+- [AI/ML Engineer \- Szeged](https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3027103) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
+- [Director, Quantitative Engineer](https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-3027031) — BlackRock Hungary Kft\. \(Pest county\)
+- [Medior AI Engineer](https://www.profession.hu/allas/medior-ai-engineer-otp-bank-nyrt-budapest-3026613) — OTP Bank Nyrt\. \(Pest county, Budapest\)
+- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-otp-bank-nyrt-budapest-3026617) — OTP Bank Nyrt\. \(Pest county, Budapest\)
+- [Senior Data Engineer \(Contract\)](https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-3027091) — Hiflylabs Zrt\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
