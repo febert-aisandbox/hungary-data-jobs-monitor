@@ -1,15 +1,10 @@
-**Hungary data jobs — 2026-10-14**
-Observed: **70** · New: **6** · No longer observed: **5**
-Junior/internship: **12** · Hybrid/remote: **32**
-Role mix: data\-engineering: 28, data\-science\-ml: 24, analyst\-bi: 16, quant\-risk: 2
+**Hungary data jobs — 2026-10-15**
+Observed: **64** · New: **1** · No longer observed: **7**
+Junior/internship: **8** · Hybrid/remote: **26**
+Role mix: data\-engineering: 25, data\-science\-ml: 22, analyst\-bi: 15, quant\-risk: 2
 
 **Noteworthy new listings**
-- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-3027108) — Lufthansa Systems Hungária Kft\. \(Pest county\)
-- [AI/ML Engineer \- Szeged](https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3027103) — Lufthansa Systems Hungária Kft\. \(Csongrád\-Csanád county, Szeged\)
-- [Director, Quantitative Engineer](https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-3027031) — BlackRock Hungary Kft\. \(Pest county\)
-- [Medior AI Engineer](https://www.profession.hu/allas/medior-ai-engineer-otp-bank-nyrt-budapest-3026613) — OTP Bank Nyrt\. \(Pest county, Budapest\)
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-otp-bank-nyrt-budapest-3026617) — OTP Bank Nyrt\. \(Pest county, Budapest\)
-- [Senior Data Engineer \(Contract\)](https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-3027091) — Hiflylabs Zrt\. \(Pest county\)
+- [Senior Quantitative Market Researcher – Healthcare](https://www.profession.hu/allas/senior-quantitative-market-researcher-healthcare-melon-hr-technology-kft-budapest-3027944) — Melon HR Technology Kft\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
