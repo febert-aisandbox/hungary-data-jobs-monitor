@@ -1,10 +1,11 @@
-**Hungary data jobs — 2026-10-15**
-Observed: **64** · New: **1** · No longer observed: **7**
+**Hungary data jobs — 2026-10-16**
+Observed: **64** · New: **2** · No longer observed: **2**
 Junior/internship: **8** · Hybrid/remote: **26**
-Role mix: data\-engineering: 25, data\-science\-ml: 22, analyst\-bi: 15, quant\-risk: 2
+Role mix: data\-engineering: 26, data\-science\-ml: 23, analyst\-bi: 13, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Senior Quantitative Market Researcher – Healthcare](https://www.profession.hu/allas/senior-quantitative-market-researcher-healthcare-melon-hr-technology-kft-budapest-3027944) — Melon HR Technology Kft\. \(Pest county, Budapest\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-budapest-3028888) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [Senior Machine Learning Engineer, Learner Modeling](https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3028754) — Instructure Hungary Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
