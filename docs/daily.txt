@@ -1,13 +1,12 @@
-**Hungary data jobs — 2026-10-17**
-Observed: **66** · New: **4** · No longer observed: **2**
-Junior/internship: **7** · Hybrid/remote: **26**
-Role mix: data\-engineering: 28, data\-science\-ml: 24, analyst\-bi: 12, quant\-risk: 2
+**Hungary data jobs — 2026-10-18**
+Observed: **64** · New: **3** · No longer observed: **5**
+Junior/internship: **7** · Hybrid/remote: **28**
+Role mix: data\-science\-ml: 25, data\-engineering: 25, analyst\-bi: 12, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-msci-kft-3029892) — MSCI Kft\. \(Pest county\)
-- [Data Engineer — Data Platform](https://www.profession.hu/allas/data-engineer-data-platform-greehill-europe-kft-3029912) — greeHill Europe Kft\. \(Pest county\)
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-siemens-energy-kft-3029962) — Siemens Energy Kft\. \(Pest county\)
-- [Senior Data Engineer / Scala, Spark](https://www.profession.hu/allas/senior-data-engineer-scala-spark-high-tech-engineering-center-kft-budapest-3029877) — High Tech Engineering Center Kft\. \(Pest county, Budapest\)
+- [AI Engineering Workflow Developer \- T Cloud Public \(REF5739F\)](https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-debrecen-3030057) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
+- [Data Engineer \(REF5635Y\)](https://www.profession.hu/allas/data-engineer-ref-y-deutsche-telekom-tsi-hungary-kft-debrecen-3030070) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Debrecen\)
+- [Senior Data Scientist](https://www.profession.hu/allas/senior-data-scientist-yettel-hungary-ltd-torokbalint-3030043) — Yettel Hungary Ltd\. \(Pest county, Törökbálint\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._

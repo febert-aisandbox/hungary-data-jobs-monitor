@@ -1,37 +1,37 @@
 {
-  "report_date": "2026-10-17",
-  "updated_at": "2026-10-17 06:42 CEST",
+  "report_date": "2026-10-18",
+  "updated_at": "2026-10-18 06:48 CEST",
   "status": "success",
-  "active_total": 66,
-  "new_total": 4,
-  "expired_total": 2,
+  "active_total": 64,
+  "new_total": 3,
+  "expired_total": 5,
   "completed_queries": 11,
   "expected_queries": 11,
   "failed_searches": [],
   "junior_total": 7,
-  "hybrid_remote_total": 26,
+  "hybrid_remote_total": 28,
   "role_families": {
-    "data-engineering": 28,
-    "data-science-ml": 24,
+    "data-science-ml": 25,
+    "data-engineering": 25,
     "analyst-bi": 12,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      31
+      27
     ],
     [
       "Pest county, Budapest",
-      19
+      18
     ],
     [
       "Pest county, Debrecen",
-      5
+      7
     ],
     [
       "Pest county, Törökbálint",
-      4
+      5
     ],
     [
       "Csongrád-Csanád county, Szeged",
@@ -46,22 +46,22 @@
       1
     ],
     [
+      "Pest county, Budaörs",
+      1
+    ],
+    [
       "Heves county, Visonta",
       1
     ],
     [
       "Unspecified",
       1
-    ],
-    [
-      "Pest county, Veresegyház",
-      1
     ]
   ],
   "top_skills": [
     [
       "English",
-      60
+      58
     ],
     [
       "Python",
@@ -73,7 +73,7 @@
     ],
     [
       "Azure",
-      24
+      23
     ],
     [
       "AWS",
@@ -81,11 +81,11 @@
     ],
     [
       "Machine learning",
-      15
+      14
     ],
     [
       "Spark",
-      13
+      12
     ],
     [
       "Power BI",
@@ -93,7 +93,7 @@
     ],
     [
       "Docker",
-      9
+      8
     ],
     [
       "Tableau",
@@ -110,40 +110,31 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3029892",
-      "title": "Data Engineer",
-      "company": "MSCI Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-msci-kft-3029892",
-      "family": "data-engineering",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3029912",
-      "title": "Data Engineer — Data Platform",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-data-platform-greehill-europe-kft-3029912",
-      "family": "data-engineering",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3029962",
-      "title": "Senior AI Engineer",
-      "company": "Siemens Energy Kft.",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-siemens-energy-kft-3029962",
+      "job_id": "3030057",
+      "title": "AI Engineering Workflow Developer - T Cloud Public (REF5739F)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-debrecen-3030057",
       "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
+      "work_mode": "Hibrid",
+      "location": "Pest county, Debrecen"
     },
     {
-      "job_id": "3029877",
-      "title": "Senior Data Engineer / Scala, Spark",
-      "company": "High Tech Engineering Center Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-scala-spark-high-tech-engineering-center-kft-budapest-3029877",
+      "job_id": "3030070",
+      "title": "Data Engineer (REF5635Y)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-ref-y-deutsche-telekom-tsi-hungary-kft-debrecen-3030070",
       "family": "data-engineering",
       "work_mode": "",
-      "location": "Pest county, Budapest"
+      "location": "Pest county, Debrecen"
+    },
+    {
+      "job_id": "3030043",
+      "title": "Senior Data Scientist",
+      "company": "Yettel Hungary Ltd.",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-yettel-hungary-ltd-torokbalint-3030043",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "location": "Pest county, Törökbálint"
     }
   ],
   "active_jobs": [
@@ -158,12 +149,12 @@
       "location": "Pest county, Debrecen"
     },
     {
-      "job_id": "3002672",
+      "job_id": "3030057",
       "title": "AI Engineering Workflow Developer - T Cloud Public (REF5739F)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-debrecen-3002672",
+      "url": "https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-debrecen-3030057",
       "family": "data-science-ml",
-      "work_mode": "",
+      "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Pest county, Debrecen"
     },
@@ -328,6 +319,16 @@
       "location": "Pest county, Debrecen"
     },
     {
+      "job_id": "3030070",
+      "title": "Data Engineer (REF5635Y)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-ref-y-deutsche-telekom-tsi-hungary-kft-debrecen-3030070",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Debrecen"
+    },
+    {
       "job_id": "3029912",
       "title": "Data Engineer — Data Platform",
       "company": "greeHill Europe Kft.",
@@ -366,6 +367,16 @@
       "work_mode": "Hibrid",
       "seniority": "1-3 years experience",
       "location": "Pest county, Törökbálint"
+    },
+    {
+      "job_id": "3006865",
+      "title": "Data engineer",
+      "company": "Kontron Hungary Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3006865",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Budaörs"
     },
     {
       "job_id": "3013403",
@@ -436,16 +447,6 @@
       "work_mode": "",
       "seniority": "junior",
       "location": "Pest county"
-    },
-    {
-      "job_id": "3003130",
-      "title": "Junior adatelemző",
-      "company": "M. L. ENERGY Kft.",
-      "url": "https://www.profession.hu/allas/junior-adatelemzo-m-l-energy-kft-budapest-3003130",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3021200",
@@ -638,16 +639,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3003152",
-      "title": "Senior Data Engineer (JT)",
-      "company": "Tech People Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-jt-tech-people-hungary-kft-budapest-3003152",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "3024312",
       "title": "Senior Data Engineer / Databricks",
       "company": "High Tech Engineering Center Kft.",
@@ -668,16 +659,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3002651",
-      "title": "Senior Data Scientist",
-      "company": "Yettel Hungary Ltd.",
-      "url": "https://www.profession.hu/allas/senior-data-scientist-yettel-hungary-ltd-torokbalint-3002651",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Törökbálint"
-    },
-    {
       "job_id": "3023269",
       "title": "Senior Data Scientist",
       "company": "TRENDENCY ONLINE Zrt.",
@@ -686,6 +667,16 @@
       "work_mode": "Hibrid",
       "seniority": "senior",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3030043",
+      "title": "Senior Data Scientist",
+      "company": "Yettel Hungary Ltd.",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-yettel-hungary-ltd-torokbalint-3030043",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Törökbálint"
     },
     {
       "job_id": "3023004",
@@ -748,74 +739,47 @@
       "location": "Pest county, Veresegyház"
     },
     {
-      "job_id": "3006763",
-      "title": "Big Data Engineer",
-      "company": "Pont Systems Zrt.",
-      "url": "https://www.profession.hu/allas/big-data-engineer-pont-systems-zrt-3006763",
-      "family": "data-engineering",
+      "job_id": "3002672",
+      "title": "AI Engineering Workflow Developer - T Cloud Public (REF5739F)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-debrecen-3002672",
+      "family": "data-science-ml",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county"
+      "location": "Pest county, Debrecen"
     },
     {
-      "job_id": "3001482",
-      "title": "Data Engineer",
-      "company": "MSCI Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-msci-kft-3001482",
-      "family": "data-engineering",
+      "job_id": "3003130",
+      "title": "Junior adatelemző",
+      "company": "M. L. ENERGY Kft.",
+      "url": "https://www.profession.hu/allas/junior-adatelemzo-m-l-energy-kft-budapest-3003130",
+      "family": "analyst-bi",
       "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
+      "seniority": "junior",
+      "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3001468",
-      "title": "Data Engineer — Data Platform",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-data-platform-greehill-europe-kft-3001468",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "1-3 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3006865",
-      "title": "Data engineer",
-      "company": "Kontron Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3006865",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Budaörs"
-    },
-    {
-      "job_id": "3001466",
-      "title": "Senior Data Engineer / Scala, Spark",
-      "company": "High Tech Engineering Center Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-scala-spark-high-tech-engineering-center-kft-budapest-3001466",
+      "job_id": "3003152",
+      "title": "Senior Data Engineer (JT)",
+      "company": "Tech People Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-jt-tech-people-hungary-kft-budapest-3003152",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3028754",
-      "title": "Senior Machine Learning Engineer, Learner Modeling",
-      "company": "Instructure Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3028754",
+      "job_id": "3002651",
+      "title": "Senior Data Scientist",
+      "company": "Yettel Hungary Ltd.",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-yettel-hungary-ltd-torokbalint-3002651",
       "family": "data-science-ml",
-      "work_mode": "",
+      "work_mode": "Hibrid",
       "seniority": "senior",
-      "location": "Pest county"
+      "location": "Pest county, Törökbálint"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-10-06T13:27:06.000390+00:00",
-      "status": "degraded",
-      "active_count": 97,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-10-06T13:46:14.911722+00:00",
       "status": "degraded",
@@ -1018,6 +982,13 @@
       "active_count": 66,
       "new_count": 4,
       "expired_count": 2
+    },
+    {
+      "completed_at": "2026-10-18T04:48:31.977454+00:00",
+      "status": "success",
+      "active_count": 64,
+      "new_count": 3,
+      "expired_count": 5
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
