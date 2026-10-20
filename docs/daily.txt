@@ -1,7 +1,11 @@
-**Hungary data jobs — 2026-10-19**
-Observed: **60** · New: **0** · No longer observed: **4**
-Junior/internship: **6** · Hybrid/remote: **27**
-Role mix: data\-engineering: 24, data\-science\-ml: 23, analyst\-bi: 11, quant\-risk: 2
+**Hungary data jobs — 2026-10-20**
+Observed: **60** · New: **2** · No longer observed: **2**
+Junior/internship: **6** · Hybrid/remote: **29**
+Role mix: data\-science\-ml: 24, data\-engineering: 23, analyst\-bi: 11, quant\-risk: 2
+
+**Noteworthy new listings**
+- [GBS Data Analytics Analyst](https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3007075) — International Flavors & Fragrances I\.F\.F\. \(Hungary\) Kft\. \(Pest county\)
+- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-menton-jobs-kft-3030662) — MENTON Jobs Kft\. \(Országos\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
