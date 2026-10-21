@@ -1,11 +1,15 @@
-**Hungary data jobs — 2026-10-20**
-Observed: **60** · New: **2** · No longer observed: **2**
-Junior/internship: **6** · Hybrid/remote: **29**
-Role mix: data\-science\-ml: 24, data\-engineering: 23, analyst\-bi: 11, quant\-risk: 2
+**Hungary data jobs — 2026-10-21**
+Observed: **63** · New: **6** · No longer observed: **3**
+Junior/internship: **5** · Hybrid/remote: **30**
+Role mix: data\-science\-ml: 25, data\-engineering: 22, analyst\-bi: 14, quant\-risk: 2
 
 **Noteworthy new listings**
-- [GBS Data Analytics Analyst](https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3007075) — International Flavors & Fragrances I\.F\.F\. \(Hungary\) Kft\. \(Pest county\)
-- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-menton-jobs-kft-3030662) — MENTON Jobs Kft\. \(Országos\)
+- [Adatelemző szakértő](https://www.profession.hu/allas/adatelemzo-szakerto-budapesti-gazdasagtudomanyi-egyetem-budapest-3031963) — Budapesti Gazdaságtudományi Egyetem \(Pest county, Budapest\)
+- [BI Analyst](https://www.profession.hu/allas/bi-analyst-bsce-tanacsado-es-informatikai-kft-3032554) — BSCE Tanácsadó és Informatikai Kft\. \(Pest county\)
+- [Big Data Engineer](https://www.profession.hu/allas/big-data-engineer-pont-systems-zrt-3032558) — Pont Systems Zrt\. \(Pest county\)
+- [Data Analyst Specialist](https://www.profession.hu/allas/data-analyst-specialist-magyar-telekom-nyrt-budapest-3032619) — Magyar Telekom Nyrt\. \(Pest county, Budapest\)
+- [Data engineer](https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3032613) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
+- [Senior Machine Learning Engineer, Learner Modeling](https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3028754) — Instructure Hungary Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
