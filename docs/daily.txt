@@ -1,11 +1,16 @@
-**Hungary data jobs — 2026-10-22**
-Observed: **65** · New: **2** · No longer observed: **0**
-Junior/internship: **5** · Hybrid/remote: **31**
-Role mix: data\-science\-ml: 27, data\-engineering: 22, analyst\-bi: 14, quant\-risk: 2
+**Hungary data jobs — 2026-10-23**
+Observed: **68** · New: **7** · No longer observed: **4**
+Junior/internship: **7** · Hybrid/remote: **33**
+Role mix: data\-science\-ml: 28, data\-engineering: 23, analyst\-bi: 15, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Senior AI Engineer \(f/m/d\)](https://www.profession.hu/allas/senior-ai-engineer-f-m-d-siemens-energy-kft-3033553) — Siemens Energy Kft\. \(Pest county\)
-- [Senior Data Scientist \(B\-1227\)](https://www.profession.hu/allas/senior-data-scientist-b-union-vienna-insurance-group-zrt-budapest-3033565) — UNION Vienna Insurance Group Zrt\. \(Pest county, Budapest\)
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-yettel-hungary-ltd-torokbalint-3034408) — Yettel Hungary Ltd\. \(Pest county, Törökbálint\)
+- [BI Analyst](https://www.profession.hu/allas/bi-analyst-dentsu-hungary-kft-3034380) — Dentsu Hungary Kft\. \(Pest county\)
+- [GBS Data Analytics Analyst](https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3034378) — International Flavors & Fragrances I\.F\.F\. \(Hungary\) Kft\. \(Pest county\)
+- [Senior AI Engineer with Databricks experience\_Europe\_Contractor](https://www.profession.hu/allas/senior-ai-engineer-with-databricks-experience-europe-contractor-hiflylabs-zrt-3034449) — Hiflylabs Zrt\. \(Pest county\)
+- [Senior Data Engineer \(Contract\)](https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-3034385) — Hiflylabs Zrt\. \(Pest county\)
+- [Senior Data Scientist with AI product mindset](https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-budapest-3034375) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [Senior Databricks Data Engineer](https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-budapest-3034410) — Hiflylabs Zrt\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
