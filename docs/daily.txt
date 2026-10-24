@@ -1,16 +1,11 @@
-**Hungary data jobs — 2026-10-23**
-Observed: **68** · New: **7** · No longer observed: **4**
-Junior/internship: **7** · Hybrid/remote: **33**
-Role mix: data\-science\-ml: 28, data\-engineering: 23, analyst\-bi: 15, quant\-risk: 2
+**Hungary data jobs — 2026-10-24**
+Observed: **64** · New: **2** · No longer observed: **6**
+Junior/internship: **5** · Hybrid/remote: **32**
+Role mix: data\-science\-ml: 26, data\-engineering: 22, analyst\-bi: 14, quant\-risk: 2
 
 **Noteworthy new listings**
-- [AI Engineer](https://www.profession.hu/allas/ai-engineer-yettel-hungary-ltd-torokbalint-3034408) — Yettel Hungary Ltd\. \(Pest county, Törökbálint\)
-- [BI Analyst](https://www.profession.hu/allas/bi-analyst-dentsu-hungary-kft-3034380) — Dentsu Hungary Kft\. \(Pest county\)
-- [GBS Data Analytics Analyst](https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3034378) — International Flavors & Fragrances I\.F\.F\. \(Hungary\) Kft\. \(Pest county\)
-- [Senior AI Engineer with Databricks experience\_Europe\_Contractor](https://www.profession.hu/allas/senior-ai-engineer-with-databricks-experience-europe-contractor-hiflylabs-zrt-3034449) — Hiflylabs Zrt\. \(Pest county\)
-- [Senior Data Engineer \(Contract\)](https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-3034385) — Hiflylabs Zrt\. \(Pest county\)
-- [Senior Data Scientist with AI product mindset](https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-budapest-3034375) — Hiflylabs Zrt\. \(Pest county, Budapest\)
-- [Senior Databricks Data Engineer](https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-budapest-3034410) — Hiflylabs Zrt\. \(Pest county, Budapest\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-msci-kft-3029892) — MSCI Kft\. \(Pest county\)
+- [Senior Data Analyst \(Evening Shift\)](https://www.profession.hu/allas/senior-data-analyst-evening-shift-cushman-wakefield-kft-3034838) — Cushman & Wakefield Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
