@@ -1,11 +1,12 @@
-**Hungary data jobs — 2026-10-24**
-Observed: **64** · New: **2** · No longer observed: **6**
-Junior/internship: **5** · Hybrid/remote: **32**
-Role mix: data\-science\-ml: 26, data\-engineering: 22, analyst\-bi: 14, quant\-risk: 2
+**Hungary data jobs — 2026-10-25**
+Observed: **66** · New: **3** · No longer observed: **1**
+Junior/internship: **6** · Hybrid/remote: **32**
+Role mix: data\-science\-ml: 26, data\-engineering: 24, analyst\-bi: 14, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-msci-kft-3029892) — MSCI Kft\. \(Pest county\)
-- [Senior Data Analyst \(Evening Shift\)](https://www.profession.hu/allas/senior-data-analyst-evening-shift-cushman-wakefield-kft-3034838) — Cushman & Wakefield Kft\. \(Pest county\)
+- [AI Engineer \(REF5308Q\)](https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-pecs-3034936) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
+- [Data Engineer \(REF5482T\)](https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-3034940) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
+- [Data Engineering Technical Supervisor \(Medior\) – Databricks & Python](https://www.profession.hu/allas/data-engineering-technical-supervisor-medior-databricks-python-thermo-services-hungary-kft-3034958) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
