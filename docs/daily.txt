@@ -1,12 +1,11 @@
-**Hungary data jobs — 2026-10-25**
-Observed: **66** · New: **3** · No longer observed: **1**
-Junior/internship: **6** · Hybrid/remote: **32**
-Role mix: data\-science\-ml: 26, data\-engineering: 24, analyst\-bi: 14, quant\-risk: 2
+**Hungary data jobs — 2026-10-26**
+Observed: **64** · New: **2** · No longer observed: **4**
+Junior/internship: **6** · Hybrid/remote: **30**
+Role mix: data\-science\-ml: 27, data\-engineering: 22, analyst\-bi: 13, quant\-risk: 2
 
 **Noteworthy new listings**
-- [AI Engineer \(REF5308Q\)](https://www.profession.hu/allas/ai-engineer-ref-q-deutsche-telekom-tsi-hungary-kft-pecs-3034936) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
-- [Data Engineer \(REF5482T\)](https://www.profession.hu/allas/data-engineer-ref-t-deutsche-telekom-tsi-hungary-kft-pecs-3034940) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
-- [Data Engineering Technical Supervisor \(Medior\) – Databricks & Python](https://www.profession.hu/allas/data-engineering-technical-supervisor-medior-databricks-python-thermo-services-hungary-kft-3034958) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
+- [Machine Learning Team Leader](https://www.profession.hu/allas/machine-learning-team-leader-opswat-kft-3021220) — OPSWAT Kft\. \(Pest county\)
+- [Senior Machine Learning Engineer, Learner Modeling](https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3028754) — Instructure Hungary Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
