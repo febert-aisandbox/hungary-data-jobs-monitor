@@ -1,11 +1,10 @@
-**Hungary data jobs — 2026-10-26**
-Observed: **64** · New: **2** · No longer observed: **4**
-Junior/internship: **6** · Hybrid/remote: **30**
+**Hungary data jobs — 2026-10-27**
+Observed: **64** · New: **1** · No longer observed: **1**
+Junior/internship: **6** · Hybrid/remote: **31**
 Role mix: data\-science\-ml: 27, data\-engineering: 22, analyst\-bi: 13, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Machine Learning Team Leader](https://www.profession.hu/allas/machine-learning-team-leader-opswat-kft-3021220) — OPSWAT Kft\. \(Pest county\)
-- [Senior Machine Learning Engineer, Learner Modeling](https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3028754) — Instructure Hungary Kft\. \(Pest county\)
+- [CRM and Commercial Data Analyst](https://www.profession.hu/allas/crm-and-commercial-data-analyst-pos-partner-payment-zrt-budapest-3035245) — POS Partner Payment Zrt\. \(Pest county, Budapest\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
