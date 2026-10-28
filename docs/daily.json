@@ -1,19 +1,19 @@
 {
-  "report_date": "2026-10-27",
-  "updated_at": "2026-10-27 06:38 CET",
+  "report_date": "2026-10-28",
+  "updated_at": "2026-10-28 06:44 CET",
   "status": "success",
-  "active_total": 64,
-  "new_total": 1,
-  "expired_total": 1,
+  "active_total": 63,
+  "new_total": 2,
+  "expired_total": 3,
   "completed_queries": 11,
   "expected_queries": 11,
   "failed_searches": [],
-  "junior_total": 6,
-  "hybrid_remote_total": 31,
+  "junior_total": 5,
+  "hybrid_remote_total": 33,
   "role_families": {
-    "data-science-ml": 27,
-    "data-engineering": 22,
-    "analyst-bi": 13,
+    "data-science-ml": 28,
+    "data-engineering": 21,
+    "analyst-bi": 12,
     "quant-risk": 2
   },
   "top_locations": [
@@ -52,20 +52,16 @@
     [
       "Unspecified",
       1
-    ],
-    [
-      "Pest county, Majosháza",
-      1
     ]
   ],
   "top_skills": [
     [
       "English",
-      59
+      57
     ],
     [
       "Python",
-      41
+      42
     ],
     [
       "SQL",
@@ -73,7 +69,7 @@
     ],
     [
       "Azure",
-      25
+      24
     ],
     [
       "AWS",
@@ -81,18 +77,18 @@
     ],
     [
       "Machine learning",
-      16
+      17
     ],
     [
       "Spark",
       12
     ],
     [
-      "Power BI",
-      10
+      "Docker",
+      9
     ],
     [
-      "Docker",
+      "Power BI",
       9
     ],
     [
@@ -100,23 +96,32 @@
       3
     ],
     [
-      "Tableau",
-      3
+      "Excel",
+      2
     ],
     [
-      "Excel",
+      "Tableau",
       2
     ]
   ],
   "new_jobs": [
     {
-      "job_id": "3035245",
-      "title": "CRM and Commercial Data Analyst",
-      "company": "POS Partner Payment Zrt.",
-      "url": "https://www.profession.hu/allas/crm-and-commercial-data-analyst-pos-partner-payment-zrt-budapest-3035245",
-      "family": "analyst-bi",
+      "job_id": "3037327",
+      "title": "AWS Agentic AI Engineer | Hungary",
+      "company": "Deloitte Zrt.",
+      "url": "https://www.profession.hu/allas/aws-agentic-ai-engineer-hungary-deloitte-zrt-3037327",
+      "family": "data-science-ml",
       "work_mode": "Hibrid",
-      "location": "Pest county, Budapest"
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3037312",
+      "title": "Senior Machine Learning Engineer, Learner Modeling",
+      "company": "Instructure Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3037312",
+      "family": "data-science-ml",
+      "work_mode": "Távmunka",
+      "location": "Pest county"
     }
   ],
   "active_jobs": [
@@ -151,16 +156,6 @@
       "location": "Pest county, Debrecen"
     },
     {
-      "job_id": "3030057",
-      "title": "AI Engineering Workflow Developer - T Cloud Public (REF5739F)",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-debrecen-3030057",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Debrecen"
-    },
-    {
       "job_id": "3025911",
       "title": "AI/ML Engineer",
       "company": "SnapSoft Informatikai és Szolgáltató Kft.",
@@ -189,6 +184,16 @@
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Csongrád-Csanád county, Szeged"
+    },
+    {
+      "job_id": "3037327",
+      "title": "AWS Agentic AI Engineer | Hungary",
+      "company": "Deloitte Zrt.",
+      "url": "https://www.profession.hu/allas/aws-agentic-ai-engineer-hungary-deloitte-zrt-3037327",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "professional experience is not required",
+      "location": "Pest county"
     },
     {
       "job_id": "3024230",
@@ -225,16 +230,6 @@
       "title": "BI Analyst",
       "company": "Cushman & Wakefield Kft.",
       "url": "https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-3017071",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3034380",
-      "title": "BI Analyst",
-      "company": "Dentsu Hungary Kft.",
-      "url": "https://www.profession.hu/allas/bi-analyst-dentsu-hungary-kft-3034380",
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "junior",
@@ -451,16 +446,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3021220",
-      "title": "Machine Learning Team Leader",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-team-leader-opswat-kft-3021220",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3023319",
       "title": "Market and Business Intelligence Manager",
       "company": "KALL Ingredients Kft.",
@@ -621,16 +606,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3024345",
-      "title": "Senior Data Engineer (Databricks)",
-      "company": "DATAPAO Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-databricks-datapao-kft-3024345",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3024312",
       "title": "Senior Data Engineer / Databricks",
       "company": "High Tech Engineering Center Kft.",
@@ -701,10 +676,10 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3012310",
+      "job_id": "3037312",
       "title": "Senior Machine Learning Engineer, Learner Modeling",
       "company": "Instructure Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3012310",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3037312",
       "family": "data-science-ml",
       "work_mode": "Távmunka",
       "seniority": "senior",
@@ -731,44 +706,57 @@
       "location": "Unspecified"
     },
     {
-      "job_id": "3011571",
-      "title": "Adatelemző",
-      "company": "SW Umwelttechnik Magyarország Kft.",
-      "url": "https://www.profession.hu/allas/adatelemzo-sw-umwelttechnik-magyarorszag-kft-majoshaza-3011571",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county, Majosháza"
+      "job_id": "3030057",
+      "title": "AI Engineering Workflow Developer - T Cloud Public (REF5739F)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineering-workflow-developer-t-cloud-public-ref-f-deutsche-telekom-tsi-hungary-kft-debrecen-3030057",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Debrecen"
     },
     {
-      "job_id": "3017063",
-      "title": "Senior Data Engineer",
-      "company": "Peridot Capital Solutions Hungary Services Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-peridot-capital-solutions-hungary-services-kft-3017063",
-      "family": "data-engineering",
+      "job_id": "3034380",
+      "title": "BI Analyst",
+      "company": "Dentsu Hungary Kft.",
+      "url": "https://www.profession.hu/allas/bi-analyst-dentsu-hungary-kft-3034380",
+      "family": "analyst-bi",
       "work_mode": "",
       "seniority": "junior",
       "location": "Pest county"
     },
     {
-      "job_id": "3028754",
-      "title": "Senior Machine Learning Engineer, Learner Modeling",
-      "company": "Instructure Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3028754",
+      "job_id": "3021220",
+      "title": "Machine Learning Team Leader",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-team-leader-opswat-kft-3021220",
       "family": "data-science-ml",
       "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3024345",
+      "title": "Senior Data Engineer (Databricks)",
+      "company": "DATAPAO Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-databricks-datapao-kft-3024345",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3012310",
+      "title": "Senior Machine Learning Engineer, Learner Modeling",
+      "company": "Instructure Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3012310",
+      "family": "data-science-ml",
+      "work_mode": "Távmunka",
       "seniority": "senior",
       "location": "Pest county"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-10-06T16:38:52.666127+00:00",
-      "status": "degraded",
-      "active_count": 98,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-10-06T16:58:06.736828+00:00",
       "status": "degraded",
@@ -971,6 +959,13 @@
       "active_count": 64,
       "new_count": 1,
       "expired_count": 1
+    },
+    {
+      "completed_at": "2026-10-28T05:44:21.873972+00:00",
+      "status": "success",
+      "active_count": 63,
+      "new_count": 2,
+      "expired_count": 3
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
