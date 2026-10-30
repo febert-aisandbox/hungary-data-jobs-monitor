@@ -1,13 +1,13 @@
-**Hungary data jobs — 2026-10-29**
-Observed: **63** · New: **4** · No longer observed: **4**
-Junior/internship: **4** · Hybrid/remote: **32**
-Role mix: data\-science\-ml: 26, data\-engineering: 21, analyst\-bi: 14, quant\-risk: 2
+**Hungary data jobs — 2026-10-30**
+Observed: **66** · New: **4** · No longer observed: **1**
+Junior/internship: **3** · Hybrid/remote: **34**
+Role mix: data\-science\-ml: 26, data\-engineering: 24, analyst\-bi: 14, quant\-risk: 2
 
 **Noteworthy new listings**
-- [CE Range Data Analyst](https://www.profession.hu/allas/ce-range-data-analyst-tesco-global-zrt-budaors-3037885) — TESCO\-GLOBAL ZRT\. \(Pest county, Budaörs\)
-- [Group Data Analyst](https://www.profession.hu/allas/group-data-analyst-mol-nyrt-budapest-3036955) — MOL Nyrt\. \(Pest county, Budapest\)
-- [Junior Controlling Data Analyst](https://www.profession.hu/allas/junior-controlling-data-analyst-media-markt-magyarorszag-kft-budapest-3037783) — Media Markt Magyarország Kft\. \(Pest county, Budapest\)
-- [iREMS Data Engineer](https://www.profession.hu/allas/irems-data-engineer-irems-hungary-kft-3038067) — iREMS Hungary Kft\. \(Pest county\)
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-bosch-group-maklar-3038438) — Bosch Group \(Heves county, Maklár\)
+- [Data analyst \(No Experience Required\)](https://www.profession.hu/allas/data-analyst-no-experience-required-peroptyx-3036946) — Peroptyx \(Unspecified\)
+- [Expert Developer – Data Analytics & Data Engineering \- REF5086I](https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-3038995) — Deutsche Telekom TSI Hungary Kft\. \(Pest county\)
+- [Senior Data Engineer \- Power Platform \- REF5084T](https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-3038991) — Deutsche Telekom TSI Hungary Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._

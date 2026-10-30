@@ -1,36 +1,36 @@
 {
-  "report_date": "2026-10-29",
-  "updated_at": "2026-10-29 06:50 CET",
+  "report_date": "2026-10-30",
+  "updated_at": "2026-10-30 06:40 CET",
   "status": "success",
-  "active_total": 63,
+  "active_total": 66,
   "new_total": 4,
-  "expired_total": 4,
+  "expired_total": 1,
   "completed_queries": 11,
   "expected_queries": 11,
   "failed_searches": [],
-  "junior_total": 4,
-  "hybrid_remote_total": 32,
+  "junior_total": 3,
+  "hybrid_remote_total": 34,
   "role_families": {
     "data-science-ml": 26,
-    "data-engineering": 21,
+    "data-engineering": 24,
     "analyst-bi": 14,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      27
+      28
     ],
     [
       "Pest county, Budapest",
       19
     ],
     [
-      "Pest county, Pécs",
-      6
+      "Pest county, Törökbálint",
+      5
     ],
     [
-      "Pest county, Törökbálint",
+      "Pest county, Pécs",
       5
     ],
     [
@@ -38,38 +38,42 @@
       2
     ],
     [
+      "Unspecified",
+      2
+    ],
+    [
+      "Pest county, Győr",
+      1
+    ],
+    [
       "Csongrád-Csanád county, Szeged",
       1
     ],
     [
+      "Heves county, Maklár",
+      1
+    ],
+    [
       "Heves county, Visonta",
-      1
-    ],
-    [
-      "Országos",
-      1
-    ],
-    [
-      "Unspecified",
       1
     ]
   ],
   "top_skills": [
     [
       "English",
-      56
+      59
     ],
     [
       "Python",
-      40
-    ],
-    [
-      "SQL",
-      26
+      41
     ],
     [
       "Azure",
-      24
+      27
+    ],
+    [
+      "SQL",
+      27
     ],
     [
       "AWS",
@@ -77,11 +81,11 @@
     ],
     [
       "Machine learning",
-      16
+      15
     ],
     [
       "Spark",
-      12
+      14
     ],
     [
       "Docker",
@@ -89,7 +93,7 @@
     ],
     [
       "Power BI",
-      8
+      9
     ],
     [
       "GCP",
@@ -106,39 +110,39 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3037885",
-      "title": "CE Range Data Analyst",
-      "company": "TESCO-GLOBAL ZRT.",
-      "url": "https://www.profession.hu/allas/ce-range-data-analyst-tesco-global-zrt-budaors-3037885",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Budaörs"
-    },
-    {
-      "job_id": "3036955",
-      "title": "Group Data Analyst",
-      "company": "MOL Nyrt.",
-      "url": "https://www.profession.hu/allas/group-data-analyst-mol-nyrt-budapest-3036955",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "3037783",
-      "title": "Junior Controlling Data Analyst",
-      "company": "Media Markt Magyarország Kft.",
-      "url": "https://www.profession.hu/allas/junior-controlling-data-analyst-media-markt-magyarorszag-kft-budapest-3037783",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "3038067",
-      "title": "iREMS Data Engineer",
-      "company": "iREMS Hungary Kft.",
-      "url": "https://www.profession.hu/allas/irems-data-engineer-irems-hungary-kft-3038067",
+      "job_id": "3038438",
+      "title": "Data Engineer",
+      "company": "Bosch Group",
+      "url": "https://www.profession.hu/allas/data-engineer-bosch-group-maklar-3038438",
       "family": "data-engineering",
       "work_mode": "Távmunka",
+      "location": "Heves county, Maklár"
+    },
+    {
+      "job_id": "3036946",
+      "title": "Data analyst (No Experience Required)",
+      "company": "Peroptyx",
+      "url": "https://www.profession.hu/allas/data-analyst-no-experience-required-peroptyx-3036946",
+      "family": "analyst-bi",
+      "work_mode": "Távmunka",
+      "location": "Unspecified"
+    },
+    {
+      "job_id": "3038995",
+      "title": "Expert Developer – Data Analytics & Data Engineering - REF5086I",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-3038995",
+      "family": "data-engineering",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3038991",
+      "title": "Senior Data Engineer - Power Platform - REF5084T",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-3038991",
+      "family": "data-engineering",
+      "work_mode": "",
       "location": "Pest county"
     }
   ],
@@ -157,11 +161,11 @@
       "job_id": "3015265",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-pecs-3015265",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-3015265",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Győr"
     },
     {
       "job_id": "3034936",
@@ -244,6 +248,16 @@
       "location": "Pest county, Budapest"
     },
     {
+      "job_id": "3032558",
+      "title": "Big Data Engineer",
+      "company": "Pont Systems Zrt.",
+      "url": "https://www.profession.hu/allas/big-data-engineer-pont-systems-zrt-3032558",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3025881",
       "title": "Business Intelligence (BI) Analyst",
       "company": "Cushman & Wakefield Kft.",
@@ -302,6 +316,16 @@
       "work_mode": "",
       "seniority": "senior",
       "location": "Pest county"
+    },
+    {
+      "job_id": "3038438",
+      "title": "Data Engineer",
+      "company": "Bosch Group",
+      "url": "https://www.profession.hu/allas/data-engineer-bosch-group-maklar-3038438",
+      "family": "data-engineering",
+      "work_mode": "Távmunka",
+      "seniority": "5-10 years experience",
+      "location": "Heves county, Maklár"
     },
     {
       "job_id": "3034940",
@@ -364,14 +388,14 @@
       "location": "Pest county, Törökbálint"
     },
     {
-      "job_id": "3013403",
-      "title": "Data engineer",
-      "company": "Omnit Solutions Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-omnit-solutions-kft-budapest-3013403",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
-      "location": "Pest county, Budapest"
+      "job_id": "3036946",
+      "title": "Data analyst (No Experience Required)",
+      "company": "Peroptyx",
+      "url": "https://www.profession.hu/allas/data-analyst-no-experience-required-peroptyx-3036946",
+      "family": "analyst-bi",
+      "work_mode": "Távmunka",
+      "seniority": "professional experience is not required",
+      "location": "Unspecified"
     },
     {
       "job_id": "3032613",
@@ -394,16 +418,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3013205",
-      "title": "Elemző/Vezető elemző – Analytics Engineer",
-      "company": "Magyar Nemzeti Bank",
-      "url": "https://www.profession.hu/allas/elemzo-vezeto-elemzo-analytics-engineer-magyar-nemzeti-bank-budapest-3013205",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "3018716",
       "title": "Expert AI Engineer (REF5708U)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
@@ -412,6 +426,16 @@
       "work_mode": "Távmunka",
       "seniority": "3-5 years experience",
       "location": "Pest county, Pécs"
+    },
+    {
+      "job_id": "3038995",
+      "title": "Expert Developer – Data Analytics & Data Engineering - REF5086I",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-3038995",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "5-10 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "3034378",
@@ -644,6 +668,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3038991",
+      "title": "Senior Data Engineer - Power Platform - REF5084T",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-3038991",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3024312",
       "title": "Senior Data Engineer / Databricks",
       "company": "High Tech Engineering Center Kft.",
@@ -734,16 +768,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3013173",
-      "title": "Senior data scientist",
-      "company": "Profession Services",
-      "url": "https://www.profession.hu/allas/senior-data-scientist-profession-services-3013173",
-      "family": "data-science-ml",
-      "work_mode": "Távmunka",
-      "seniority": "senior",
-      "location": "Unspecified"
-    },
-    {
       "job_id": "3038067",
       "title": "iREMS Data Engineer",
       "company": "iREMS Hungary Kft.",
@@ -754,34 +778,37 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3017071",
-      "title": "BI Analyst",
-      "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/bi-analyst-cushman-wakefield-kft-3017071",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
+      "job_id": "3013403",
+      "title": "Data engineer",
+      "company": "Omnit Solutions Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-omnit-solutions-kft-budapest-3013403",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3032558",
-      "title": "Big Data Engineer",
-      "company": "Pont Systems Zrt.",
-      "url": "https://www.profession.hu/allas/big-data-engineer-pont-systems-zrt-3032558",
+      "job_id": "3013205",
+      "title": "Elemző/Vezető elemző – Analytics Engineer",
+      "company": "Magyar Nemzeti Bank",
+      "url": "https://www.profession.hu/allas/elemzo-vezeto-elemzo-analytics-engineer-magyar-nemzeti-bank-budapest-3013205",
       "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3013173",
+      "title": "Senior data scientist",
+      "company": "Profession Services",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-profession-services-3013173",
+      "family": "data-science-ml",
+      "work_mode": "Távmunka",
+      "seniority": "senior",
+      "location": "Unspecified"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-10-06T17:17:19.658542+00:00",
-      "status": "degraded",
-      "active_count": 98,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-10-06T17:36:31.799445+00:00",
       "status": "degraded",
@@ -984,6 +1011,13 @@
       "active_count": 63,
       "new_count": 4,
       "expired_count": 4
+    },
+    {
+      "completed_at": "2026-10-30T05:40:53.028022+00:00",
+      "status": "success",
+      "active_count": 66,
+      "new_count": 4,
+      "expired_count": 1
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
