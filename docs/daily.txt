@@ -1,13 +1,14 @@
-**Hungary data jobs — 2026-10-30**
-Observed: **66** · New: **4** · No longer observed: **1**
-Junior/internship: **3** · Hybrid/remote: **34**
-Role mix: data\-science\-ml: 26, data\-engineering: 24, analyst\-bi: 14, quant\-risk: 2
+**Hungary data jobs — 2026-10-31**
+Observed: **68** · New: **5** · No longer observed: **3**
+Junior/internship: **3** · Hybrid/remote: **31**
+Role mix: data\-science\-ml: 29, data\-engineering: 22, analyst\-bi: 15, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-bosch-group-maklar-3038438) — Bosch Group \(Heves county, Maklár\)
-- [Data analyst \(No Experience Required\)](https://www.profession.hu/allas/data-analyst-no-experience-required-peroptyx-3036946) — Peroptyx \(Unspecified\)
-- [Expert Developer – Data Analytics & Data Engineering \- REF5086I](https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-ref-i-deutsche-telekom-tsi-hungary-kft-3038995) — Deutsche Telekom TSI Hungary Kft\. \(Pest county\)
-- [Senior Data Engineer \- Power Platform \- REF5084T](https://www.profession.hu/allas/senior-data-engineer-power-platform-ref-t-deutsche-telekom-tsi-hungary-kft-3038991) — Deutsche Telekom TSI Hungary Kft\. \(Pest county\)
+- [Machine Learning Engineer](https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-3040020) — OPSWAT Kft\. \(Pest county\)
+- [Medior Data Scientist](https://www.profession.hu/allas/medior-data-scientist-mol-nyrt-budapest-3039232) — MOL Nyrt\. \(Pest county, Budapest\)
+- [Medior/Senior AI Engineer](https://www.profession.hu/allas/medior-senior-ai-engineer-snapsoft-informatikai-es-szolgaltato-kft-3039927) — SnapSoft Informatikai és Szolgáltató Kft\. \(Pest county\)
+- [Reference Data Management \- Data Analyst](https://www.profession.hu/allas/reference-data-management-data-analyst-sanofi-budapest-3039520) — Sanofi \(Pest county, Budapest\)
+- [Senior AI & ML Engineer \- AML Search Quality](https://www.profession.hu/allas/senior-ai-ml-engineer-aml-search-quality-seon-technologies-kft-3039944) — SEON Technologies Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
