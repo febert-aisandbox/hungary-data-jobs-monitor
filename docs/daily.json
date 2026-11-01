@@ -1,18 +1,20 @@
 {
-  "report_date": "2026-10-31",
-  "updated_at": "2026-10-31 06:46 CET",
-  "status": "success",
-  "active_total": 68,
-  "new_total": 5,
-  "expired_total": 3,
-  "completed_queries": 11,
+  "report_date": "2026-11-01",
+  "updated_at": "2026-11-01 08:42 CET",
+  "status": "degraded",
+  "active_total": 70,
+  "new_total": 2,
+  "expired_total": 0,
+  "completed_queries": 10,
   "expected_queries": 11,
-  "failed_searches": [],
+  "failed_searches": [
+    "data engineer"
+  ],
   "junior_total": 3,
-  "hybrid_remote_total": 31,
+  "hybrid_remote_total": 33,
   "role_families": {
-    "data-science-ml": 29,
-    "data-engineering": 22,
+    "data-science-ml": 30,
+    "data-engineering": 23,
     "analyst-bi": 15,
     "quant-risk": 2
   },
@@ -31,15 +33,15 @@
     ],
     [
       "Pest county, Törökbálint",
-      5
+      6
+    ],
+    [
+      "Pest county, Debrecen",
+      2
     ],
     [
       "Pest county, Budaörs",
       2
-    ],
-    [
-      "Pest county, Debrecen",
-      1
     ],
     [
       "Csongrád-Csanád county, Szeged",
@@ -61,23 +63,23 @@
   "top_skills": [
     [
       "English",
-      61
+      63
     ],
     [
       "Python",
-      42
+      43
+    ],
+    [
+      "SQL",
+      27
     ],
     [
       "Azure",
       26
     ],
     [
-      "SQL",
-      26
-    ],
-    [
       "AWS",
-      21
+      23
     ],
     [
       "Machine learning",
@@ -85,7 +87,7 @@
     ],
     [
       "Spark",
-      13
+      14
     ],
     [
       "Docker",
@@ -110,49 +112,22 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3040020",
-      "title": "Machine Learning Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-3040020",
+      "job_id": "3040109",
+      "title": "AI Engineer (AWS) (all genders)",
+      "company": "Adesso business consulting Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-debrecen-3040109",
       "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
+      "work_mode": "Hibrid",
+      "location": "Pest county, Debrecen"
     },
     {
-      "job_id": "3039232",
-      "title": "Medior Data Scientist",
-      "company": "MOL Nyrt.",
-      "url": "https://www.profession.hu/allas/medior-data-scientist-mol-nyrt-budapest-3039232",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "3039927",
-      "title": "Medior/Senior AI Engineer",
-      "company": "SnapSoft Informatikai és Szolgáltató Kft.",
-      "url": "https://www.profession.hu/allas/medior-senior-ai-engineer-snapsoft-informatikai-es-szolgaltato-kft-3039927",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3039520",
-      "title": "Reference Data Management - Data Analyst",
-      "company": "Sanofi",
-      "url": "https://www.profession.hu/allas/reference-data-management-data-analyst-sanofi-budapest-3039520",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "3039944",
-      "title": "Senior AI & ML Engineer - AML Search Quality",
-      "company": "SEON Technologies Kft.",
-      "url": "https://www.profession.hu/allas/senior-ai-ml-engineer-aml-search-quality-seon-technologies-kft-3039944",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
+      "job_id": "3040114",
+      "title": "Cloud Data Engineer",
+      "company": "Yettel Hungary Ltd.",
+      "url": "https://www.profession.hu/allas/cloud-data-engineer-yettel-hungary-ltd-torokbalint-3040114",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "location": "Pest county, Törökbálint"
     }
   ],
   "active_jobs": [
@@ -167,10 +142,10 @@
       "location": "Pest county, Törökbálint"
     },
     {
-      "job_id": "3015265",
+      "job_id": "3040109",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-debrecen-3015265",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-debrecen-3040109",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
@@ -287,10 +262,10 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3015277",
+      "job_id": "3040114",
       "title": "Cloud Data Engineer",
       "company": "Yettel Hungary Ltd.",
-      "url": "https://www.profession.hu/allas/cloud-data-engineer-yettel-hungary-ltd-torokbalint-3015277",
+      "url": "https://www.profession.hu/allas/cloud-data-engineer-yettel-hungary-ltd-torokbalint-3040114",
       "family": "data-engineering",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
@@ -515,16 +490,6 @@
       "work_mode": "",
       "seniority": "5-10 years experience",
       "location": "Heves county, Visonta"
-    },
-    {
-      "job_id": "3014734",
-      "title": "Marketing adatelemző",
-      "company": "Visit Hungary Nonprofit Zrt.",
-      "url": "https://www.profession.hu/allas/marketing-adatelemzo-visit-hungary-nonprofit-zrt-budapest-3014734",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3026613",
@@ -817,6 +782,36 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3015265",
+      "title": "AI Engineer (AWS) (all genders)",
+      "company": "Adesso business consulting Kft.",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-debrecen-3015265",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Debrecen"
+    },
+    {
+      "job_id": "3015277",
+      "title": "Cloud Data Engineer",
+      "company": "Yettel Hungary Ltd.",
+      "url": "https://www.profession.hu/allas/cloud-data-engineer-yettel-hungary-ltd-torokbalint-3015277",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Törökbálint"
+    },
+    {
+      "job_id": "3014734",
+      "title": "Marketing adatelemző",
+      "company": "Visit Hungary Nonprofit Zrt.",
+      "url": "https://www.profession.hu/allas/marketing-adatelemzo-visit-hungary-nonprofit-zrt-budapest-3014734",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Budapest"
+    },
+    {
       "job_id": "3021138",
       "title": "Adatelemző",
       "company": "Trenecon Kft.",
@@ -838,13 +833,6 @@
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-10-06T17:55:45.502621+00:00",
-      "status": "degraded",
-      "active_count": 98,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-10-06T18:14:57.046979+00:00",
       "status": "degraded",
@@ -1047,6 +1035,13 @@
       "active_count": 68,
       "new_count": 5,
       "expired_count": 3
+    },
+    {
+      "completed_at": "2026-11-01T07:42:21.628831+00:00",
+      "status": "degraded",
+      "active_count": 70,
+      "new_count": 2,
+      "expired_count": 0
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",

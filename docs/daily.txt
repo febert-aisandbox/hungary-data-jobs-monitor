@@ -1,14 +1,12 @@
-**Hungary data jobs — 2026-10-31**
-Observed: **68** · New: **5** · No longer observed: **3**
-Junior/internship: **3** · Hybrid/remote: **31**
-Role mix: data\-science\-ml: 29, data\-engineering: 22, analyst\-bi: 15, quant\-risk: 2
+**Hungary data jobs — 2026-11-01**
+⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
+Observed: **70** · New: **2** · No longer observed: **0**
+Junior/internship: **3** · Hybrid/remote: **33**
+Role mix: data\-science\-ml: 30, data\-engineering: 23, analyst\-bi: 15, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Machine Learning Engineer](https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-3040020) — OPSWAT Kft\. \(Pest county\)
-- [Medior Data Scientist](https://www.profession.hu/allas/medior-data-scientist-mol-nyrt-budapest-3039232) — MOL Nyrt\. \(Pest county, Budapest\)
-- [Medior/Senior AI Engineer](https://www.profession.hu/allas/medior-senior-ai-engineer-snapsoft-informatikai-es-szolgaltato-kft-3039927) — SnapSoft Informatikai és Szolgáltató Kft\. \(Pest county\)
-- [Reference Data Management \- Data Analyst](https://www.profession.hu/allas/reference-data-management-data-analyst-sanofi-budapest-3039520) — Sanofi \(Pest county, Budapest\)
-- [Senior AI & ML Engineer \- AML Search Quality](https://www.profession.hu/allas/senior-ai-ml-engineer-aml-search-quality-seon-technologies-kft-3039944) — SEON Technologies Kft\. \(Pest county\)
+- [AI Engineer \(AWS\) \(all genders\)](https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-debrecen-3040109) — Adesso business consulting Kft\. \(Pest county, Debrecen\)
+- [Cloud Data Engineer](https://www.profession.hu/allas/cloud-data-engineer-yettel-hungary-ltd-torokbalint-3040114) — Yettel Hungary Ltd\. \(Pest county, Törökbálint\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
