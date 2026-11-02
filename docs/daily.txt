@@ -1,12 +1,11 @@
-**Hungary data jobs — 2026-11-01**
-⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **70** · New: **2** · No longer observed: **0**
-Junior/internship: **3** · Hybrid/remote: **33**
-Role mix: data\-science\-ml: 30, data\-engineering: 23, analyst\-bi: 15, quant\-risk: 2
+**Hungary data jobs — 2026-11-02**
+Observed: **70** · New: **2** · No longer observed: **2**
+Junior/internship: **3** · Hybrid/remote: **34**
+Role mix: data\-science\-ml: 29, data\-engineering: 25, analyst\-bi: 14, quant\-risk: 2
 
 **Noteworthy new listings**
-- [AI Engineer \(AWS\) \(all genders\)](https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-debrecen-3040109) — Adesso business consulting Kft\. \(Pest county, Debrecen\)
-- [Cloud Data Engineer](https://www.profession.hu/allas/cloud-data-engineer-yettel-hungary-ltd-torokbalint-3040114) — Yettel Hungary Ltd\. \(Pest county, Törökbálint\)
+- [German Speaking Senior Data Engineer \(REF5815N\)](https://www.profession.hu/allas/german-speaking-senior-data-engineer-ref-n-deutsche-telekom-tsi-hungary-kft-szeged-3040206) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Szeged\)
+- [Microsoft Fabric Data Engineer](https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3040177) — Accenture Korlátolt Felelősségű Társaság \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._

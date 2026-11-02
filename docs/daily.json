@@ -1,27 +1,25 @@
 {
-  "report_date": "2026-11-01",
-  "updated_at": "2026-11-01 08:42 CET",
-  "status": "degraded",
+  "report_date": "2026-11-02",
+  "updated_at": "2026-11-02 06:48 CET",
+  "status": "success",
   "active_total": 70,
   "new_total": 2,
-  "expired_total": 0,
-  "completed_queries": 10,
+  "expired_total": 2,
+  "completed_queries": 11,
   "expected_queries": 11,
-  "failed_searches": [
-    "data engineer"
-  ],
+  "failed_searches": [],
   "junior_total": 3,
-  "hybrid_remote_total": 33,
+  "hybrid_remote_total": 34,
   "role_families": {
-    "data-science-ml": 30,
-    "data-engineering": 23,
-    "analyst-bi": 15,
+    "data-science-ml": 29,
+    "data-engineering": 25,
+    "analyst-bi": 14,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      29
+      28
     ],
     [
       "Pest county, Budapest",
@@ -29,7 +27,7 @@
     ],
     [
       "Pest county, Szeged",
-      7
+      8
     ],
     [
       "Pest county, Törökbálint",
@@ -63,31 +61,31 @@
   "top_skills": [
     [
       "English",
-      63
+      64
     ],
     [
       "Python",
-      43
+      44
     ],
     [
       "SQL",
-      27
+      29
     ],
     [
       "Azure",
-      26
+      28
     ],
     [
       "AWS",
-      23
+      24
     ],
     [
       "Machine learning",
-      17
+      16
     ],
     [
       "Spark",
-      14
+      15
     ],
     [
       "Docker",
@@ -95,7 +93,7 @@
     ],
     [
       "Power BI",
-      8
+      9
     ],
     [
       "GCP",
@@ -112,22 +110,22 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3040109",
-      "title": "AI Engineer (AWS) (all genders)",
-      "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-debrecen-3040109",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Debrecen"
+      "job_id": "3040206",
+      "title": "German Speaking Senior Data Engineer (REF5815N)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/german-speaking-senior-data-engineer-ref-n-deutsche-telekom-tsi-hungary-kft-szeged-3040206",
+      "family": "data-engineering",
+      "work_mode": "",
+      "location": "Pest county, Szeged"
     },
     {
-      "job_id": "3040114",
-      "title": "Cloud Data Engineer",
-      "company": "Yettel Hungary Ltd.",
-      "url": "https://www.profession.hu/allas/cloud-data-engineer-yettel-hungary-ltd-torokbalint-3040114",
+      "job_id": "3040177",
+      "title": "Microsoft Fabric Data Engineer",
+      "company": "Accenture Korlátolt Felelősségű Társaság",
+      "url": "https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3040177",
       "family": "data-engineering",
       "work_mode": "Hibrid",
-      "location": "Pest county, Törökbálint"
+      "location": "Pest county"
     }
   ],
   "active_jobs": [
@@ -422,10 +420,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3016214",
+      "job_id": "3040206",
       "title": "German Speaking Senior Data Engineer (REF5815N)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/german-speaking-senior-data-engineer-ref-n-deutsche-telekom-tsi-hungary-kft-szeged-3016214",
+      "url": "https://www.profession.hu/allas/german-speaking-senior-data-engineer-ref-n-deutsche-telekom-tsi-hungary-kft-szeged-3040206",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
@@ -532,10 +530,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3016145",
+      "job_id": "3040177",
       "title": "Microsoft Fabric Data Engineer",
       "company": "Accenture Korlátolt Felelősségű Társaság",
-      "url": "https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3016145",
+      "url": "https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3040177",
       "family": "data-engineering",
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
@@ -782,6 +780,26 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3016214",
+      "title": "German Speaking Senior Data Engineer (REF5815N)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/german-speaking-senior-data-engineer-ref-n-deutsche-telekom-tsi-hungary-kft-szeged-3016214",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county, Szeged"
+    },
+    {
+      "job_id": "3016145",
+      "title": "Microsoft Fabric Data Engineer",
+      "company": "Accenture Korlátolt Felelősségű Társaság",
+      "url": "https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3016145",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "5-10 years experience",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3015265",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
@@ -810,36 +828,9 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "3021138",
-      "title": "Adatelemző",
-      "company": "Trenecon Kft.",
-      "url": "https://www.profession.hu/allas/adatelemzo-trenecon-kft-3021138",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "5-10 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3014081",
-      "title": "Machine Learning Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-3014081",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "1-3 years experience",
-      "location": "Pest county"
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-10-06T18:14:57.046979+00:00",
-      "status": "degraded",
-      "active_count": 98,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-10-06T18:34:09.885391+00:00",
       "status": "degraded",
@@ -1042,6 +1033,13 @@
       "active_count": 70,
       "new_count": 2,
       "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-02T05:48:17.877690+00:00",
+      "status": "success",
+      "active_count": 70,
+      "new_count": 2,
+      "expired_count": 2
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
