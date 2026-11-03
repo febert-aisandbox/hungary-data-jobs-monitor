@@ -1,29 +1,31 @@
 {
-  "report_date": "2026-11-02",
-  "updated_at": "2026-11-02 06:48 CET",
-  "status": "success",
-  "active_total": 70,
-  "new_total": 2,
-  "expired_total": 2,
-  "completed_queries": 11,
+  "report_date": "2026-11-03",
+  "updated_at": "2026-11-03 06:39 CET",
+  "status": "degraded",
+  "active_total": 73,
+  "new_total": 3,
+  "expired_total": 0,
+  "completed_queries": 10,
   "expected_queries": 11,
-  "failed_searches": [],
+  "failed_searches": [
+    "quantitative analyst"
+  ],
   "junior_total": 3,
   "hybrid_remote_total": 34,
   "role_families": {
     "data-science-ml": 29,
-    "data-engineering": 25,
-    "analyst-bi": 14,
+    "data-engineering": 26,
+    "analyst-bi": 16,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      28
+      29
     ],
     [
       "Pest county, Budapest",
-      19
+      20
     ],
     [
       "Pest county, Szeged",
@@ -61,15 +63,15 @@
   "top_skills": [
     [
       "English",
-      64
+      66
     ],
     [
       "Python",
-      44
+      46
     ],
     [
       "SQL",
-      29
+      31
     ],
     [
       "Azure",
@@ -88,11 +90,11 @@
       15
     ],
     [
-      "Docker",
-      9
+      "Power BI",
+      11
     ],
     [
-      "Power BI",
+      "Docker",
       9
     ],
     [
@@ -100,32 +102,41 @@
       3
     ],
     [
-      "Excel",
-      2
+      "Tableau",
+      3
     ],
     [
-      "Tableau",
+      "Excel",
       2
     ]
   ],
   "new_jobs": [
     {
-      "job_id": "3040206",
-      "title": "German Speaking Senior Data Engineer (REF5815N)",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/german-speaking-senior-data-engineer-ref-n-deutsche-telekom-tsi-hungary-kft-szeged-3040206",
+      "job_id": "3041824",
+      "title": "Data Engineer",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-opswat-kft-3041824",
       "family": "data-engineering",
       "work_mode": "",
-      "location": "Pest county, Szeged"
+      "location": "Pest county"
     },
     {
-      "job_id": "3040177",
-      "title": "Microsoft Fabric Data Engineer",
-      "company": "Accenture Korlátolt Felelősségű Társaság",
-      "url": "https://www.profession.hu/allas/microsoft-fabric-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3040177",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
+      "job_id": "3040657",
+      "title": "Marketing adatelemző",
+      "company": "Visit Hungary Nonprofit Zrt.",
+      "url": "https://www.profession.hu/allas/marketing-adatelemzo-visit-hungary-nonprofit-zrt-budapest-3040657",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3040615",
+      "title": "Ügyfélkapcsolati Adatelemző szakértő",
+      "company": "OPTESZ OPUS Zrt.",
+      "url": "https://www.profession.hu/allas/ugyfelkapcsolati-adatelemzo-szakerto-optesz-opus-zrt-3040615",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Hajdú-Bihar county"
     }
   ],
   "active_jobs": [
@@ -270,16 +281,6 @@
       "location": "Pest county, Törökbálint"
     },
     {
-      "job_id": "3017406",
-      "title": "Data Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-opswat-kft-3017406",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3029892",
       "title": "Data Engineer",
       "company": "MSCI Kft.",
@@ -298,6 +299,16 @@
       "work_mode": "Távmunka",
       "seniority": "5-10 years experience",
       "location": "Heves county, Maklár"
+    },
+    {
+      "job_id": "3041824",
+      "title": "Data Engineer",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-opswat-kft-3041824",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "3034940",
@@ -488,6 +499,16 @@
       "work_mode": "",
       "seniority": "5-10 years experience",
       "location": "Heves county, Visonta"
+    },
+    {
+      "job_id": "3040657",
+      "title": "Marketing adatelemző",
+      "company": "Visit Hungary Nonprofit Zrt.",
+      "url": "https://www.profession.hu/allas/marketing-adatelemzo-visit-hungary-nonprofit-zrt-budapest-3040657",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3026613",
@@ -780,6 +801,26 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3040615",
+      "title": "Ügyfélkapcsolati Adatelemző szakértő",
+      "company": "OPTESZ OPUS Zrt.",
+      "url": "https://www.profession.hu/allas/ugyfelkapcsolati-adatelemzo-szakerto-optesz-opus-zrt-3040615",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3017406",
+      "title": "Data Engineer",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-opswat-kft-3017406",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3016214",
       "title": "German Speaking Senior Data Engineer (REF5815N)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
@@ -831,13 +872,6 @@
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-10-06T18:34:09.885391+00:00",
-      "status": "degraded",
-      "active_count": 98,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-10-06T18:53:21.258931+00:00",
       "status": "degraded",
@@ -1040,6 +1074,13 @@
       "active_count": 70,
       "new_count": 2,
       "expired_count": 2
+    },
+    {
+      "completed_at": "2026-11-03T05:39:09.134159+00:00",
+      "status": "degraded",
+      "active_count": 73,
+      "new_count": 3,
+      "expired_count": 0
     }
   ],
   "site_url": "https://febert-aisandbox.github.io/hungary-data-jobs-monitor/",
