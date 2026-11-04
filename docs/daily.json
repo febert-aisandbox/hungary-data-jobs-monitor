@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-03",
-  "updated_at": "2026-11-03 06:39 CET",
+  "report_date": "2026-11-04",
+  "updated_at": "2026-11-04 06:45 CET",
   "status": "degraded",
-  "active_total": 73,
-  "new_total": 3,
+  "active_total": 74,
+  "new_total": 1,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -15,13 +15,13 @@
   "role_families": {
     "data-science-ml": 29,
     "data-engineering": 26,
-    "analyst-bi": 16,
+    "analyst-bi": 17,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      29
+      30
     ],
     [
       "Pest county, Budapest",
@@ -63,31 +63,31 @@
   "top_skills": [
     [
       "English",
-      66
+      67
     ],
     [
       "Python",
-      46
+      49
     ],
     [
       "SQL",
-      31
+      34
     ],
     [
       "Azure",
-      28
+      29
     ],
     [
       "AWS",
-      24
+      26
     ],
     [
       "Machine learning",
-      16
+      17
     ],
     [
       "Spark",
-      15
+      17
     ],
     [
       "Power BI",
@@ -106,37 +106,19 @@
       3
     ],
     [
-      "Excel",
+      "Statistics",
       2
     ]
   ],
   "new_jobs": [
     {
-      "job_id": "3041824",
-      "title": "Data Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-opswat-kft-3041824",
-      "family": "data-engineering",
+      "job_id": "3042896",
+      "title": "Material Master Data Analyst II",
+      "company": "Thermo Services (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/material-master-data-analyst-ii-thermo-services-hungary-kft-3042896",
+      "family": "analyst-bi",
       "work_mode": "",
       "location": "Pest county"
-    },
-    {
-      "job_id": "3040657",
-      "title": "Marketing adatelemző",
-      "company": "Visit Hungary Nonprofit Zrt.",
-      "url": "https://www.profession.hu/allas/marketing-adatelemzo-visit-hungary-nonprofit-zrt-budapest-3040657",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "3040615",
-      "title": "Ügyfélkapcsolati Adatelemző szakértő",
-      "company": "OPTESZ OPUS Zrt.",
-      "url": "https://www.profession.hu/allas/ugyfelkapcsolati-adatelemzo-szakerto-optesz-opus-zrt-3040615",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Hajdú-Bihar county"
     }
   ],
   "active_jobs": [
@@ -147,7 +129,7 @@
       "url": "https://www.profession.hu/allas/ai-engineer-yettel-hungary-ltd-torokbalint-3034408",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
-      "seniority": "1-3 years experience",
+      "seniority": "professional experience is not required",
       "location": "Pest county, Törökbálint"
     },
     {
@@ -301,16 +283,6 @@
       "location": "Heves county, Maklár"
     },
     {
-      "job_id": "3041824",
-      "title": "Data Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-opswat-kft-3041824",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3034940",
       "title": "Data Engineer (REF5482T)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
@@ -421,16 +393,6 @@
       "location": "Pest county, Szeged"
     },
     {
-      "job_id": "3034378",
-      "title": "GBS Data Analytics Analyst",
-      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3034378",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3040206",
       "title": "German Speaking Senior Data Engineer (REF5815N)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
@@ -471,26 +433,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3040020",
-      "title": "Machine Learning Engineer",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-3040020",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "1-3 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3021220",
-      "title": "Machine Learning Team Leader",
-      "company": "OPSWAT Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-team-leader-opswat-kft-3021220",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3023319",
       "title": "Market and Business Intelligence Manager",
       "company": "KALL Ingredients Kft.",
@@ -509,6 +451,16 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3042896",
+      "title": "Material Master Data Analyst II",
+      "company": "Thermo Services (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/material-master-data-analyst-ii-thermo-services-hungary-kft-3042896",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "3026613",
@@ -811,6 +763,46 @@
       "location": "Hajdú-Bihar county"
     },
     {
+      "job_id": "3041824",
+      "title": "Data Engineer",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-opswat-kft-3041824",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3034378",
+      "title": "GBS Data Analytics Analyst",
+      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3034378",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3040020",
+      "title": "Machine Learning Engineer",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-engineer-opswat-kft-3040020",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3021220",
+      "title": "Machine Learning Team Leader",
+      "company": "OPSWAT Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-team-leader-opswat-kft-3021220",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3017406",
       "title": "Data Engineer",
       "company": "OPSWAT Kft.",
@@ -872,13 +864,6 @@
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-10-06T18:53:21.258931+00:00",
-      "status": "degraded",
-      "active_count": 98,
-      "new_count": 0,
-      "expired_count": 0
-    },
     {
       "completed_at": "2026-10-06T19:12:35.278321+00:00",
       "status": "degraded",
@@ -1080,6 +1065,13 @@
       "status": "degraded",
       "active_count": 73,
       "new_count": 3,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-04T05:45:08.445352+00:00",
+      "status": "degraded",
+      "active_count": 74,
+      "new_count": 1,
       "expired_count": 0
     }
   ],

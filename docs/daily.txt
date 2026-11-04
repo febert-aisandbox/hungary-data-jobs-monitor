@@ -1,13 +1,11 @@
-**Hungary data jobs — 2026-11-03**
+**Hungary data jobs — 2026-11-04**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **73** · New: **3** · No longer observed: **0**
+Observed: **74** · New: **1** · No longer observed: **0**
 Junior/internship: **3** · Hybrid/remote: **34**
-Role mix: data\-science\-ml: 29, data\-engineering: 26, analyst\-bi: 16, quant\-risk: 2
+Role mix: data\-science\-ml: 29, data\-engineering: 26, analyst\-bi: 17, quant\-risk: 2
 
 **Noteworthy new listings**
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-opswat-kft-3041824) — OPSWAT Kft\. \(Pest county\)
-- [Marketing adatelemző](https://www.profession.hu/allas/marketing-adatelemzo-visit-hungary-nonprofit-zrt-budapest-3040657) — Visit Hungary Nonprofit Zrt\. \(Pest county, Budapest\)
-- [Ügyfélkapcsolati Adatelemző szakértő](https://www.profession.hu/allas/ugyfelkapcsolati-adatelemzo-szakerto-optesz-opus-zrt-3040615) — OPTESZ OPUS Zrt\. \(Hajdú\-Bihar county\)
+- [Material Master Data Analyst II](https://www.profession.hu/allas/material-master-data-analyst-ii-thermo-services-hungary-kft-3042896) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
