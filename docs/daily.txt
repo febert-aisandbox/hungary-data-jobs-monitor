@@ -1,14 +1,8 @@
-**Hungary data jobs — 2026-11-05**
+**Hungary data jobs — 2026-11-06**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **78** · New: **4** · No longer observed: **0**
+Observed: **78** · New: **0** · No longer observed: **0**
 Junior/internship: **3** · Hybrid/remote: **37**
 Role mix: data\-science\-ml: 31, data\-engineering: 28, analyst\-bi: 17, quant\-risk: 2
-
-**Noteworthy new listings**
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-magyar-telekom-nyrt-budapest-3043724) — Magyar Telekom Nyrt\. \(Pest county, Budapest\)
-- [Expert AI Engineer \(REF5708U\)](https://www.profession.hu/allas/expert-ai-engineer-ref-u-deutsche-telekom-tsi-hungary-kft-pecs-3043758) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Pécs\)
-- [Geospatial Data Engineer](https://www.profession.hu/allas/geospatial-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3043701) — Accenture Korlátolt Felelősségű Társaság \(Pest county\)
-- [Senior Machine Learning Engineer, Learner Modeling](https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3028754) — Instructure Hungary Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
