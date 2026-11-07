@@ -1,8 +1,13 @@
-**Hungary data jobs — 2026-11-06**
+**Hungary data jobs — 2026-11-07**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **78** · New: **0** · No longer observed: **0**
-Junior/internship: **3** · Hybrid/remote: **37**
-Role mix: data\-science\-ml: 31, data\-engineering: 28, analyst\-bi: 17, quant\-risk: 2
+Observed: **81** · New: **3** · No longer observed: **0**
+Junior/internship: **4** · Hybrid/remote: **38**
+Role mix: data\-science\-ml: 33, data\-engineering: 29, analyst\-bi: 17, quant\-risk: 2
+
+**Noteworthy new listings**
+- [AI Engineer](https://www.profession.hu/allas/ai-engineer-gammaorg-zrt-szeged-3045589) — GAMMAORG Zrt\. \(Pest county, Szeged\)
+- [Developer Data Engineer](https://www.profession.hu/allas/developer-data-engineer-magyar-telekom-nyrt-3045583) — Magyar Telekom Nyrt\. \(Pest county\)
+- [Senior Machine Learning Engineer](https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-3045558) — greeHill Europe Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
