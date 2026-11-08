@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-07",
-  "updated_at": "2026-11-07 06:47 CET",
+  "report_date": "2026-11-08",
+  "updated_at": "2026-11-08 06:38 CET",
   "status": "degraded",
   "active_total": 81,
-  "new_total": 3,
+  "new_total": 0,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -28,11 +28,11 @@
       21
     ],
     [
-      "Pest county, Pécs",
-      7
+      "Pest county, Törökbálint",
+      6
     ],
     [
-      "Pest county, Törökbálint",
+      "Pest county, Pécs",
       6
     ],
     [
@@ -42,6 +42,10 @@
     [
       "Pest county, Budaörs",
       2
+    ],
+    [
+      "Pest county, Győr",
+      1
     ],
     [
       "Csongrád-Csanád county, Szeged",
@@ -54,24 +58,20 @@
     [
       "Unspecified",
       1
-    ],
-    [
-      "Heves county, Visonta",
-      1
     ]
   ],
   "top_skills": [
     [
       "English",
-      74
+      75
     ],
     [
       "Python",
-      53
+      54
     ],
     [
       "SQL",
-      35
+      36
     ],
     [
       "Azure",
@@ -79,7 +79,7 @@
     ],
     [
       "AWS",
-      24
+      25
     ],
     [
       "Machine learning",
@@ -110,35 +110,7 @@
       2
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "3045589",
-      "title": "AI Engineer",
-      "company": "GAMMAORG Zrt.",
-      "url": "https://www.profession.hu/allas/ai-engineer-gammaorg-zrt-szeged-3045589",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county, Szeged"
-    },
-    {
-      "job_id": "3045583",
-      "title": "Developer Data Engineer",
-      "company": "Magyar Telekom Nyrt.",
-      "url": "https://www.profession.hu/allas/developer-data-engineer-magyar-telekom-nyrt-3045583",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3045558",
-      "title": "Senior Machine Learning Engineer",
-      "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-greehill-europe-kft-3045558",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "3045589",
@@ -154,11 +126,11 @@
       "job_id": "3040109",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-pecs-3040109",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-3040109",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Győr"
     },
     {
       "job_id": "3025911",
@@ -219,6 +191,16 @@
       "work_mode": "",
       "seniority": "5-10 years experience",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3032558",
+      "title": "Big Data Engineer",
+      "company": "Pont Systems Zrt.",
+      "url": "https://www.profession.hu/allas/big-data-engineer-pont-systems-zrt-3032558",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "3025881",
@@ -329,6 +311,16 @@
       "work_mode": "Távmunka",
       "seniority": "professional experience is not required",
       "location": "Unspecified"
+    },
+    {
+      "job_id": "3032613",
+      "title": "Data engineer",
+      "company": "Kontron Hungary Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3032613",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Budaörs"
     },
     {
       "job_id": "3045583",
@@ -701,16 +693,6 @@
       "location": "Hajdú-Bihar county"
     },
     {
-      "job_id": "3032613",
-      "title": "Data engineer",
-      "company": "Kontron Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3032613",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Budaörs"
-    },
-    {
       "job_id": "3021200",
       "title": "Lead ML Engineer",
       "company": "greeHill Europe Kft.",
@@ -819,16 +801,6 @@
       "work_mode": "Hibrid",
       "seniority": "professional experience is not required",
       "location": "Pest county, Törökbálint"
-    },
-    {
-      "job_id": "3032558",
-      "title": "Big Data Engineer",
-      "company": "Pont Systems Zrt.",
-      "url": "https://www.profession.hu/allas/big-data-engineer-pont-systems-zrt-3032558",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
     },
     {
       "job_id": "3034958",
@@ -952,13 +924,6 @@
     }
   ],
   "history": [
-    {
-      "completed_at": "2026-10-09T04:40:29.753479+00:00",
-      "status": "success",
-      "active_count": 69,
-      "new_count": 3,
-      "expired_count": 34
-    },
     {
       "completed_at": "2026-10-10T04:46:28.275913+00:00",
       "status": "success",
@@ -1160,6 +1125,13 @@
       "status": "degraded",
       "active_count": 81,
       "new_count": 3,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-08T05:38:15.334303+00:00",
+      "status": "degraded",
+      "active_count": 81,
+      "new_count": 0,
       "expired_count": 0
     }
   ],
