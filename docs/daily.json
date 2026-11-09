@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-08",
-  "updated_at": "2026-11-08 06:38 CET",
+  "report_date": "2026-11-09",
+  "updated_at": "2026-11-09 06:43 CET",
   "status": "degraded",
-  "active_total": 81,
-  "new_total": 0,
+  "active_total": 82,
+  "new_total": 1,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -11,9 +11,9 @@
     "quantitative analyst"
   ],
   "junior_total": 4,
-  "hybrid_remote_total": 38,
+  "hybrid_remote_total": 39,
   "role_families": {
-    "data-science-ml": 33,
+    "data-science-ml": 34,
     "data-engineering": 29,
     "analyst-bi": 17,
     "quant-risk": 2
@@ -29,7 +29,7 @@
     ],
     [
       "Pest county, Törökbálint",
-      6
+      7
     ],
     [
       "Pest county, Pécs",
@@ -63,15 +63,15 @@
   "top_skills": [
     [
       "English",
-      75
+      76
     ],
     [
       "Python",
-      54
+      55
     ],
     [
       "SQL",
-      36
+      37
     ],
     [
       "Azure",
@@ -79,11 +79,11 @@
     ],
     [
       "AWS",
-      25
+      24
     ],
     [
       "Machine learning",
-      20
+      21
     ],
     [
       "Spark",
@@ -110,7 +110,17 @@
       2
     ]
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "3045775",
+      "title": "Data Scientist Expert",
+      "company": "Yettel Hungary Ltd.",
+      "url": "https://www.profession.hu/allas/data-scientist-expert-yettel-hungary-ltd-torokbalint-3045775",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "location": "Pest county, Törökbálint"
+    }
+  ],
   "active_jobs": [
     {
       "job_id": "3045589",
@@ -293,10 +303,10 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3022160",
+      "job_id": "3045775",
       "title": "Data Scientist Expert",
       "company": "Yettel Hungary Ltd.",
-      "url": "https://www.profession.hu/allas/data-scientist-expert-yettel-hungary-ltd-torokbalint-3022160",
+      "url": "https://www.profession.hu/allas/data-scientist-expert-yettel-hungary-ltd-torokbalint-3045775",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "1-3 years experience",
@@ -383,16 +393,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3023319",
-      "title": "Market and Business Intelligence Manager",
-      "company": "KALL Ingredients Kft.",
-      "url": "https://www.profession.hu/allas/market-and-business-intelligence-manager-kall-ingredients-kft-visonta-3023319",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "5-10 years experience",
-      "location": "Heves county, Visonta"
-    },
-    {
       "job_id": "3040657",
       "title": "Marketing adatelemző",
       "company": "Visit Hungary Nonprofit Zrt.",
@@ -461,16 +461,6 @@
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
       "location": "Pest county"
-    },
-    {
-      "job_id": "3022805",
-      "title": "People Analytics Specialist/HR Data Analyst",
-      "company": "WILO Magyarország Kft",
-      "url": "https://www.profession.hu/allas/people-analytics-specialist-hr-data-analyst-wilo-magyarorszag-kft-torokbalint-3022805",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Törökbálint"
     },
     {
       "job_id": "3039520",
@@ -691,6 +681,36 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3022160",
+      "title": "Data Scientist Expert",
+      "company": "Yettel Hungary Ltd.",
+      "url": "https://www.profession.hu/allas/data-scientist-expert-yettel-hungary-ltd-torokbalint-3022160",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Pest county, Törökbálint"
+    },
+    {
+      "job_id": "3023319",
+      "title": "Market and Business Intelligence Manager",
+      "company": "KALL Ingredients Kft.",
+      "url": "https://www.profession.hu/allas/market-and-business-intelligence-manager-kall-ingredients-kft-visonta-3023319",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "5-10 years experience",
+      "location": "Heves county, Visonta"
+    },
+    {
+      "job_id": "3022805",
+      "title": "People Analytics Specialist/HR Data Analyst",
+      "company": "WILO Magyarország Kft",
+      "url": "https://www.profession.hu/allas/people-analytics-specialist-hr-data-analyst-wilo-magyarorszag-kft-torokbalint-3022805",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Törökbálint"
     },
     {
       "job_id": "3021200",
@@ -925,13 +945,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-10T04:46:28.275913+00:00",
-      "status": "success",
-      "active_count": 76,
-      "new_count": 9,
-      "expired_count": 2
-    },
-    {
       "completed_at": "2026-10-11T04:37:29.104553+00:00",
       "status": "success",
       "active_count": 70,
@@ -1132,6 +1145,13 @@
       "status": "degraded",
       "active_count": 81,
       "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-09T05:43:53.416547+00:00",
+      "status": "degraded",
+      "active_count": 82,
+      "new_count": 1,
       "expired_count": 0
     }
   ],

@@ -1,8 +1,11 @@
-**Hungary data jobs — 2026-11-08**
+**Hungary data jobs — 2026-11-09**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **81** · New: **0** · No longer observed: **0**
-Junior/internship: **4** · Hybrid/remote: **38**
-Role mix: data\-science\-ml: 33, data\-engineering: 29, analyst\-bi: 17, quant\-risk: 2
+Observed: **82** · New: **1** · No longer observed: **0**
+Junior/internship: **4** · Hybrid/remote: **39**
+Role mix: data\-science\-ml: 34, data\-engineering: 29, analyst\-bi: 17, quant\-risk: 2
+
+**Noteworthy new listings**
+- [Data Scientist Expert](https://www.profession.hu/allas/data-scientist-expert-yettel-hungary-ltd-torokbalint-3045775) — Yettel Hungary Ltd\. \(Pest county, Törökbálint\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
