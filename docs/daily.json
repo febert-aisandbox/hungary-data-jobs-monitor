@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-09",
-  "updated_at": "2026-11-09 06:43 CET",
+  "report_date": "2026-11-10",
+  "updated_at": "2026-11-10 06:49 CET",
   "status": "degraded",
   "active_total": 82,
-  "new_total": 1,
+  "new_total": 0,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -79,7 +79,7 @@
     ],
     [
       "AWS",
-      24
+      25
     ],
     [
       "Machine learning",
@@ -110,17 +110,7 @@
       2
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "3045775",
-      "title": "Data Scientist Expert",
-      "company": "Yettel Hungary Ltd.",
-      "url": "https://www.profession.hu/allas/data-scientist-expert-yettel-hungary-ltd-torokbalint-3045775",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Törökbálint"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "3045589",
@@ -293,16 +283,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3023286",
-      "title": "Data Scientist (Medior)",
-      "company": "TRENDENCY ONLINE Zrt.",
-      "url": "https://www.profession.hu/allas/data-scientist-medior-trendency-online-zrt-budapest-3023286",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "3045775",
       "title": "Data Scientist Expert",
       "company": "Yettel Hungary Ltd.",
@@ -380,16 +360,6 @@
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
-    },
-    {
-      "job_id": "3037783",
-      "title": "Junior Controlling Data Analyst",
-      "company": "Media Markt Magyarország Kft.",
-      "url": "https://www.profession.hu/allas/junior-controlling-data-analyst-media-markt-magyarorszag-kft-budapest-3037783",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "junior",
       "location": "Pest county, Budapest"
     },
     {
@@ -583,16 +553,6 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3023269",
-      "title": "Senior Data Scientist",
-      "company": "TRENDENCY ONLINE Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-scientist-trendency-online-zrt-budapest-3023269",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "3030043",
       "title": "Senior Data Scientist",
       "company": "Yettel Hungary Ltd.",
@@ -681,6 +641,36 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3023286",
+      "title": "Data Scientist (Medior)",
+      "company": "TRENDENCY ONLINE Zrt.",
+      "url": "https://www.profession.hu/allas/data-scientist-medior-trendency-online-zrt-budapest-3023286",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3037783",
+      "title": "Junior Controlling Data Analyst",
+      "company": "Media Markt Magyarország Kft.",
+      "url": "https://www.profession.hu/allas/junior-controlling-data-analyst-media-markt-magyarorszag-kft-budapest-3037783",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3023269",
+      "title": "Senior Data Scientist",
+      "company": "TRENDENCY ONLINE Zrt.",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-trendency-online-zrt-budapest-3023269",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3022160",
@@ -945,13 +935,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-11T04:37:29.104553+00:00",
-      "status": "success",
-      "active_count": 70,
-      "new_count": 4,
-      "expired_count": 10
-    },
-    {
       "completed_at": "2026-10-12T04:43:12.738371+00:00",
       "status": "success",
       "active_count": 70,
@@ -1152,6 +1135,13 @@
       "status": "degraded",
       "active_count": 82,
       "new_count": 1,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-10T05:49:22.292177+00:00",
+      "status": "degraded",
+      "active_count": 82,
+      "new_count": 0,
       "expired_count": 0
     }
   ],
