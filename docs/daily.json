@@ -1,27 +1,27 @@
 {
-  "report_date": "2026-11-10",
-  "updated_at": "2026-11-10 06:49 CET",
+  "report_date": "2026-11-11",
+  "updated_at": "2026-11-11 06:40 CET",
   "status": "degraded",
-  "active_total": 82,
-  "new_total": 0,
+  "active_total": 90,
+  "new_total": 8,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
   "failed_searches": [
     "quantitative analyst"
   ],
-  "junior_total": 4,
-  "hybrid_remote_total": 39,
+  "junior_total": 9,
+  "hybrid_remote_total": 41,
   "role_families": {
-    "data-science-ml": 34,
-    "data-engineering": 29,
-    "analyst-bi": 17,
+    "data-science-ml": 35,
+    "data-engineering": 32,
+    "analyst-bi": 21,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      34
+      40
     ],
     [
       "Pest county, Budapest",
@@ -52,34 +52,34 @@
       1
     ],
     [
-      "Heves county, Maklár",
+      "Pest county, Dunaharaszti",
       1
     ],
     [
-      "Unspecified",
+      "Heves county, Maklár",
       1
     ]
   ],
   "top_skills": [
     [
       "English",
-      76
+      83
     ],
     [
       "Python",
-      55
+      57
     ],
     [
       "SQL",
-      37
+      39
     ],
     [
       "Azure",
-      29
+      33
     ],
     [
       "AWS",
-      25
+      27
     ],
     [
       "Machine learning",
@@ -87,15 +87,19 @@
     ],
     [
       "Spark",
-      18
+      20
     ],
     [
       "Docker",
-      13
+      15
     ],
     [
       "Power BI",
       12
+    ],
+    [
+      "Excel",
+      4
     ],
     [
       "GCP",
@@ -104,13 +108,82 @@
     [
       "Tableau",
       3
-    ],
-    [
-      "Statistics",
-      2
     ]
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "3048173",
+      "title": "Accounts Payable Senior Vendor Master Data Analyst",
+      "company": "Thermo Services (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-3048173",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3047306",
+      "title": "Adatelemző és tervezéstámogató gyakornok - Pest - Diákmunka",
+      "company": "PannonDiák Iskolaszövetkezet",
+      "url": "https://www.profession.hu/allas/adatelemzo-es-tervezestamogato-gyakornok-pest-diakmunka-pannondiak-iskolaszovetkezet-dunaharaszti-3047306",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "location": "Pest county, Dunaharaszti"
+    },
+    {
+      "job_id": "3047523",
+      "title": "Data Analyst Intern - diákmunka",
+      "company": "Mind-Diák Szövetkezet",
+      "url": "https://www.profession.hu/allas/data-analyst-intern-diakmunka-mind-diak-szovetkezet-3047523",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3048049",
+      "title": "Data Scientist",
+      "company": "McKinsey Magyarországi Fióktelepe",
+      "url": "https://www.profession.hu/allas/data-scientist-mckinsey-magyarorszagi-fioktelepe-3048049",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3048087",
+      "title": "Junior adatelemző/ folyamatelemző",
+      "company": "Vialto Partners Hungary Kft.",
+      "url": "https://www.profession.hu/allas/junior-adatelemzo-folyamatelemzo-vialto-partners-hungary-kft-3048087",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3048161",
+      "title": "Medior Data Engineer",
+      "company": "NIX Tech Kft.",
+      "url": "https://www.profession.hu/allas/medior-data-engineer-nix-tech-kft-3048161",
+      "family": "data-engineering",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3048134",
+      "title": "SENIOR DATA ENGINEER",
+      "company": "Gentherm Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-gentherm-hungary-kft-pilisszentivan-3048134",
+      "family": "data-engineering",
+      "work_mode": "",
+      "location": "Pest county, Pilisszentiván"
+    },
+    {
+      "job_id": "3048148",
+      "title": "Senior Data Engineer",
+      "company": "NIX Tech Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-nix-tech-kft-3048148",
+      "family": "data-engineering",
+      "work_mode": "",
+      "location": "Pest county"
+    }
+  ],
   "active_jobs": [
     {
       "job_id": "3045589",
@@ -129,7 +202,7 @@
       "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-3040109",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
+      "seniority": "5-10 years experience",
       "location": "Pest county, Győr"
     },
     {
@@ -173,10 +246,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3024230",
+      "job_id": "3048173",
       "title": "Accounts Payable Senior Vendor Master Data Analyst",
       "company": "Thermo Services (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-3024230",
+      "url": "https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-3048173",
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "junior",
@@ -191,6 +264,16 @@
       "work_mode": "",
       "seniority": "5-10 years experience",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3047306",
+      "title": "Adatelemző és tervezéstámogató gyakornok - Pest - Diákmunka",
+      "company": "PannonDiák Iskolaszövetkezet",
+      "url": "https://www.profession.hu/allas/adatelemzo-es-tervezestamogato-gyakornok-pest-diakmunka-pannondiak-iskolaszovetkezet-dunaharaszti-3047306",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
+      "location": "Pest county, Dunaharaszti"
     },
     {
       "job_id": "3032558",
@@ -209,7 +292,7 @@
       "url": "https://www.profession.hu/allas/business-intelligence-bi-analyst-cushman-wakefield-kft-3025881",
       "family": "analyst-bi",
       "work_mode": "",
-      "seniority": "1-3 years experience",
+      "seniority": "professional experience is not required",
       "location": "Pest county"
     },
     {
@@ -241,6 +324,16 @@
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Pest county, Törökbálint"
+    },
+    {
+      "job_id": "3047523",
+      "title": "Data Analyst Intern - diákmunka",
+      "company": "Mind-Diák Szövetkezet",
+      "url": "https://www.profession.hu/allas/data-analyst-intern-diakmunka-mind-diak-szovetkezet-3047523",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
     },
     {
       "job_id": "3029892",
@@ -280,6 +373,16 @@
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "1-3 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3048049",
+      "title": "Data Scientist",
+      "company": "McKinsey Magyarországi Fióktelepe",
+      "url": "https://www.profession.hu/allas/data-scientist-mckinsey-magyarorszagi-fioktelepe-3048049",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
       "location": "Pest county"
     },
     {
@@ -329,7 +432,7 @@
       "url": "https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-3027031",
       "family": "quant-risk",
       "work_mode": "Hibrid",
-      "seniority": "5-10 years experience",
+      "seniority": ">10 years experience",
       "location": "Pest county"
     },
     {
@@ -363,6 +466,16 @@
       "location": "Pest county, Budapest"
     },
     {
+      "job_id": "3048087",
+      "title": "Junior adatelemző/ folyamatelemző",
+      "company": "Vialto Partners Hungary Kft.",
+      "url": "https://www.profession.hu/allas/junior-adatelemzo-folyamatelemzo-vialto-partners-hungary-kft-3048087",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3040657",
       "title": "Marketing adatelemző",
       "company": "Visit Hungary Nonprofit Zrt.",
@@ -393,10 +506,10 @@
       "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3024210",
+      "job_id": "3048161",
       "title": "Medior Data Engineer",
       "company": "NIX Tech Kft.",
-      "url": "https://www.profession.hu/allas/medior-data-engineer-nix-tech-kft-3024210",
+      "url": "https://www.profession.hu/allas/medior-data-engineer-nix-tech-kft-3048161",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "1-3 years experience",
@@ -441,6 +554,16 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3048134",
+      "title": "SENIOR DATA ENGINEER",
+      "company": "Gentherm Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-gentherm-hungary-kft-pilisszentivan-3048134",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county, Pilisszentiván"
     },
     {
       "job_id": "3039944",
@@ -513,16 +636,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3024231",
-      "title": "Senior Data Engineer",
-      "company": "NIX Tech Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-nix-tech-kft-3024231",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3028888",
       "title": "Senior Data Engineer",
       "company": "Hiflylabs Zrt.",
@@ -531,6 +644,16 @@
       "work_mode": "",
       "seniority": "senior",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3048148",
+      "title": "Senior Data Engineer",
+      "company": "NIX Tech Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-nix-tech-kft-3048148",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "3034385",
@@ -641,6 +764,36 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3024230",
+      "title": "Accounts Payable Senior Vendor Master Data Analyst",
+      "company": "Thermo Services (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-3024230",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3024210",
+      "title": "Medior Data Engineer",
+      "company": "NIX Tech Kft.",
+      "url": "https://www.profession.hu/allas/medior-data-engineer-nix-tech-kft-3024210",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3024231",
+      "title": "Senior Data Engineer",
+      "company": "NIX Tech Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-nix-tech-kft-3024231",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "3023286",
@@ -935,13 +1088,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-12T04:43:12.738371+00:00",
-      "status": "success",
-      "active_count": 70,
-      "new_count": 3,
-      "expired_count": 3
-    },
-    {
       "completed_at": "2026-10-13T04:49:11.638619+00:00",
       "status": "success",
       "active_count": 69,
@@ -1142,6 +1288,13 @@
       "status": "degraded",
       "active_count": 82,
       "new_count": 0,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-11T05:40:02.411407+00:00",
+      "status": "degraded",
+      "active_count": 90,
+      "new_count": 8,
       "expired_count": 0
     }
   ],
