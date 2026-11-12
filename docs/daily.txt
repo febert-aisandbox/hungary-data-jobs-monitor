@@ -1,18 +1,8 @@
-**Hungary data jobs — 2026-11-11**
+**Hungary data jobs — 2026-11-12**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **90** · New: **8** · No longer observed: **0**
+Observed: **90** · New: **0** · No longer observed: **0**
 Junior/internship: **9** · Hybrid/remote: **41**
 Role mix: data\-science\-ml: 35, data\-engineering: 32, analyst\-bi: 21, quant\-risk: 2
-
-**Noteworthy new listings**
-- [Accounts Payable Senior Vendor Master Data Analyst](https://www.profession.hu/allas/accounts-payable-senior-vendor-master-data-analyst-thermo-services-hungary-kft-3048173) — Thermo Services \(Hungary\) Kft\. \(Pest county\)
-- [Adatelemző és tervezéstámogató gyakornok \- Pest \- Diákmunka](https://www.profession.hu/allas/adatelemzo-es-tervezestamogato-gyakornok-pest-diakmunka-pannondiak-iskolaszovetkezet-dunaharaszti-3047306) — PannonDiák Iskolaszövetkezet \(Pest county, Dunaharaszti\)
-- [Data Analyst Intern \- diákmunka](https://www.profession.hu/allas/data-analyst-intern-diakmunka-mind-diak-szovetkezet-3047523) — Mind\-Diák Szövetkezet \(Pest county\)
-- [Data Scientist](https://www.profession.hu/allas/data-scientist-mckinsey-magyarorszagi-fioktelepe-3048049) — McKinsey Magyarországi Fióktelepe \(Pest county\)
-- [Junior adatelemző/ folyamatelemző](https://www.profession.hu/allas/junior-adatelemzo-folyamatelemzo-vialto-partners-hungary-kft-3048087) — Vialto Partners Hungary Kft\. \(Pest county\)
-- [Medior Data Engineer](https://www.profession.hu/allas/medior-data-engineer-nix-tech-kft-3048161) — NIX Tech Kft\. \(Pest county\)
-- [SENIOR DATA ENGINEER](https://www.profession.hu/allas/senior-data-engineer-gentherm-hungary-kft-pilisszentivan-3048134) — Gentherm Hungary Kft\. \(Pest county, Pilisszentiván\)
-- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-nix-tech-kft-3048148) — NIX Tech Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
