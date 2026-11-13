@@ -1,8 +1,14 @@
-**Hungary data jobs — 2026-11-12**
+**Hungary data jobs — 2026-11-13**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **90** · New: **0** · No longer observed: **0**
-Junior/internship: **9** · Hybrid/remote: **41**
-Role mix: data\-science\-ml: 35, data\-engineering: 32, analyst\-bi: 21, quant\-risk: 2
+Observed: **94** · New: **4** · No longer observed: **0**
+Junior/internship: **11** · Hybrid/remote: **42**
+Role mix: data\-science\-ml: 37, data\-engineering: 33, analyst\-bi: 22, quant\-risk: 2
+
+**Noteworthy new listings**
+- [AI Engineer, R&D](https://www.profession.hu/allas/ai-engineer-r-d-druit-szolgaltato-zrt-3049850) — DruIT Szolgáltató Zrt\. \(Pest county\)
+- [Holland Nyelvű Gyógyszeripari Adatelemző](https://www.profession.hu/allas/holland-nyelvu-gyogyszeripari-adatelemzo-vision-recruitment-kft-3049580) — Vision Recruitment Kft\. \(Pest county\)
+- [Junior Data Engineer](https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-3049887) — NIX Tech Kft\. \(Pest county\)
+- [Senior Data Scientist with AI product mindset](https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-3049929) — Hiflylabs Zrt\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
