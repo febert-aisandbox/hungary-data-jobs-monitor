@@ -1,14 +1,16 @@
-**Hungary data jobs — 2026-11-13**
+**Hungary data jobs — 2026-11-14**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **94** · New: **4** · No longer observed: **0**
-Junior/internship: **11** · Hybrid/remote: **42**
-Role mix: data\-science\-ml: 37, data\-engineering: 33, analyst\-bi: 22, quant\-risk: 2
+Observed: **100** · New: **6** · No longer observed: **0**
+Junior/internship: **11** · Hybrid/remote: **44**
+Role mix: data\-science\-ml: 39, data\-engineering: 34, analyst\-bi: 25, quant\-risk: 2
 
 **Noteworthy new listings**
-- [AI Engineer, R&D](https://www.profession.hu/allas/ai-engineer-r-d-druit-szolgaltato-zrt-3049850) — DruIT Szolgáltató Zrt\. \(Pest county\)
-- [Holland Nyelvű Gyógyszeripari Adatelemző](https://www.profession.hu/allas/holland-nyelvu-gyogyszeripari-adatelemzo-vision-recruitment-kft-3049580) — Vision Recruitment Kft\. \(Pest county\)
-- [Junior Data Engineer](https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-3049887) — NIX Tech Kft\. \(Pest county\)
-- [Senior Data Scientist with AI product mindset](https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-3049929) — Hiflylabs Zrt\. \(Pest county\)
+- [AI/ML Engineer](https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-3050821) — SnapSoft Informatikai és Szolgáltató Kft\. \(Pest county\)
+- [Business Intelligence \(BI\) Analyst](https://www.profession.hu/allas/business-intelligence-bi-analyst-cushman-wakefield-kft-3050860) — Cushman & Wakefield Kft\. \(Pest county\)
+- [Data Analyst](https://www.profession.hu/allas/data-analyst-mckinsey-magyarorszagi-fioktelepe-3050813) — McKinsey Magyarországi Fióktelepe \(Pest county\)
+- [GCP Data Engineer](https://www.profession.hu/allas/gcp-data-engineer-beko-engineering-kft-3051044) — BEKO Engineering Kft\. \(Pest county\)
+- [HR adatelemző\(1089 Budapest, Orczy út 44\-46\.\)](https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-3050171) — BÁRDI AUTÓ ZRT\. \(Pest county, Budapest\)
+- [Senior AI Engineer](https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-3050797) — Diligent Governance Hungary Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._

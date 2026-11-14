@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-13",
-  "updated_at": "2026-11-13 06:36 CET",
+  "report_date": "2026-11-14",
+  "updated_at": "2026-11-14 06:41 CET",
   "status": "degraded",
-  "active_total": 94,
-  "new_total": 4,
+  "active_total": 100,
+  "new_total": 6,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -11,21 +11,21 @@
     "quantitative analyst"
   ],
   "junior_total": 11,
-  "hybrid_remote_total": 42,
+  "hybrid_remote_total": 44,
   "role_families": {
-    "data-science-ml": 37,
-    "data-engineering": 33,
-    "analyst-bi": 22,
+    "data-science-ml": 39,
+    "data-engineering": 34,
+    "analyst-bi": 25,
     "quant-risk": 2
   },
   "top_locations": [
     [
       "Pest county",
-      44
+      49
     ],
     [
       "Pest county, Budapest",
-      21
+      22
     ],
     [
       "Pest county, Törökbálint",
@@ -63,15 +63,15 @@
   "top_skills": [
     [
       "English",
-      87
+      92
     ],
     [
       "Python",
-      59
+      63
     ],
     [
       "SQL",
-      40
+      43
     ],
     [
       "Azure",
@@ -79,15 +79,15 @@
     ],
     [
       "AWS",
-      29
+      31
+    ],
+    [
+      "Machine learning",
+      22
     ],
     [
       "Spark",
       22
-    ],
-    [
-      "Machine learning",
-      21
     ],
     [
       "Docker",
@@ -95,7 +95,7 @@
     ],
     [
       "Power BI",
-      12
+      13
     ],
     [
       "Excel",
@@ -103,7 +103,7 @@
     ],
     [
       "GCP",
-      3
+      4
     ],
     [
       "Tableau",
@@ -112,39 +112,57 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3049850",
-      "title": "AI Engineer, R&D",
-      "company": "DruIT Szolgáltató Zrt.",
-      "url": "https://www.profession.hu/allas/ai-engineer-r-d-druit-szolgaltato-zrt-3049850",
+      "job_id": "3050821",
+      "title": "AI/ML Engineer",
+      "company": "SnapSoft Informatikai és Szolgáltató Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-3050821",
       "family": "data-science-ml",
       "work_mode": "",
       "location": "Pest county"
     },
     {
-      "job_id": "3049580",
-      "title": "Holland Nyelvű Gyógyszeripari Adatelemző",
-      "company": "Vision Recruitment Kft.",
-      "url": "https://www.profession.hu/allas/holland-nyelvu-gyogyszeripari-adatelemzo-vision-recruitment-kft-3049580",
+      "job_id": "3050860",
+      "title": "Business Intelligence (BI) Analyst",
+      "company": "Cushman & Wakefield Kft.",
+      "url": "https://www.profession.hu/allas/business-intelligence-bi-analyst-cushman-wakefield-kft-3050860",
       "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3050813",
+      "title": "Data Analyst",
+      "company": "McKinsey Magyarországi Fióktelepe",
+      "url": "https://www.profession.hu/allas/data-analyst-mckinsey-magyarorszagi-fioktelepe-3050813",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3051044",
+      "title": "GCP Data Engineer",
+      "company": "BEKO Engineering Kft.",
+      "url": "https://www.profession.hu/allas/gcp-data-engineer-beko-engineering-kft-3051044",
+      "family": "data-engineering",
       "work_mode": "Hibrid",
       "location": "Pest county"
     },
     {
-      "job_id": "3049887",
-      "title": "Junior Data Engineer",
-      "company": "NIX Tech Kft.",
-      "url": "https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-3049887",
-      "family": "data-engineering",
+      "job_id": "3050171",
+      "title": "HR adatelemző(1089 Budapest, Orczy út 44-46.)",
+      "company": "BÁRDI AUTÓ ZRT.",
+      "url": "https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-3050171",
+      "family": "analyst-bi",
       "work_mode": "",
-      "location": "Pest county"
+      "location": "Pest county, Budapest"
     },
     {
-      "job_id": "3049929",
-      "title": "Senior Data Scientist with AI product mindset",
-      "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-scientist-with-ai-product-mindset-hiflylabs-zrt-3049929",
+      "job_id": "3050797",
+      "title": "Senior AI Engineer",
+      "company": "Diligent Governance Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-3050797",
       "family": "data-science-ml",
-      "work_mode": "",
+      "work_mode": "Hibrid",
       "location": "Pest county"
     }
   ],
@@ -180,22 +198,22 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3025911",
-      "title": "AI/ML Engineer",
-      "company": "SnapSoft Informatikai és Szolgáltató Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-3025911",
-      "family": "data-science-ml",
-      "work_mode": "",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3027108",
       "title": "AI/ML Engineer",
       "company": "Lufthansa Systems Hungária Kft.",
       "url": "https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-3027108",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3050821",
+      "title": "AI/ML Engineer",
+      "company": "SnapSoft Informatikai és Szolgáltató Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-3050821",
+      "family": "data-science-ml",
+      "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Pest county"
     },
@@ -250,10 +268,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3025881",
+      "job_id": "3050860",
       "title": "Business Intelligence (BI) Analyst",
       "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/business-intelligence-bi-analyst-cushman-wakefield-kft-3025881",
+      "url": "https://www.profession.hu/allas/business-intelligence-bi-analyst-cushman-wakefield-kft-3050860",
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "1-3 years experience",
@@ -268,6 +286,16 @@
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
       "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3050813",
+      "title": "Data Analyst",
+      "company": "McKinsey Magyarországi Fióktelepe",
+      "url": "https://www.profession.hu/allas/data-analyst-mckinsey-magyarorszagi-fioktelepe-3050813",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
     },
     {
       "job_id": "3047523",
@@ -326,7 +354,7 @@
       "url": "https://www.profession.hu/allas/data-scientist-mckinsey-magyarorszagi-fioktelepe-3048049",
       "family": "data-science-ml",
       "work_mode": "",
-      "seniority": "junior",
+      "seniority": "1-3 years experience",
       "location": "Pest county"
     },
     {
@@ -390,6 +418,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3051044",
+      "title": "GCP Data Engineer",
+      "company": "BEKO Engineering Kft.",
+      "url": "https://www.profession.hu/allas/gcp-data-engineer-beko-engineering-kft-3051044",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3043701",
       "title": "Geospatial Data Engineer",
       "company": "Accenture Korlátolt Felelősségű Társaság",
@@ -410,6 +448,16 @@
       "location": "Pest county, Budapest"
     },
     {
+      "job_id": "3050171",
+      "title": "HR adatelemző(1089 Budapest, Orczy út 44-46.)",
+      "company": "BÁRDI AUTÓ ZRT.",
+      "url": "https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-3050171",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "professional experience is not required",
+      "location": "Pest county, Budapest"
+    },
+    {
       "job_id": "3049580",
       "title": "Holland Nyelvű Gyógyszeripari Adatelemző",
       "company": "Vision Recruitment Kft.",
@@ -426,16 +474,6 @@
       "url": "https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-3049887",
       "family": "data-engineering",
       "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3048087",
-      "title": "Junior adatelemző/ folyamatelemző",
-      "company": "Vialto Partners Hungary Kft.",
-      "url": "https://www.profession.hu/allas/junior-adatelemzo-folyamatelemzo-vialto-partners-hungary-kft-3048087",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
       "seniority": "junior",
       "location": "Pest county"
     },
@@ -530,16 +568,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3025897",
-      "title": "Senior AI Engineer",
-      "company": "Diligent Governance Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-3025897",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3030662",
       "title": "Senior AI Engineer",
       "company": "MENTON Jobs Kft.",
@@ -548,6 +576,16 @@
       "work_mode": "Távmunka",
       "seniority": "senior",
       "location": "Országos"
+    },
+    {
+      "job_id": "3050797",
+      "title": "Senior AI Engineer",
+      "company": "Diligent Governance Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-3050797",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "3033553",
@@ -670,16 +708,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3037312",
-      "title": "Senior Machine Learning Engineer, Learner Modeling",
-      "company": "Instructure Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3037312",
-      "family": "data-science-ml",
-      "work_mode": "Távmunka",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3027944",
       "title": "Senior Quantitative Market Researcher – Healthcare",
       "company": "Melon HR Technology Kft.",
@@ -708,6 +736,56 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3025911",
+      "title": "AI/ML Engineer",
+      "company": "SnapSoft Informatikai és Szolgáltató Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-3025911",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3025881",
+      "title": "Business Intelligence (BI) Analyst",
+      "company": "Cushman & Wakefield Kft.",
+      "url": "https://www.profession.hu/allas/business-intelligence-bi-analyst-cushman-wakefield-kft-3025881",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3048087",
+      "title": "Junior adatelemző/ folyamatelemző",
+      "company": "Vialto Partners Hungary Kft.",
+      "url": "https://www.profession.hu/allas/junior-adatelemzo-folyamatelemzo-vialto-partners-hungary-kft-3048087",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3025897",
+      "title": "Senior AI Engineer",
+      "company": "Diligent Governance Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-3025897",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3037312",
+      "title": "Senior Machine Learning Engineer, Learner Modeling",
+      "company": "Instructure Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-machine-learning-engineer-learner-modeling-instructure-hungary-kft-3037312",
+      "family": "data-science-ml",
+      "work_mode": "Távmunka",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "3026613",
@@ -1092,13 +1170,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-15T04:46:16.035537+00:00",
-      "status": "success",
-      "active_count": 64,
-      "new_count": 1,
-      "expired_count": 7
-    },
-    {
       "completed_at": "2026-10-16T04:37:03.025784+00:00",
       "status": "success",
       "active_count": 64,
@@ -1299,6 +1370,13 @@
       "status": "degraded",
       "active_count": 94,
       "new_count": 4,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-14T05:41:32.188195+00:00",
+      "status": "degraded",
+      "active_count": 100,
+      "new_count": 6,
       "expired_count": 0
     }
   ],
