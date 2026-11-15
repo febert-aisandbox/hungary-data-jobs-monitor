@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-14",
-  "updated_at": "2026-11-14 06:41 CET",
+  "report_date": "2026-11-15",
+  "updated_at": "2026-11-15 06:46 CET",
   "status": "degraded",
-  "active_total": 100,
-  "new_total": 6,
+  "active_total": 103,
+  "new_total": 3,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -11,17 +11,17 @@
     "quantitative analyst"
   ],
   "junior_total": 11,
-  "hybrid_remote_total": 44,
+  "hybrid_remote_total": 47,
   "role_families": {
-    "data-science-ml": 39,
+    "data-science-ml": 41,
     "data-engineering": 34,
     "analyst-bi": 25,
-    "quant-risk": 2
+    "quant-risk": 3
   },
   "top_locations": [
     [
       "Pest county",
-      49
+      51
     ],
     [
       "Pest county, Budapest",
@@ -40,15 +40,15 @@
       4
     ],
     [
+      "Csongrád-Csanád county, Szeged",
+      2
+    ],
+    [
       "Pest county, Budaörs",
       2
     ],
     [
       "Pest county, Győr",
-      1
-    ],
-    [
-      "Csongrád-Csanád county, Szeged",
       1
     ],
     [
@@ -63,30 +63,30 @@
   "top_skills": [
     [
       "English",
-      92
+      95
     ],
     [
       "Python",
-      63
+      66
     ],
     [
       "SQL",
-      43
+      42
     ],
     [
       "Azure",
-      34
+      35
     ],
     [
       "AWS",
       31
     ],
     [
-      "Machine learning",
-      22
+      "Spark",
+      23
     ],
     [
-      "Spark",
+      "Machine learning",
       22
     ],
     [
@@ -99,11 +99,11 @@
     ],
     [
       "Excel",
-      4
+      6
     ],
     [
       "GCP",
-      4
+      6
     ],
     [
       "Tableau",
@@ -112,56 +112,29 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3050821",
+      "job_id": "3051186",
       "title": "AI/ML Engineer",
-      "company": "SnapSoft Informatikai és Szolgáltató Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-snapsoft-informatikai-es-szolgaltato-kft-3050821",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-3051186",
       "family": "data-science-ml",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3050860",
-      "title": "Business Intelligence (BI) Analyst",
-      "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/business-intelligence-bi-analyst-cushman-wakefield-kft-3050860",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3050813",
-      "title": "Data Analyst",
-      "company": "McKinsey Magyarországi Fióktelepe",
-      "url": "https://www.profession.hu/allas/data-analyst-mckinsey-magyarorszagi-fioktelepe-3050813",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3051044",
-      "title": "GCP Data Engineer",
-      "company": "BEKO Engineering Kft.",
-      "url": "https://www.profession.hu/allas/gcp-data-engineer-beko-engineering-kft-3051044",
-      "family": "data-engineering",
       "work_mode": "Hibrid",
       "location": "Pest county"
     },
     {
-      "job_id": "3050171",
-      "title": "HR adatelemző(1089 Budapest, Orczy út 44-46.)",
-      "company": "BÁRDI AUTÓ ZRT.",
-      "url": "https://www.profession.hu/allas/hr-adatelemzo-budapest-orczy-ut-bardi-auto-zrt-budapest-3050171",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county, Budapest"
+      "job_id": "3051188",
+      "title": "AI/ML Engineer - Szeged",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3051188",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "location": "Csongrád-Csanád county, Szeged"
     },
     {
-      "job_id": "3050797",
-      "title": "Senior AI Engineer",
-      "company": "Diligent Governance Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-diligent-governance-hungary-kft-3050797",
-      "family": "data-science-ml",
+      "job_id": "3051132",
+      "title": "Director, Quantitative Engineer",
+      "company": "BlackRock Hungary Kft.",
+      "url": "https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-3051132",
+      "family": "quant-risk",
       "work_mode": "Hibrid",
       "location": "Pest county"
     }
@@ -198,16 +171,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3027108",
-      "title": "AI/ML Engineer",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-3027108",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3050821",
       "title": "AI/ML Engineer",
       "company": "SnapSoft Informatikai és Szolgáltató Kft.",
@@ -218,10 +181,20 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3027103",
+      "job_id": "3051186",
+      "title": "AI/ML Engineer",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-3051186",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3051188",
       "title": "AI/ML Engineer - Szeged",
       "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3027103",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3051188",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
@@ -398,10 +371,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3027031",
+      "job_id": "3051132",
       "title": "Director, Quantitative Engineer",
       "company": "BlackRock Hungary Kft.",
-      "url": "https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-3027031",
+      "url": "https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-3051132",
       "family": "quant-risk",
       "work_mode": "Hibrid",
       "seniority": ">10 years experience",
@@ -648,16 +621,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3029877",
-      "title": "Senior Data Engineer / Scala, Spark",
-      "company": "High Tech Engineering Center Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-scala-spark-high-tech-engineering-center-kft-budapest-3029877",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "3030043",
       "title": "Senior Data Scientist",
       "company": "Yettel Hungary Ltd.",
@@ -708,16 +671,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3027944",
-      "title": "Senior Quantitative Market Researcher – Healthcare",
-      "company": "Melon HR Technology Kft.",
-      "url": "https://www.profession.hu/allas/senior-quantitative-market-researcher-healthcare-melon-hr-technology-kft-budapest-3027944",
-      "family": "quant-risk",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Budapest"
-    },
-    {
       "job_id": "3038067",
       "title": "iREMS Data Engineer",
       "company": "iREMS Hungary Kft.",
@@ -736,6 +689,56 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3027108",
+      "title": "AI/ML Engineer",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-3027108",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3027103",
+      "title": "AI/ML Engineer - Szeged",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3027103",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Csongrád-Csanád county, Szeged"
+    },
+    {
+      "job_id": "3027031",
+      "title": "Director, Quantitative Engineer",
+      "company": "BlackRock Hungary Kft.",
+      "url": "https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-3027031",
+      "family": "quant-risk",
+      "work_mode": "Hibrid",
+      "seniority": ">10 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3029877",
+      "title": "Senior Data Engineer / Scala, Spark",
+      "company": "High Tech Engineering Center Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-scala-spark-high-tech-engineering-center-kft-budapest-3029877",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3027944",
+      "title": "Senior Quantitative Market Researcher – Healthcare",
+      "company": "Melon HR Technology Kft.",
+      "url": "https://www.profession.hu/allas/senior-quantitative-market-researcher-healthcare-melon-hr-technology-kft-budapest-3027944",
+      "family": "quant-risk",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3025911",
@@ -1170,13 +1173,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-16T04:37:03.025784+00:00",
-      "status": "success",
-      "active_count": 64,
-      "new_count": 2,
-      "expired_count": 2
-    },
-    {
       "completed_at": "2026-10-17T04:42:52.077311+00:00",
       "status": "success",
       "active_count": 66,
@@ -1377,6 +1373,13 @@
       "status": "degraded",
       "active_count": 100,
       "new_count": 6,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-15T05:46:44.031660+00:00",
+      "status": "degraded",
+      "active_count": 103,
+      "new_count": 3,
       "expired_count": 0
     }
   ],
