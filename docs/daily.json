@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-15",
-  "updated_at": "2026-11-15 06:46 CET",
+  "report_date": "2026-11-16",
+  "updated_at": "2026-11-16 06:37 CET",
   "status": "degraded",
   "active_total": 103,
-  "new_total": 3,
+  "new_total": 0,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -110,35 +110,7 @@
       3
     ]
   ],
-  "new_jobs": [
-    {
-      "job_id": "3051186",
-      "title": "AI/ML Engineer",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-3051186",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3051188",
-      "title": "AI/ML Engineer - Szeged",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3051188",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "location": "Csongrád-Csanád county, Szeged"
-    },
-    {
-      "job_id": "3051132",
-      "title": "Director, Quantitative Engineer",
-      "company": "BlackRock Hungary Kft.",
-      "url": "https://www.profession.hu/allas/director-quantitative-engineer-blackrock-hungary-kft-3051132",
-      "family": "quant-risk",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    }
-  ],
+  "new_jobs": [],
   "active_jobs": [
     {
       "job_id": "3045589",
@@ -1173,13 +1145,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-17T04:42:52.077311+00:00",
-      "status": "success",
-      "active_count": 66,
-      "new_count": 4,
-      "expired_count": 2
-    },
-    {
       "completed_at": "2026-10-18T04:48:31.977454+00:00",
       "status": "success",
       "active_count": 64,
@@ -1380,6 +1345,13 @@
       "status": "degraded",
       "active_count": 103,
       "new_count": 3,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-16T05:37:01.232087+00:00",
+      "status": "degraded",
+      "active_count": 103,
+      "new_count": 0,
       "expired_count": 0
     }
   ],
