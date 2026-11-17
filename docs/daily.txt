@@ -1,8 +1,18 @@
-**Hungary data jobs — 2026-11-16**
+**Hungary data jobs — 2026-11-17**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **103** · New: **0** · No longer observed: **0**
-Junior/internship: **11** · Hybrid/remote: **47**
-Role mix: data\-science\-ml: 41, data\-engineering: 34, analyst\-bi: 25, quant\-risk: 3
+Observed: **115** · New: **12** · No longer observed: **0**
+Junior/internship: **11** · Hybrid/remote: **56**
+Role mix: data\-science\-ml: 42, data\-engineering: 42, analyst\-bi: 28, quant\-risk: 3
+
+**Noteworthy new listings**
+- [Data Engineer](https://www.profession.hu/allas/data-engineer-deutsche-telekom-tsi-hungary-kft-3052521) — Deutsche Telekom TSI Hungary Kft\. \(Pest county\)
+- [Data Engineer \(m/f/d\) \(Multiple Seniorities\)](https://www.profession.hu/allas/data-engineer-m-f-d-multiple-seniorities-deutsche-telekom-tsi-hungary-kft-szeged-3052545) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Szeged\)
+- [Data Engineer \- Senior Specialist \(m/f/d\)](https://www.profession.hu/allas/data-engineer-senior-specialist-m-f-d-deutsche-telekom-tsi-hungary-kft-3052506) — Deutsche Telekom TSI Hungary Kft\. \(Pest county\)
+- [Expert AI Engineer](https://www.profession.hu/allas/expert-ai-engineer-deutsche-telekom-tsi-hungary-kft-szeged-3052586) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Szeged\)
+- [Expert Developer – Data Analytics & Data Engineering](https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-deutsche-telekom-tsi-hungary-kft-szeged-3052576) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Szeged\)
+- [Quality Data Analyst Trainee \(m/f/d\)](https://www.profession.hu/allas/quality-data-analyst-trainee-m-f-d-deutsche-telekom-tsi-hungary-kft-3052568) — Deutsche Telekom TSI Hungary Kft\. \(Pest county\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-rossmann-magyarorszag-kft-ullo-3051729) — ROSSMANN Magyarország Kft \(Pest county, Üllő\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-3052629) — Hiflylabs Zrt\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
