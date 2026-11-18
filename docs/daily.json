@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-17",
-  "updated_at": "2026-11-17 06:42 CET",
+  "report_date": "2026-11-18",
+  "updated_at": "2026-11-18 06:48 CET",
   "status": "degraded",
-  "active_total": 115,
-  "new_total": 12,
+  "active_total": 117,
+  "new_total": 2,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -13,23 +13,19 @@
   "junior_total": 11,
   "hybrid_remote_total": 56,
   "role_families": {
+    "data-engineering": 44,
     "data-science-ml": 42,
-    "data-engineering": 42,
     "analyst-bi": 28,
     "quant-risk": 3
   },
   "top_locations": [
     [
       "Pest county",
-      57
+      59
     ],
     [
       "Pest county, Budapest",
       23
-    ],
-    [
-      "Pest county, Szeged",
-      8
     ],
     [
       "Pest county, Törökbálint",
@@ -38,6 +34,14 @@
     [
       "Pest county, Pécs",
       6
+    ],
+    [
+      "Pest county, Debrecen",
+      5
+    ],
+    [
+      "Pest county, Szeged",
+      4
     ],
     [
       "Csongrád-Csanád county, Szeged",
@@ -54,20 +58,16 @@
     [
       "Pest county, Dunaharaszti",
       1
-    ],
-    [
-      "Heves county, Maklár",
-      1
     ]
   ],
   "top_skills": [
     [
       "English",
-      106
+      108
     ],
     [
       "Python",
-      73
+      75
     ],
     [
       "SQL",
@@ -95,7 +95,7 @@
     ],
     [
       "Docker",
-      17
+      18
     ],
     [
       "Excel",
@@ -112,112 +112,22 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3052521",
+      "job_id": "3053515",
       "title": "Data Engineer",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-deutsche-telekom-tsi-hungary-kft-3052521",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3052545",
-      "title": "Data Engineer (m/f/d) (Multiple Seniorities)",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-m-f-d-multiple-seniorities-deutsche-telekom-tsi-hungary-kft-szeged-3052545",
-      "family": "data-engineering",
-      "work_mode": "",
-      "location": "Pest county, Szeged"
-    },
-    {
-      "job_id": "3052506",
-      "title": "Data Engineer - Senior Specialist (m/f/d)",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-senior-specialist-m-f-d-deutsche-telekom-tsi-hungary-kft-3052506",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3052586",
-      "title": "Expert AI Engineer",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/expert-ai-engineer-deutsche-telekom-tsi-hungary-kft-szeged-3052586",
-      "family": "data-science-ml",
-      "work_mode": "Távmunka",
-      "location": "Pest county, Szeged"
-    },
-    {
-      "job_id": "3052576",
-      "title": "Expert Developer – Data Analytics & Data Engineering",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-deutsche-telekom-tsi-hungary-kft-szeged-3052576",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Szeged"
-    },
-    {
-      "job_id": "3052568",
-      "title": "Quality Data Analyst Trainee (m/f/d)",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/quality-data-analyst-trainee-m-f-d-deutsche-telekom-tsi-hungary-kft-3052568",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3051729",
-      "title": "Senior Data Engineer",
-      "company": "ROSSMANN Magyarország Kft",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-rossmann-magyarorszag-kft-ullo-3051729",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Üllő"
-    },
-    {
-      "job_id": "3052629",
-      "title": "Senior Data Engineer",
-      "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-hiflylabs-zrt-3052629",
+      "company": "MSCI Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-msci-kft-3053515",
       "family": "data-engineering",
       "work_mode": "",
       "location": "Pest county"
     },
     {
-      "job_id": "3052648",
-      "title": "Senior Data Engineer (m/f/d) German Speaking",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-m-f-d-german-speaking-deutsche-telekom-tsi-hungary-kft-szeged-3052648",
+      "job_id": "3053528",
+      "title": "Data Engineer — Data Platform",
+      "company": "greeHill Europe Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-data-platform-greehill-europe-kft-3053528",
       "family": "data-engineering",
-      "work_mode": "Távmunka",
-      "location": "Pest county, Szeged"
-    },
-    {
-      "job_id": "3052559",
-      "title": "Senior Data Engineer - Power Platform",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-deutsche-telekom-tsi-hungary-kft-3052559",
-      "family": "data-engineering",
-      "work_mode": "Távmunka",
+      "work_mode": "",
       "location": "Pest county"
-    },
-    {
-      "job_id": "3051774",
-      "title": "Supply Chain Data Analyst",
-      "company": "Trenkwalder",
-      "url": "https://www.profession.hu/allas/supply-chain-data-analyst-trenkwalder-3051774",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3051828",
-      "title": "data analyst",
-      "company": "K&H Bank Zrt.",
-      "url": "https://www.profession.hu/allas/data-analyst-k-h-bank-zrt-budapest-3051828",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Budapest"
     }
   ],
   "active_jobs": [
@@ -342,16 +252,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3029892",
-      "title": "Data Engineer",
-      "company": "MSCI Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-msci-kft-3029892",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3038438",
       "title": "Data Engineer",
       "company": "Bosch Group",
@@ -382,14 +282,24 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3052545",
-      "title": "Data Engineer (m/f/d) (Multiple Seniorities)",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-m-f-d-multiple-seniorities-deutsche-telekom-tsi-hungary-kft-szeged-3052545",
+      "job_id": "3053515",
+      "title": "Data Engineer",
+      "company": "MSCI Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-msci-kft-3053515",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Szeged"
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3052545",
+      "title": "Data Engineer (m/f/d) (Multiple Seniorities)",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-m-f-d-multiple-seniorities-deutsche-telekom-tsi-hungary-kft-debrecen-3052545",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county, Debrecen"
     },
     {
       "job_id": "3052506",
@@ -402,10 +312,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3029912",
+      "job_id": "3053528",
       "title": "Data Engineer — Data Platform",
       "company": "greeHill Europe Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-data-platform-greehill-europe-kft-3029912",
+      "url": "https://www.profession.hu/allas/data-engineer-data-platform-greehill-europe-kft-3053528",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "1-3 years experience",
@@ -475,21 +385,21 @@
       "job_id": "3052586",
       "title": "Expert AI Engineer",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/expert-ai-engineer-deutsche-telekom-tsi-hungary-kft-szeged-3052586",
+      "url": "https://www.profession.hu/allas/expert-ai-engineer-deutsche-telekom-tsi-hungary-kft-debrecen-3052586",
       "family": "data-science-ml",
       "work_mode": "Távmunka",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Szeged"
+      "location": "Pest county, Debrecen"
     },
     {
       "job_id": "3052576",
       "title": "Expert Developer – Data Analytics & Data Engineering",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-deutsche-telekom-tsi-hungary-kft-szeged-3052576",
+      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-deutsche-telekom-tsi-hungary-kft-debrecen-3052576",
       "family": "data-engineering",
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
-      "location": "Pest county, Szeged"
+      "location": "Pest county, Debrecen"
     },
     {
       "job_id": "3034378",
@@ -755,11 +665,11 @@
       "job_id": "3052648",
       "title": "Senior Data Engineer (m/f/d) German Speaking",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-m-f-d-german-speaking-deutsche-telekom-tsi-hungary-kft-szeged-3052648",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-m-f-d-german-speaking-deutsche-telekom-tsi-hungary-kft-debrecen-3052648",
       "family": "data-engineering",
       "work_mode": "Távmunka",
       "seniority": "senior",
-      "location": "Pest county, Szeged"
+      "location": "Pest county, Debrecen"
     },
     {
       "job_id": "3052559",
@@ -860,6 +770,26 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3029892",
+      "title": "Data Engineer",
+      "company": "MSCI Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-msci-kft-3029892",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3029912",
+      "title": "Data Engineer — Data Platform",
+      "company": "greeHill Europe Kft.",
+      "url": "https://www.profession.hu/allas/data-engineer-data-platform-greehill-europe-kft-3029912",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
     },
     {
       "job_id": "3045589",
@@ -1374,13 +1304,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-19T04:39:20.014896+00:00",
-      "status": "success",
-      "active_count": 60,
-      "new_count": 0,
-      "expired_count": 4
-    },
-    {
       "completed_at": "2026-10-20T04:44:56.614828+00:00",
       "status": "success",
       "active_count": 60,
@@ -1581,6 +1504,13 @@
       "status": "degraded",
       "active_count": 115,
       "new_count": 12,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-18T05:48:00.578004+00:00",
+      "status": "degraded",
+      "active_count": 117,
+      "new_count": 2,
       "expired_count": 0
     }
   ],
