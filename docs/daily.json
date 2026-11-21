@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-20",
-  "updated_at": "2026-11-20 06:44 CET",
+  "report_date": "2026-11-21",
+  "updated_at": "2026-11-21 06:50 CET",
   "status": "degraded",
-  "active_total": 123,
-  "new_total": 3,
+  "active_total": 124,
+  "new_total": 1,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -11,9 +11,9 @@
     "quantitative analyst"
   ],
   "junior_total": 12,
-  "hybrid_remote_total": 62,
+  "hybrid_remote_total": 63,
   "role_families": {
-    "data-engineering": 47,
+    "data-engineering": 48,
     "data-science-ml": 44,
     "analyst-bi": 29,
     "quant-risk": 3
@@ -21,15 +21,11 @@
   "top_locations": [
     [
       "Pest county",
-      60
+      61
     ],
     [
       "Pest county, Budapest",
       23
-    ],
-    [
-      "Pest county, Pécs",
-      10
     ],
     [
       "Pest county, Törökbálint",
@@ -37,7 +33,15 @@
     ],
     [
       "Pest county, Szeged",
-      4
+      8
+    ],
+    [
+      "Pest county, Pécs",
+      7
+    ],
+    [
+      "Csongrád-Csanád county, Szeged",
+      2
     ],
     [
       "Pest county, Üllő",
@@ -48,30 +52,26 @@
       2
     ],
     [
-      "Csongrád-Csanád county, Szeged",
-      2
-    ],
-    [
       "Pest county, Debrecen",
       2
     ],
     [
-      "Pest county, Győr",
+      "Pest county, Dunaharaszti",
       1
     ]
   ],
   "top_skills": [
     [
       "English",
-      113
+      114
     ],
     [
       "Python",
-      79
+      80
     ],
     [
       "SQL",
-      54
+      55
     ],
     [
       "Azure",
@@ -112,29 +112,11 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3055231",
-      "title": "Analytics Engineer (EMEA)",
-      "company": "Infinite Lambda Kft.",
-      "url": "https://www.profession.hu/allas/analytics-engineer-emea-infinite-lambda-kft-miskolc-3055231",
+      "job_id": "3056240",
+      "title": "Senior Data Engineer, Vice President",
+      "company": "BlackRock Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-vice-president-blackrock-hungary-kft-3056240",
       "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Borsod-Abaúj-Zemplén county, Miskolc"
-    },
-    {
-      "job_id": "3055245",
-      "title": "BI Developer/Data Engineer",
-      "company": "BlackBelt Technology Kft.",
-      "url": "https://www.profession.hu/allas/bi-developer-data-engineer-blackbelt-technology-kft-3055245",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3055240",
-      "title": "Junior adatelemző/ folyamatelemző",
-      "company": "Vialto Consulting Kft.",
-      "url": "https://www.profession.hu/allas/junior-adatelemzo-folyamatelemzo-vialto-consulting-kft-3055240",
-      "family": "analyst-bi",
       "work_mode": "Hibrid",
       "location": "Pest county"
     }
@@ -144,11 +126,11 @@
       "job_id": "3040109",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-3040109",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-pecs-3040109",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Győr"
+      "location": "Pest county, Pécs"
     },
     {
       "job_id": "3049850",
@@ -171,6 +153,26 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3051186",
+      "title": "AI/ML Engineer",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-3051186",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3051188",
+      "title": "AI/ML Engineer - Szeged",
+      "company": "Lufthansa Systems Hungária Kft.",
+      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3051188",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Csongrád-Csanád county, Szeged"
+    },
+    {
       "job_id": "3037327",
       "title": "AWS Agentic AI Engineer | Hungary",
       "company": "Deloitte Zrt.",
@@ -179,16 +181,6 @@
       "work_mode": "Hibrid",
       "seniority": "professional experience is not required",
       "location": "Pest county"
-    },
-    {
-      "job_id": "3031963",
-      "title": "Adatelemző szakértő",
-      "company": "Budapesti Gazdaságtudományi Egyetem",
-      "url": "https://www.profession.hu/allas/adatelemzo-szakerto-budapesti-gazdasagtudomanyi-egyetem-budapest-3031963",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "5-10 years experience",
-      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3047306",
@@ -314,11 +306,11 @@
       "job_id": "3052545",
       "title": "Data Engineer (m/f/d) (Multiple Seniorities)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-m-f-d-multiple-seniorities-deutsche-telekom-tsi-hungary-kft-pecs-3052545",
+      "url": "https://www.profession.hu/allas/data-engineer-m-f-d-multiple-seniorities-deutsche-telekom-tsi-hungary-kft-szeged-3052545",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "3052506",
@@ -404,11 +396,11 @@
       "job_id": "3052576",
       "title": "Expert Developer – Data Analytics & Data Engineering",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-deutsche-telekom-tsi-hungary-kft-pecs-3052576",
+      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-deutsche-telekom-tsi-hungary-kft-szeged-3052576",
       "family": "data-engineering",
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "3034378",
@@ -674,21 +666,31 @@
       "job_id": "3052648",
       "title": "Senior Data Engineer (m/f/d) German Speaking",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-m-f-d-german-speaking-deutsche-telekom-tsi-hungary-kft-pecs-3052648",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-m-f-d-german-speaking-deutsche-telekom-tsi-hungary-kft-szeged-3052648",
       "family": "data-engineering",
       "work_mode": "Távmunka",
       "seniority": "senior",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "3052559",
       "title": "Senior Data Engineer - Power Platform",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-deutsche-telekom-tsi-hungary-kft-pecs-3052559",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-deutsche-telekom-tsi-hungary-kft-szeged-3052559",
       "family": "data-engineering",
       "work_mode": "Távmunka",
       "seniority": "senior",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Szeged"
+    },
+    {
+      "job_id": "3056240",
+      "title": "Senior Data Engineer, Vice President",
+      "company": "BlackRock Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-vice-president-blackrock-hungary-kft-3056240",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "3054504",
@@ -781,24 +783,14 @@
       "location": "Hajdú-Bihar county"
     },
     {
-      "job_id": "3051186",
-      "title": "AI/ML Engineer",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-lufthansa-systems-hungaria-kft-3051186",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3051188",
-      "title": "AI/ML Engineer - Szeged",
-      "company": "Lufthansa Systems Hungária Kft.",
-      "url": "https://www.profession.hu/allas/ai-ml-engineer-szeged-lufthansa-systems-hungaria-kft-szeged-3051188",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Csongrád-Csanád county, Szeged"
+      "job_id": "3031963",
+      "title": "Adatelemző szakértő",
+      "company": "Budapesti Gazdaságtudományi Egyetem",
+      "url": "https://www.profession.hu/allas/adatelemzo-szakerto-budapesti-gazdasagtudomanyi-egyetem-budapest-3031963",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "5-10 years experience",
+      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3052586",
@@ -1373,13 +1365,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-22T04:41:02.008953+00:00",
-      "status": "success",
-      "active_count": 65,
-      "new_count": 2,
-      "expired_count": 0
-    },
-    {
       "completed_at": "2026-10-23T04:46:37.045815+00:00",
       "status": "success",
       "active_count": 68,
@@ -1580,6 +1565,13 @@
       "status": "degraded",
       "active_count": 123,
       "new_count": 3,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-21T05:50:18.298934+00:00",
+      "status": "degraded",
+      "active_count": 124,
+      "new_count": 1,
       "expired_count": 0
     }
   ],

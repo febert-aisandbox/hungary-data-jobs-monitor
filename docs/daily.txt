@@ -1,13 +1,11 @@
-**Hungary data jobs — 2026-11-20**
+**Hungary data jobs — 2026-11-21**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **123** · New: **3** · No longer observed: **0**
-Junior/internship: **12** · Hybrid/remote: **62**
-Role mix: data\-engineering: 47, data\-science\-ml: 44, analyst\-bi: 29, quant\-risk: 3
+Observed: **124** · New: **1** · No longer observed: **0**
+Junior/internship: **12** · Hybrid/remote: **63**
+Role mix: data\-engineering: 48, data\-science\-ml: 44, analyst\-bi: 29, quant\-risk: 3
 
 **Noteworthy new listings**
-- [Analytics Engineer \(EMEA\)](https://www.profession.hu/allas/analytics-engineer-emea-infinite-lambda-kft-miskolc-3055231) — Infinite Lambda Kft\. \(Borsod\-Abaúj\-Zemplén county, Miskolc\)
-- [BI Developer/Data Engineer](https://www.profession.hu/allas/bi-developer-data-engineer-blackbelt-technology-kft-3055245) — BlackBelt Technology Kft\. \(Pest county\)
-- [Junior adatelemző/ folyamatelemző](https://www.profession.hu/allas/junior-adatelemzo-folyamatelemzo-vialto-consulting-kft-3055240) — Vialto Consulting Kft\. \(Pest county\)
+- [Senior Data Engineer, Vice President](https://www.profession.hu/allas/senior-data-engineer-vice-president-blackrock-hungary-kft-3056240) — BlackRock Hungary Kft\. \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
