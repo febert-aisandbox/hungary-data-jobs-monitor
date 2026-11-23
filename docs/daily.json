@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-22",
-  "updated_at": "2026-11-22 06:40 CET",
+  "report_date": "2026-11-23",
+  "updated_at": "2026-11-23 06:46 CET",
   "status": "degraded",
-  "active_total": 126,
-  "new_total": 2,
+  "active_total": 129,
+  "new_total": 3,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -11,25 +11,21 @@
     "quantitative analyst"
   ],
   "junior_total": 12,
-  "hybrid_remote_total": 64,
+  "hybrid_remote_total": 66,
   "role_families": {
-    "data-engineering": 50,
-    "data-science-ml": 44,
+    "data-engineering": 52,
+    "data-science-ml": 45,
     "analyst-bi": 29,
     "quant-risk": 3
   },
   "top_locations": [
     [
       "Pest county",
-      62
+      65
     ],
     [
       "Pest county, Budapest",
       23
-    ],
-    [
-      "Pest county, Pécs",
-      11
     ],
     [
       "Pest county, Törökbálint",
@@ -37,7 +33,11 @@
     ],
     [
       "Pest county, Szeged",
-      4
+      8
+    ],
+    [
+      "Pest county, Pécs",
+      7
     ],
     [
       "Pest county, Budaörs",
@@ -63,23 +63,23 @@
   "top_skills": [
     [
       "English",
-      116
+      119
     ],
     [
       "Python",
-      80
+      83
     ],
     [
       "SQL",
-      56
+      58
     ],
     [
       "Azure",
-      47
+      50
     ],
     [
       "AWS",
-      34
+      37
     ],
     [
       "Spark",
@@ -112,22 +112,31 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3056383",
-      "title": "Big Data Engineer",
-      "company": "Pont Systems Zrt.",
-      "url": "https://www.profession.hu/allas/big-data-engineer-pont-systems-zrt-3056383",
+      "job_id": "3056489",
+      "title": "Medior Data Engineer",
+      "company": "Accenture Korlátolt Felelősségű Társaság",
+      "url": "https://www.profession.hu/allas/medior-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3056489",
       "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3056502",
+      "title": "Senior AI Engineer (f/m/d)",
+      "company": "Siemens Energy Kft.",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-f-m-d-siemens-energy-kft-3056502",
+      "family": "data-science-ml",
       "work_mode": "",
       "location": "Pest county"
     },
     {
-      "job_id": "3056423",
-      "title": "Data engineer",
-      "company": "Kontron Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3056423",
+      "job_id": "3056478",
+      "title": "Senior Data Engineer",
+      "company": "Accenture Korlátolt Felelősségű Társaság",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3056478",
       "family": "data-engineering",
       "work_mode": "Hibrid",
-      "location": "Pest county, Budaörs"
+      "location": "Pest county"
     }
   ],
   "active_jobs": [
@@ -315,11 +324,11 @@
       "job_id": "3052545",
       "title": "Data Engineer (m/f/d) (Multiple Seniorities)",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/data-engineer-m-f-d-multiple-seniorities-deutsche-telekom-tsi-hungary-kft-pecs-3052545",
+      "url": "https://www.profession.hu/allas/data-engineer-m-f-d-multiple-seniorities-deutsche-telekom-tsi-hungary-kft-szeged-3052545",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "3052506",
@@ -405,21 +414,11 @@
       "job_id": "3052576",
       "title": "Expert Developer – Data Analytics & Data Engineering",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-deutsche-telekom-tsi-hungary-kft-pecs-3052576",
+      "url": "https://www.profession.hu/allas/expert-developer-data-analytics-data-engineering-deutsche-telekom-tsi-hungary-kft-szeged-3052576",
       "family": "data-engineering",
       "work_mode": "Hibrid",
       "seniority": "5-10 years experience",
-      "location": "Pest county, Pécs"
-    },
-    {
-      "job_id": "3034378",
-      "title": "GBS Data Analytics Analyst",
-      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
-      "url": "https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3034378",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "junior",
-      "location": "Pest county"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "3051044",
@@ -472,16 +471,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3049887",
-      "title": "Junior Data Engineer",
-      "company": "NIX Tech Kft.",
-      "url": "https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-3049887",
-      "family": "data-engineering",
-      "work_mode": "",
-      "seniority": "junior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3055240",
       "title": "Junior adatelemző/ folyamatelemző",
       "company": "Vialto Consulting Kft.",
@@ -518,6 +507,16 @@
       "url": "https://www.profession.hu/allas/medior-data-engineer-nix-tech-kft-3048161",
       "family": "data-engineering",
       "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3056489",
+      "title": "Medior Data Engineer",
+      "company": "Accenture Korlátolt Felelősségű Társaság",
+      "url": "https://www.profession.hu/allas/medior-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3056489",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
       "seniority": "1-3 years experience",
       "location": "Pest county"
     },
@@ -602,10 +601,10 @@
       "location": "Pest county, Törökbálint"
     },
     {
-      "job_id": "3033553",
+      "job_id": "3056502",
       "title": "Senior AI Engineer (f/m/d)",
       "company": "Siemens Energy Kft.",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-f-m-d-siemens-energy-kft-3033553",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-f-m-d-siemens-energy-kft-3056502",
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "senior",
@@ -662,6 +661,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3056478",
+      "title": "Senior Data Engineer",
+      "company": "Accenture Korlátolt Felelősségű Társaság",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3056478",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3034385",
       "title": "Senior Data Engineer (Contract)",
       "company": "Hiflylabs Zrt.",
@@ -675,21 +684,21 @@
       "job_id": "3052648",
       "title": "Senior Data Engineer (m/f/d) German Speaking",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-m-f-d-german-speaking-deutsche-telekom-tsi-hungary-kft-pecs-3052648",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-m-f-d-german-speaking-deutsche-telekom-tsi-hungary-kft-szeged-3052648",
       "family": "data-engineering",
       "work_mode": "Távmunka",
       "seniority": "senior",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "3052559",
       "title": "Senior Data Engineer - Power Platform",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-deutsche-telekom-tsi-hungary-kft-pecs-3052559",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-deutsche-telekom-tsi-hungary-kft-szeged-3052559",
       "family": "data-engineering",
       "work_mode": "Távmunka",
       "seniority": "senior",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "3056240",
@@ -710,16 +719,6 @@
       "work_mode": "Hibrid",
       "seniority": "senior",
       "location": "Pest county, Törökbálint"
-    },
-    {
-      "job_id": "3033565",
-      "title": "Senior Data Scientist (B-1227)",
-      "company": "UNION Vienna Insurance Group Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-scientist-b-union-vienna-insurance-group-zrt-budapest-3033565",
-      "family": "data-science-ml",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3049929",
@@ -790,6 +789,46 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3034378",
+      "title": "GBS Data Analytics Analyst",
+      "company": "International Flavors & Fragrances I.F.F. (Hungary) Kft.",
+      "url": "https://www.profession.hu/allas/gbs-data-analytics-analyst-international-flavors-fragrances-i-f-f-hungary-kft-3034378",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3049887",
+      "title": "Junior Data Engineer",
+      "company": "NIX Tech Kft.",
+      "url": "https://www.profession.hu/allas/junior-data-engineer-nix-tech-kft-3049887",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3033553",
+      "title": "Senior AI Engineer (f/m/d)",
+      "company": "Siemens Energy Kft.",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-f-m-d-siemens-energy-kft-3033553",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3033565",
+      "title": "Senior Data Scientist (B-1227)",
+      "company": "UNION Vienna Insurance Group Zrt.",
+      "url": "https://www.profession.hu/allas/senior-data-scientist-b-union-vienna-insurance-group-zrt-budapest-3033565",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3032558",
@@ -1394,13 +1433,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-24T04:37:06.162584+00:00",
-      "status": "success",
-      "active_count": 64,
-      "new_count": 2,
-      "expired_count": 6
-    },
-    {
       "completed_at": "2026-10-25T05:42:29.352240+00:00",
       "status": "success",
       "active_count": 66,
@@ -1601,6 +1633,13 @@
       "status": "degraded",
       "active_count": 126,
       "new_count": 2,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-23T05:46:26.372021+00:00",
+      "status": "degraded",
+      "active_count": 129,
+      "new_count": 3,
       "expired_count": 0
     }
   ],

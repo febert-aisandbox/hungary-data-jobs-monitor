@@ -1,12 +1,13 @@
-**Hungary data jobs — 2026-11-22**
+**Hungary data jobs — 2026-11-23**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **126** · New: **2** · No longer observed: **0**
-Junior/internship: **12** · Hybrid/remote: **64**
-Role mix: data\-engineering: 50, data\-science\-ml: 44, analyst\-bi: 29, quant\-risk: 3
+Observed: **129** · New: **3** · No longer observed: **0**
+Junior/internship: **12** · Hybrid/remote: **66**
+Role mix: data\-engineering: 52, data\-science\-ml: 45, analyst\-bi: 29, quant\-risk: 3
 
 **Noteworthy new listings**
-- [Big Data Engineer](https://www.profession.hu/allas/big-data-engineer-pont-systems-zrt-3056383) — Pont Systems Zrt\. \(Pest county\)
-- [Data engineer](https://www.profession.hu/allas/data-engineer-kontron-hungary-kft-budaors-3056423) — Kontron Hungary Kft\. \(Pest county, Budaörs\)
+- [Medior Data Engineer](https://www.profession.hu/allas/medior-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3056489) — Accenture Korlátolt Felelősségű Társaság \(Pest county\)
+- [Senior AI Engineer \(f/m/d\)](https://www.profession.hu/allas/senior-ai-engineer-f-m-d-siemens-energy-kft-3056502) — Siemens Energy Kft\. \(Pest county\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3056478) — Accenture Korlátolt Felelősségű Társaság \(Pest county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
