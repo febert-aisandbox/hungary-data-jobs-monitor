@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-23",
-  "updated_at": "2026-11-23 06:46 CET",
+  "report_date": "2026-11-24",
+  "updated_at": "2026-11-24 06:37 CET",
   "status": "degraded",
-  "active_total": 129,
-  "new_total": 3,
+  "active_total": 134,
+  "new_total": 5,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -11,17 +11,17 @@
     "quantitative analyst"
   ],
   "junior_total": 12,
-  "hybrid_remote_total": 66,
+  "hybrid_remote_total": 67,
   "role_families": {
-    "data-engineering": 52,
-    "data-science-ml": 45,
-    "analyst-bi": 29,
+    "data-engineering": 55,
+    "data-science-ml": 46,
+    "analyst-bi": 30,
     "quant-risk": 3
   },
   "top_locations": [
     [
       "Pest county",
-      65
+      69
     ],
     [
       "Pest county, Budapest",
@@ -63,27 +63,27 @@
   "top_skills": [
     [
       "English",
-      119
+      123
     ],
     [
       "Python",
-      83
+      87
     ],
     [
       "SQL",
-      58
+      63
     ],
     [
       "Azure",
-      50
+      54
     ],
     [
       "AWS",
-      37
+      40
     ],
     [
       "Spark",
-      27
+      29
     ],
     [
       "Machine learning",
@@ -91,7 +91,7 @@
     ],
     [
       "Power BI",
-      21
+      23
     ],
     [
       "Docker",
@@ -99,11 +99,11 @@
     ],
     [
       "Excel",
-      6
+      7
     ],
     [
       "GCP",
-      6
+      7
     ],
     [
       "Tableau",
@@ -112,30 +112,48 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3056489",
-      "title": "Medior Data Engineer",
-      "company": "Accenture Korlátolt Felelősségű Társaság",
-      "url": "https://www.profession.hu/allas/medior-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3056489",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
+      "job_id": "3057061",
+      "title": "Business Intelligence Analyst",
+      "company": "VAT Vakuumventile AG",
+      "url": "https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3057061",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "location": "Külföld"
     },
     {
-      "job_id": "3056502",
-      "title": "Senior AI Engineer (f/m/d)",
-      "company": "Siemens Energy Kft.",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-f-m-d-siemens-energy-kft-3056502",
+      "job_id": "3057807",
+      "title": "Senior AI Engineer with Databricks experience_Europe_Contractor",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-with-databricks-experience-europe-contractor-hiflylabs-zrt-3057807",
       "family": "data-science-ml",
       "work_mode": "",
       "location": "Pest county"
     },
     {
-      "job_id": "3056478",
+      "job_id": "3057755",
       "title": "Senior Data Engineer",
-      "company": "Accenture Korlátolt Felelősségű Társaság",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-accenture-korlatolt-felelossegu-tarsasag-3056478",
+      "company": "NEXTENT Zrt.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-nextent-zrt-3057755",
+      "family": "data-engineering",
+      "work_mode": "",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3057782",
+      "title": "Senior Data Engineer (Contract)",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-3057782",
       "family": "data-engineering",
       "work_mode": "Hibrid",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3057806",
+      "title": "Senior Databricks Data Engineer",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-3057806",
+      "family": "data-engineering",
+      "work_mode": "",
       "location": "Pest county"
     }
   ],
@@ -157,7 +175,7 @@
       "url": "https://www.profession.hu/allas/ai-engineer-r-d-druit-szolgaltato-zrt-3049850",
       "family": "data-science-ml",
       "work_mode": "",
-      "seniority": "1-3 years experience",
+      "seniority": "professional experience is not required",
       "location": "Pest county"
     },
     {
@@ -259,6 +277,16 @@
       "work_mode": "",
       "seniority": "1-3 years experience",
       "location": "Pest county"
+    },
+    {
+      "job_id": "3057061",
+      "title": "Business Intelligence Analyst",
+      "company": "VAT Vakuumventile AG",
+      "url": "https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3057061",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Külföld"
     },
     {
       "job_id": "3035245",
@@ -611,10 +639,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3034449",
+      "job_id": "3057807",
       "title": "Senior AI Engineer with Databricks experience_Europe_Contractor",
       "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-with-databricks-experience-europe-contractor-hiflylabs-zrt-3034449",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-with-databricks-experience-europe-contractor-hiflylabs-zrt-3057807",
       "family": "data-science-ml",
       "work_mode": "",
       "seniority": "senior",
@@ -661,6 +689,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3056240",
+      "title": "Senior Data Engineer",
+      "company": "BlackRock Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-blackrock-hungary-kft-3056240",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
       "job_id": "3056478",
       "title": "Senior Data Engineer",
       "company": "Accenture Korlátolt Felelősségű Társaság",
@@ -671,10 +709,20 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3034385",
+      "job_id": "3057755",
+      "title": "Senior Data Engineer",
+      "company": "NEXTENT Zrt.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-nextent-zrt-3057755",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3057782",
       "title": "Senior Data Engineer (Contract)",
       "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-3034385",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-3057782",
       "family": "data-engineering",
       "work_mode": "Hibrid",
       "seniority": "senior",
@@ -701,16 +749,6 @@
       "location": "Pest county, Szeged"
     },
     {
-      "job_id": "3056240",
-      "title": "Senior Data Engineer, Vice President",
-      "company": "BlackRock Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-vice-president-blackrock-hungary-kft-3056240",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "seniority": "senior",
-      "location": "Pest county"
-    },
-    {
       "job_id": "3054504",
       "title": "Senior Data Scientist",
       "company": "Yettel Hungary Ltd.",
@@ -731,14 +769,14 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3034410",
+      "job_id": "3057806",
       "title": "Senior Databricks Data Engineer",
       "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-budapest-3034410",
+      "url": "https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-3057806",
       "family": "data-engineering",
       "work_mode": "",
       "seniority": "senior",
-      "location": "Pest county, Budapest"
+      "location": "Pest county"
     },
     {
       "job_id": "3045558",
@@ -789,6 +827,36 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3034449",
+      "title": "Senior AI Engineer with Databricks experience_Europe_Contractor",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/senior-ai-engineer-with-databricks-experience-europe-contractor-hiflylabs-zrt-3034449",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3034385",
+      "title": "Senior Data Engineer (Contract)",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-3034385",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
+    },
+    {
+      "job_id": "3034410",
+      "title": "Senior Databricks Data Engineer",
+      "company": "Hiflylabs Zrt.",
+      "url": "https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-budapest-3034410",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "senior",
+      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3034378",
@@ -1433,13 +1501,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-25T05:42:29.352240+00:00",
-      "status": "success",
-      "active_count": 66,
-      "new_count": 3,
-      "expired_count": 1
-    },
-    {
       "completed_at": "2026-10-26T05:48:00.627924+00:00",
       "status": "success",
       "active_count": 64,
@@ -1640,6 +1701,13 @@
       "status": "degraded",
       "active_count": 129,
       "new_count": 3,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-24T05:37:23.605782+00:00",
+      "status": "degraded",
+      "active_count": 134,
+      "new_count": 5,
       "expired_count": 0
     }
   ],
