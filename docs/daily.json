@@ -1,31 +1,31 @@
 {
-  "report_date": "2026-11-24",
-  "updated_at": "2026-11-24 06:37 CET",
+  "report_date": "2026-11-25",
+  "updated_at": "2026-11-25 06:43 CET",
   "status": "degraded",
-  "active_total": 134,
-  "new_total": 5,
+  "active_total": 138,
+  "new_total": 4,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
   "failed_searches": [
     "quantitative analyst"
   ],
-  "junior_total": 12,
-  "hybrid_remote_total": 67,
+  "junior_total": 13,
+  "hybrid_remote_total": 69,
   "role_families": {
     "data-engineering": 55,
-    "data-science-ml": 46,
-    "analyst-bi": 30,
+    "data-science-ml": 48,
+    "analyst-bi": 32,
     "quant-risk": 3
   },
   "top_locations": [
     [
       "Pest county",
-      69
+      70
     ],
     [
       "Pest county, Budapest",
-      23
+      24
     ],
     [
       "Pest county, Törökbálint",
@@ -40,42 +40,42 @@
       7
     ],
     [
-      "Pest county, Budaörs",
+      "Csongrád-Csanád county, Szeged",
       3
     ],
     [
-      "Csongrád-Csanád county, Szeged",
-      2
+      "Pest county, Budaörs",
+      3
     ],
     [
       "Pest county, Üllő",
       2
     ],
     [
-      "Pest county, Debrecen",
+      "Külföld",
       2
     ],
     [
-      "Pest county, Dunaharaszti",
-      1
+      "Pest county, Debrecen",
+      2
     ]
   ],
   "top_skills": [
     [
       "English",
-      123
+      127
     ],
     [
       "Python",
-      87
+      88
     ],
     [
       "SQL",
-      63
+      64
     ],
     [
       "Azure",
-      54
+      55
     ],
     [
       "AWS",
@@ -86,12 +86,12 @@
       29
     ],
     [
-      "Machine learning",
-      23
+      "Power BI",
+      25
     ],
     [
-      "Power BI",
-      23
+      "Machine learning",
+      24
     ],
     [
       "Docker",
@@ -99,7 +99,7 @@
     ],
     [
       "Excel",
-      7
+      8
     ],
     [
       "GCP",
@@ -112,48 +112,39 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3057061",
+      "job_id": "3058338",
       "title": "Business Intelligence Analyst",
       "company": "VAT Vakuumventile AG",
-      "url": "https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3057061",
+      "url": "https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3058338",
       "family": "analyst-bi",
       "work_mode": "",
       "location": "Külföld"
     },
     {
-      "job_id": "3057807",
-      "title": "Senior AI Engineer with Databricks experience_Europe_Contractor",
-      "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-ai-engineer-with-databricks-experience-europe-contractor-hiflylabs-zrt-3057807",
+      "job_id": "3058015",
+      "title": "Data scientist",
+      "company": "Patterns Consulting Kft",
+      "url": "https://www.profession.hu/allas/data-scientist-patterns-consulting-kft-budapest-3058015",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3058840",
+      "title": "Machine Learning Internship",
+      "company": "Mozaik Kiadó Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-internship-mozaik-kiado-kft-szeged-3058840",
       "family": "data-science-ml",
       "work_mode": "",
-      "location": "Pest county"
+      "location": "Csongrád-Csanád county, Szeged"
     },
     {
-      "job_id": "3057755",
-      "title": "Senior Data Engineer",
-      "company": "NEXTENT Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-nextent-zrt-3057755",
-      "family": "data-engineering",
-      "work_mode": "",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3057782",
-      "title": "Senior Data Engineer (Contract)",
-      "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-contract-hiflylabs-zrt-3057782",
-      "family": "data-engineering",
+      "job_id": "3058771",
+      "title": "Senior Data Analyst (Evening Shift)",
+      "company": "Cushman & Wakefield Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-analyst-evening-shift-cushman-wakefield-kft-3058771",
+      "family": "analyst-bi",
       "work_mode": "Hibrid",
-      "location": "Pest county"
-    },
-    {
-      "job_id": "3057806",
-      "title": "Senior Databricks Data Engineer",
-      "company": "Hiflylabs Zrt.",
-      "url": "https://www.profession.hu/allas/senior-databricks-data-engineer-hiflylabs-zrt-3057806",
-      "family": "data-engineering",
-      "work_mode": "",
       "location": "Pest county"
     }
   ],
@@ -275,28 +266,18 @@
       "url": "https://www.profession.hu/allas/business-intelligence-bi-analyst-cushman-wakefield-kft-3050860",
       "family": "analyst-bi",
       "work_mode": "",
-      "seniority": "1-3 years experience",
+      "seniority": "professional experience is not required",
       "location": "Pest county"
     },
     {
-      "job_id": "3057061",
+      "job_id": "3058338",
       "title": "Business Intelligence Analyst",
       "company": "VAT Vakuumventile AG",
-      "url": "https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3057061",
+      "url": "https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3058338",
       "family": "analyst-bi",
       "work_mode": "",
       "seniority": "1-3 years experience",
       "location": "Külföld"
-    },
-    {
-      "job_id": "3035245",
-      "title": "CRM and Commercial Data Analyst",
-      "company": "POS Partner Payment Zrt.",
-      "url": "https://www.profession.hu/allas/crm-and-commercial-data-analyst-pos-partner-payment-zrt-budapest-3035245",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "seniority": "3-5 years experience",
-      "location": "Pest county, Budapest"
     },
     {
       "job_id": "3050813",
@@ -419,6 +400,16 @@
       "location": "Pest county, Budaörs"
     },
     {
+      "job_id": "3058015",
+      "title": "Data scientist",
+      "company": "Patterns Consulting Kft",
+      "url": "https://www.profession.hu/allas/data-scientist-patterns-consulting-kft-budapest-3058015",
+      "family": "data-science-ml",
+      "work_mode": "Hibrid",
+      "seniority": "1-3 years experience",
+      "location": "Pest county, Budapest"
+    },
+    {
       "job_id": "3045583",
       "title": "Developer Data Engineer",
       "company": "Magyar Telekom Nyrt.",
@@ -507,6 +498,16 @@
       "work_mode": "Hibrid",
       "seniority": "junior",
       "location": "Pest county"
+    },
+    {
+      "job_id": "3058840",
+      "title": "Machine Learning Internship",
+      "company": "Mozaik Kiadó Kft.",
+      "url": "https://www.profession.hu/allas/machine-learning-internship-mozaik-kiado-kft-szeged-3058840",
+      "family": "data-science-ml",
+      "work_mode": "",
+      "seniority": "junior",
+      "location": "Csongrád-Csanád county, Szeged"
     },
     {
       "job_id": "3040657",
@@ -649,10 +650,10 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3034838",
+      "job_id": "3058771",
       "title": "Senior Data Analyst (Evening Shift)",
       "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-analyst-evening-shift-cushman-wakefield-kft-3034838",
+      "url": "https://www.profession.hu/allas/senior-data-analyst-evening-shift-cushman-wakefield-kft-3058771",
       "family": "analyst-bi",
       "work_mode": "Hibrid",
       "seniority": "senior",
@@ -827,6 +828,36 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3057061",
+      "title": "Business Intelligence Analyst",
+      "company": "VAT Vakuumventile AG",
+      "url": "https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3057061",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Külföld"
+    },
+    {
+      "job_id": "3035245",
+      "title": "CRM and Commercial Data Analyst",
+      "company": "POS Partner Payment Zrt.",
+      "url": "https://www.profession.hu/allas/crm-and-commercial-data-analyst-pos-partner-payment-zrt-budapest-3035245",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "3-5 years experience",
+      "location": "Pest county, Budapest"
+    },
+    {
+      "job_id": "3034838",
+      "title": "Senior Data Analyst (Evening Shift)",
+      "company": "Cushman & Wakefield Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-analyst-evening-shift-cushman-wakefield-kft-3034838",
+      "family": "analyst-bi",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county"
     },
     {
       "job_id": "3034449",
@@ -1501,13 +1532,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-26T05:48:00.627924+00:00",
-      "status": "success",
-      "active_count": 64,
-      "new_count": 2,
-      "expired_count": 4
-    },
-    {
       "completed_at": "2026-10-27T05:38:41.317731+00:00",
       "status": "success",
       "active_count": 64,
@@ -1708,6 +1732,13 @@
       "status": "degraded",
       "active_count": 134,
       "new_count": 5,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-25T05:43:23.666737+00:00",
+      "status": "degraded",
+      "active_count": 138,
+      "new_count": 4,
       "expired_count": 0
     }
   ],
