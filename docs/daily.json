@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-25",
-  "updated_at": "2026-11-25 06:43 CET",
+  "report_date": "2026-11-26",
+  "updated_at": "2026-11-26 06:49 CET",
   "status": "degraded",
-  "active_total": 138,
-  "new_total": 4,
+  "active_total": 140,
+  "new_total": 2,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -11,9 +11,9 @@
     "quantitative analyst"
   ],
   "junior_total": 13,
-  "hybrid_remote_total": 69,
+  "hybrid_remote_total": 70,
   "role_families": {
-    "data-engineering": 55,
+    "data-engineering": 57,
     "data-science-ml": 48,
     "analyst-bi": 32,
     "quant-risk": 3
@@ -29,15 +29,15 @@
     ],
     [
       "Pest county, Törökbálint",
-      9
+      10
     ],
     [
       "Pest county, Szeged",
-      8
+      9
     ],
     [
       "Pest county, Pécs",
-      7
+      6
     ],
     [
       "Csongrád-Csanád county, Szeged",
@@ -63,23 +63,23 @@
   "top_skills": [
     [
       "English",
-      127
+      129
     ],
     [
       "Python",
-      88
+      90
     ],
     [
       "SQL",
-      64
+      65
     ],
     [
       "Azure",
-      55
+      56
     ],
     [
       "AWS",
-      40
+      41
     ],
     [
       "Spark",
@@ -87,7 +87,7 @@
     ],
     [
       "Power BI",
-      25
+      26
     ],
     [
       "Machine learning",
@@ -112,40 +112,22 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3058338",
-      "title": "Business Intelligence Analyst",
-      "company": "VAT Vakuumventile AG",
-      "url": "https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3058338",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "location": "Külföld"
-    },
-    {
-      "job_id": "3058015",
-      "title": "Data scientist",
-      "company": "Patterns Consulting Kft",
-      "url": "https://www.profession.hu/allas/data-scientist-patterns-consulting-kft-budapest-3058015",
-      "family": "data-science-ml",
+      "job_id": "3059529",
+      "title": "Senior Data Engineer",
+      "company": "Yettel Hungary Ltd.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-yettel-hungary-ltd-torokbalint-3059529",
+      "family": "data-engineering",
       "work_mode": "Hibrid",
-      "location": "Pest county, Budapest"
+      "location": "Pest county, Törökbálint"
     },
     {
-      "job_id": "3058840",
-      "title": "Machine Learning Internship",
-      "company": "Mozaik Kiadó Kft.",
-      "url": "https://www.profession.hu/allas/machine-learning-internship-mozaik-kiado-kft-szeged-3058840",
-      "family": "data-science-ml",
+      "job_id": "3059548",
+      "title": "Senior Data Engineer (m/f/d) Power Platform",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-m-f-d-power-platform-deutsche-telekom-tsi-hungary-kft-szeged-3059548",
+      "family": "data-engineering",
       "work_mode": "",
-      "location": "Csongrád-Csanád county, Szeged"
-    },
-    {
-      "job_id": "3058771",
-      "title": "Senior Data Analyst (Evening Shift)",
-      "company": "Cushman & Wakefield Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-analyst-evening-shift-cushman-wakefield-kft-3058771",
-      "family": "analyst-bi",
-      "work_mode": "Hibrid",
-      "location": "Pest county"
+      "location": "Pest county, Szeged"
     }
   ],
   "active_jobs": [
@@ -153,11 +135,11 @@
       "job_id": "3040109",
       "title": "AI Engineer (AWS) (all genders)",
       "company": "Adesso business consulting Kft.",
-      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-pecs-3040109",
+      "url": "https://www.profession.hu/allas/ai-engineer-aws-all-genders-adesso-business-consulting-kft-gyor-3040109",
       "family": "data-science-ml",
       "work_mode": "Hibrid",
       "seniority": "3-5 years experience",
-      "location": "Pest county, Pécs"
+      "location": "Pest county, Győr"
     },
     {
       "job_id": "3049850",
@@ -246,7 +228,7 @@
       "url": "https://www.profession.hu/allas/bi-developer-data-engineer-blackbelt-technology-kft-3055245",
       "family": "data-engineering",
       "work_mode": "Hibrid",
-      "seniority": "professional experience is not required",
+      "seniority": "1-3 years experience",
       "location": "Pest county"
     },
     {
@@ -268,16 +250,6 @@
       "work_mode": "",
       "seniority": "professional experience is not required",
       "location": "Pest county"
-    },
-    {
-      "job_id": "3058338",
-      "title": "Business Intelligence Analyst",
-      "company": "VAT Vakuumventile AG",
-      "url": "https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3058338",
-      "family": "analyst-bi",
-      "work_mode": "",
-      "seniority": "1-3 years experience",
-      "location": "Külföld"
     },
     {
       "job_id": "3050813",
@@ -720,6 +692,16 @@
       "location": "Pest county"
     },
     {
+      "job_id": "3059529",
+      "title": "Senior Data Engineer",
+      "company": "Yettel Hungary Ltd.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-yettel-hungary-ltd-torokbalint-3059529",
+      "family": "data-engineering",
+      "work_mode": "Hibrid",
+      "seniority": "senior",
+      "location": "Pest county, Törökbálint"
+    },
+    {
       "job_id": "3057782",
       "title": "Senior Data Engineer (Contract)",
       "company": "Hiflylabs Zrt.",
@@ -740,12 +722,12 @@
       "location": "Pest county, Szeged"
     },
     {
-      "job_id": "3052559",
-      "title": "Senior Data Engineer - Power Platform",
+      "job_id": "3059548",
+      "title": "Senior Data Engineer (m/f/d) Power Platform",
       "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-deutsche-telekom-tsi-hungary-kft-szeged-3052559",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-m-f-d-power-platform-deutsche-telekom-tsi-hungary-kft-szeged-3059548",
       "family": "data-engineering",
-      "work_mode": "Távmunka",
+      "work_mode": "",
       "seniority": "senior",
       "location": "Pest county, Szeged"
     },
@@ -828,6 +810,26 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3058338",
+      "title": "Business Intelligence Analyst",
+      "company": "VAT Vakuumventile AG",
+      "url": "https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3058338",
+      "family": "analyst-bi",
+      "work_mode": "",
+      "seniority": "1-3 years experience",
+      "location": "Külföld"
+    },
+    {
+      "job_id": "3052559",
+      "title": "Senior Data Engineer - Power Platform",
+      "company": "Deutsche Telekom TSI Hungary Kft.",
+      "url": "https://www.profession.hu/allas/senior-data-engineer-power-platform-deutsche-telekom-tsi-hungary-kft-szeged-3052559",
+      "family": "data-engineering",
+      "work_mode": "Távmunka",
+      "seniority": "senior",
+      "location": "Pest county, Szeged"
     },
     {
       "job_id": "3057061",
@@ -1532,13 +1534,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-27T05:38:41.317731+00:00",
-      "status": "success",
-      "active_count": 64,
-      "new_count": 1,
-      "expired_count": 1
-    },
-    {
       "completed_at": "2026-10-28T05:44:21.873972+00:00",
       "status": "success",
       "active_count": 63,
@@ -1739,6 +1734,13 @@
       "status": "degraded",
       "active_count": 138,
       "new_count": 4,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-26T05:49:30.381237+00:00",
+      "status": "degraded",
+      "active_count": 140,
+      "new_count": 2,
       "expired_count": 0
     }
   ],

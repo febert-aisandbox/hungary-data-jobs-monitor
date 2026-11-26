@@ -1,14 +1,12 @@
-**Hungary data jobs — 2026-11-25**
+**Hungary data jobs — 2026-11-26**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **138** · New: **4** · No longer observed: **0**
-Junior/internship: **13** · Hybrid/remote: **69**
-Role mix: data\-engineering: 55, data\-science\-ml: 48, analyst\-bi: 32, quant\-risk: 3
+Observed: **140** · New: **2** · No longer observed: **0**
+Junior/internship: **13** · Hybrid/remote: **70**
+Role mix: data\-engineering: 57, data\-science\-ml: 48, analyst\-bi: 32, quant\-risk: 3
 
 **Noteworthy new listings**
-- [Business Intelligence Analyst](https://www.profession.hu/allas/business-intelligence-analyst-vat-vakuumventile-ag-3058338) — VAT Vakuumventile AG \(Külföld\)
-- [Data scientist](https://www.profession.hu/allas/data-scientist-patterns-consulting-kft-budapest-3058015) — Patterns Consulting Kft \(Pest county, Budapest\)
-- [Machine Learning Internship](https://www.profession.hu/allas/machine-learning-internship-mozaik-kiado-kft-szeged-3058840) — Mozaik Kiadó Kft\. \(Csongrád\-Csanád county, Szeged\)
-- [Senior Data Analyst \(Evening Shift\)](https://www.profession.hu/allas/senior-data-analyst-evening-shift-cushman-wakefield-kft-3058771) — Cushman & Wakefield Kft\. \(Pest county\)
+- [Senior Data Engineer](https://www.profession.hu/allas/senior-data-engineer-yettel-hungary-ltd-torokbalint-3059529) — Yettel Hungary Ltd\. \(Pest county, Törökbálint\)
+- [Senior Data Engineer \(m/f/d\) Power Platform](https://www.profession.hu/allas/senior-data-engineer-m-f-d-power-platform-deutsche-telekom-tsi-hungary-kft-szeged-3059548) — Deutsche Telekom TSI Hungary Kft\. \(Pest county, Szeged\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
