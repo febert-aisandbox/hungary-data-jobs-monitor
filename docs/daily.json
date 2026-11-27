@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-11-26",
-  "updated_at": "2026-11-26 06:49 CET",
+  "report_date": "2026-11-27",
+  "updated_at": "2026-11-27 06:40 CET",
   "status": "degraded",
-  "active_total": 140,
-  "new_total": 2,
+  "active_total": 141,
+  "new_total": 1,
   "expired_total": 0,
   "completed_queries": 10,
   "expected_queries": 11,
@@ -13,7 +13,7 @@
   "junior_total": 13,
   "hybrid_remote_total": 70,
   "role_families": {
-    "data-engineering": 57,
+    "data-engineering": 58,
     "data-science-ml": 48,
     "analyst-bi": 32,
     "quant-risk": 3
@@ -63,7 +63,7 @@
   "top_skills": [
     [
       "English",
-      129
+      130
     ],
     [
       "Python",
@@ -112,22 +112,13 @@
   ],
   "new_jobs": [
     {
-      "job_id": "3059529",
-      "title": "Senior Data Engineer",
-      "company": "Yettel Hungary Ltd.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-yettel-hungary-ltd-torokbalint-3059529",
-      "family": "data-engineering",
-      "work_mode": "Hibrid",
-      "location": "Pest county, Törökbálint"
-    },
-    {
-      "job_id": "3059548",
-      "title": "Senior Data Engineer (m/f/d) Power Platform",
-      "company": "Deutsche Telekom TSI Hungary Kft.",
-      "url": "https://www.profession.hu/allas/senior-data-engineer-m-f-d-power-platform-deutsche-telekom-tsi-hungary-kft-szeged-3059548",
+      "job_id": "3059762",
+      "title": "Data Engineer",
+      "company": "Bosch Group",
+      "url": "https://www.profession.hu/allas/data-engineer-bosch-group-3059762",
       "family": "data-engineering",
       "work_mode": "",
-      "location": "Pest county, Szeged"
+      "location": "Heves county"
     }
   ],
   "active_jobs": [
@@ -262,16 +253,6 @@
       "location": "Pest county"
     },
     {
-      "job_id": "3038438",
-      "title": "Data Engineer",
-      "company": "Bosch Group",
-      "url": "https://www.profession.hu/allas/data-engineer-bosch-group-maklar-3038438",
-      "family": "data-engineering",
-      "work_mode": "Távmunka",
-      "seniority": "5-10 years experience",
-      "location": "Heves county, Maklár"
-    },
-    {
       "job_id": "3043724",
       "title": "Data Engineer",
       "company": "Magyar Telekom Nyrt.",
@@ -300,6 +281,16 @@
       "work_mode": "",
       "seniority": "senior",
       "location": "Pest county"
+    },
+    {
+      "job_id": "3059762",
+      "title": "Data Engineer",
+      "company": "Bosch Group",
+      "url": "https://www.profession.hu/allas/data-engineer-bosch-group-3059762",
+      "family": "data-engineering",
+      "work_mode": "",
+      "seniority": "3-5 years experience",
+      "location": "Heves county"
     },
     {
       "job_id": "3052545",
@@ -810,6 +801,16 @@
       "work_mode": "",
       "seniority": "3-5 years experience",
       "location": "Hajdú-Bihar county"
+    },
+    {
+      "job_id": "3038438",
+      "title": "Data Engineer",
+      "company": "Bosch Group",
+      "url": "https://www.profession.hu/allas/data-engineer-bosch-group-maklar-3038438",
+      "family": "data-engineering",
+      "work_mode": "Távmunka",
+      "seniority": "5-10 years experience",
+      "location": "Heves county, Maklár"
     },
     {
       "job_id": "3058338",
@@ -1534,13 +1535,6 @@
   ],
   "history": [
     {
-      "completed_at": "2026-10-28T05:44:21.873972+00:00",
-      "status": "success",
-      "active_count": 63,
-      "new_count": 2,
-      "expired_count": 3
-    },
-    {
       "completed_at": "2026-10-29T05:50:05.980076+00:00",
       "status": "success",
       "active_count": 63,
@@ -1741,6 +1735,13 @@
       "status": "degraded",
       "active_count": 140,
       "new_count": 2,
+      "expired_count": 0
+    },
+    {
+      "completed_at": "2026-11-27T05:40:21.533730+00:00",
+      "status": "degraded",
+      "active_count": 141,
+      "new_count": 1,
       "expired_count": 0
     }
   ],
