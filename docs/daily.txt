@@ -1,11 +1,8 @@
-**Hungary data jobs — 2026-11-27**
+**Hungary data jobs — 2026-11-28**
 ⚠️ Partial coverage: **10/11 searches** completed; no expirations were recorded.
-Observed: **141** · New: **1** · No longer observed: **0**
+Observed: **141** · New: **0** · No longer observed: **0**
 Junior/internship: **13** · Hybrid/remote: **70**
 Role mix: data\-engineering: 58, data\-science\-ml: 48, analyst\-bi: 32, quant\-risk: 3
-
-**Noteworthy new listings**
-- [Data Engineer](https://www.profession.hu/allas/data-engineer-bosch-group-3059762) — Bosch Group \(Heves county\)
 
 [Full market dashboard](https://febert-aisandbox.github.io/hungary-data-jobs-monitor/)
 _Counts are advertisements, deduplicated by Profession.hu ID; they are not hires._
